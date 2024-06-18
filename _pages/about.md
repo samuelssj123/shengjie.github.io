@@ -6,9 +6,9 @@ redirect_from:
   - /about.html
 ---
 
-Shengjie Song is currently an undergraduate student in [BIBS](https://bibs.bnu.edu.cn/) at Beijing Normal University. Born at Qingdao, Shandong, China. His major is Financial Technology and his research interests include asset pricing, financial economy, the intersection of computer science and finance.
+Shengjie Song is currently an undergraduate student in [BIBS](https://bibs.bnu.edu.cn/) at Beijing Normal University. Born at Qingdao, Shandong, China. His major is Financial Technology and he is interested in history, education, technology, economics, and art. He has a 3.9/4.0 GPA during his undergraduate studies, was the top student in the college, and received a National Scholarship. He is dedicated to finding interesting and innovative ideas from seemingly boring observations and is currently applying for graduate school.
 
-If you want more detailed information, please [email](mailto:sjs@mail.bnu.edu.cn) at me.
+If you want more detailed information, please [email](mailto:sjs@mail.bnu.edu.cn) at me. 
 
 Research Interests
 ====
