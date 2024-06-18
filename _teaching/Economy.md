@@ -15,7 +15,7 @@ Macroeconomics
 ---
 Videos: Please click [here](https://www.bilibili.com/video/BV1b1421o7Yp/)
 
-Handout: Download [here](file/宏观经济学讲义by宋圣洁.pdf)
+Handout: Download [here](https://shengjie.github.io/file/宏观经济学讲义by宋圣洁.pdf)
 
 Industrial Organization
 ---
