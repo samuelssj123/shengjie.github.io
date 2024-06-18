@@ -9,6 +9,8 @@ date: 2024-04-30
 
 Core Curriculum: *Calculus, Linear Algebra, Probability Theory and Mathematical Statistics, Real Variable Function, Operations Research(OR)*
 
+From 2022 to 2024.
+
 Basic Course
 ======
 [Calculus](https://www.bilibili.com/video/BV1Q7421f7jn/)
