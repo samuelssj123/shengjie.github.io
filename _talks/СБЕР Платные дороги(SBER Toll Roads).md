@@ -5,7 +5,6 @@ type: "International Communication"
 permalink: /talks/СБЕР Платные дороги(SBER Toll Roads)
 venue: "Russia"
 date: 2024-05-10
-location: China and Russia
 ---
 
 It was a transnational co-operative project where he and his team members worked together to complete a research on toll road projects in Russia.
