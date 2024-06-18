@@ -4,7 +4,7 @@ collection: teaching
 type: Online Course
 permalink: /teaching/Maths
 venue: Bilibili
-date: 2024-04-30
+date: 2024-04-28
 ---
 
 Core Curriculum: *Calculus, Linear Algebra, Probability Theory and Mathematical Statistics, Real Variable Function, Operations Research(OR)*
