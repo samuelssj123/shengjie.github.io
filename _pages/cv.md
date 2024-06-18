@@ -23,46 +23,41 @@ Academic
  
   * The First Prize Scholarship (Top 10% of the school, highest academic honor at BNU) [Click]({{site.url}}/file/京师一等奖学金.pdf)
 
-
-
-
 Working
 ---
 He often work as a teaching assistant in high school and English-learning institutions, for example,
 
-  * Language Teaching
+  * Chinese Teaching  [Click]({{site.url}}/file/【教育实习】乘风语文实习.pdf)
 
-  * English Language Teaching
+  * English Teaching
 
-  * Arts Teaching
+  * Arts Teaching [Click]({{site.url}}/file/【教育实习】宋圣洁实习证明.pdf)
   
 Volunteering
 ---
 
-* the 3rd Boao Forum
+* the 3rd Boao Forum  [Click]({{site.url}}/file/2023年10月+优秀志愿者+博鳌亚洲论坛.pdf)
 
-* the sixth China’s Educational Innovation Expo
+* the sixth China’s Educational Innovation Expo  [Click]({{site.url}}/file/教博会.pdf)
 
 Qualification
 ---
-* Accounting Professional and Technical Qualification Certificate (Junior)
+* Accounting Professional and Technical Qualification Certificate (Junior)  [Click]({{site.url}}/file/初级会计.pdf)
 
-* Student Union’s General Affairs Minister
+* Student Union’s General Affairs Minister [Click]({{site.url}}/file/教育培训部部门负责人证明.pdf)
 
-* Higher Secondary Mathematics & English Teaching Qualifications
+* Higher Secondary [Mathematics]({{site.url}}/file/数学教师.pdf) & [English]({{site.url}}/file/英语教师.pdf) Teaching Qualifications 
 
 Language
 ---
 * IELTS 6.5 (Listening6.5, Reading7, Speaking6.5, Writing6.5) [Click]({{site.url}}/file/雅思成绩单.pdf)
 
-* Mandarin primary-level B certificate (Native speaker)
+* Mandarin primary-level B certificate (Native speaker) [Click]({{site.url}}/file/普通话一级乙等.pdf)
 
 * Japanese (Beginner)
 
 Interests
 ---
-* He loves Interdisciplinary Learning, for example, he attending lectures on Introduction to Mathematical Theory on Fluids (got score [98](({{site.url}}/file/雅思成绩单.pdf)))
+* He loves Interdisciplinary Learning, for example, he attending lectures on Introduction to Mathematical Theory on Fluids (got score [98]({{site.url}}/file/数学系列讲座3.pdf)), Modes and Approximate Standard Types (got score [95]({{site.url}}/file/数学系列讲座1.pdf)), Faculty of Humanities of the University of Macau (successfully participation as [speaker](({{site.url}}/file/澳门大学.pdf))).
+* Life: Travelling (Travelled to more than 30 cities in China); Sports and Bodybuilding (Badminton, Table Tennis etc.)
 
-  * Modes and Approximate Standard Types
-    
-  * Faculty of Humanities of the University of Macau
