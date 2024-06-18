@@ -27,7 +27,9 @@ Learning
 He loves Interdisciplinary Learning, for example, he attending lectures on 
 
   * Introduction to Mathematical Theory on Fluids
+
   * Modes and Approximate Standard Types
+    
   * Faculty of Humanities of the University of Macau
 
 Working
