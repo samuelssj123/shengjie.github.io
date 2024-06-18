@@ -2,7 +2,7 @@
 title: "Computer Science"
 collection: teaching
 permalink: /teaching/Computer Science
-date: 2024
+date: 2024-05-31
 ---
 
 Core Curriculum: *Data Structure, Algorithm Design and Analysis, JAVA Progarmming, Python Programming*
