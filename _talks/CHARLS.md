@@ -1,11 +1,10 @@
 ---
 title: "CHARLS"
 collection: talks
-type: "Tutorial"
-permalink: /talks/2013-03-01-tutorial-1
-venue: "UC-Berkeley Institute for Testing Science"
-date: 2013-03-01
-location: "Berkeley CA, USA"
+type: "Field Research"
+permalink: /talks/CHARLS
+venue: "Shandong&Guangdong Province,China"
+date: 2022-10-31
 ---
 
 You can click [here]({{site.url}}/file/2022年9月+优秀队伍+北京大学CHARLS.pdf) to view my certification and verified [here](https://charls.pku.edu.cn/info/1131/1802.htm).
