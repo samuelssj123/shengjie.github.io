@@ -7,7 +7,7 @@ venue: "Shenzhen, China"
 date: 2023-11-30
 ---
 
-He was responsible for overseas macroeconomic research at securities firms and assisted securities analysts in the production of world macroeconomic analysis.
+He was responsible for overseas macroeconomic research at securities firms and assisted securities analysts in the production of world macroeconomic analysis. He did this work from Aug to Nov.
 
 You can view his certification by clicking [here]({{site.url}}/file/德邦证券券商实习.pdf).
 
