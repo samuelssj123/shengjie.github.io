@@ -9,7 +9,7 @@ date: 2023-11-30
 
 He was responsible for overseas macroeconomic research at securities firms and assisted securities analysts in the production of world macroeconomic analysis. He did this work from Aug to Nov.
 
-You can view his certification by clicking [here]({{site.url}}/file/德邦证券实习证明隐私.pdf).
+You can view his certification by clicking [here]({{site.url}}/file/德邦证券实习证明隐私.pdf), and you can know more about [Topsperity Securities](https://www.tebon.com.cn/main/index.html).
 
 Contribution
 ---
