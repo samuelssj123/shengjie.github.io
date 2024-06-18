@@ -2,6 +2,7 @@
 title: "Economy"
 type: Online Course
 collection: teaching
+venue: Bilibili
 permalink: /teaching/Economy
 date: 2023-12-31
 ---
