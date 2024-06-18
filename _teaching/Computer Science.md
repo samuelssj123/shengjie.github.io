@@ -12,7 +12,7 @@ Core Curriculum: *Data Structure, Algorithm Design and Analysis, JAVA Progarmmin
 From 2023 to 2024.
 
 Data Structure
-======
+---
 [Linear Table](https://www.bilibili.com/video/BV1nk4y1c7Hp/)
 
 [Stack, Queue, Array](https://www.bilibili.com/video/BV18H4y1U7T8/)
@@ -26,7 +26,7 @@ Data Structure
 [Review](https://www.bilibili.com/video/BV1J5411z7DE/)
 
 Algorithm Design and Analysis
-======
+---
 [Recursive and Partitioning Strategies](https://www.bilibili.com/video/BV1hE421u7hs/)
 
 [Dynamic Programming](https://www.bilibili.com/video/BV1vD421T7q9/)
@@ -34,11 +34,11 @@ Algorithm Design and Analysis
 [Greedy Algorithms](https://www.bilibili.com/video/BV1cz421h7SJ/)
 
 Machine Learning
-======
+---
 [Machine Learning (R language)](https://www.bilibili.com/video/BV1b8411Z7iH/)
 
 Progarmming
-======
+---
 [JAVA](https://www.bilibili.com/video/BV1AM4y1e7va/)
 
 [Python](https://www.bilibili.com/video/BV1YW4y1X75V/)
