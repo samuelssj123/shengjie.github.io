@@ -1,12 +1,11 @@
 ---
-title: "Maths"
+title: "Introduction to Algorithms"
 collection: teaching
 permalink: /teaching/2014-spring-teaching-1
-date: 2014-01-01
-location: "City, Country"
+date: 2024-05
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+[Greedy Alogrithms](https://www.bilibili.com/video/BV1cz421h7SJ/)
 
 Heading 1
 ======
