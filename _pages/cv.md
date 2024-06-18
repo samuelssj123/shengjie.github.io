@@ -58,6 +58,6 @@ Language
 
 Interests
 ---
-* He loves Interdisciplinary Learning, for example, he attending lectures on Introduction to Mathematical Theory on Fluids (got score [98]({{site.url}}/file/数学系列讲座3.pdf)), Modes and Approximate Standard Types (got score [95]({{site.url}}/file/数学系列讲座1.pdf)), Faculty of Humanities of the University of Macau (successfully participation as [speaker](({{site.url}}/file/澳门大学.pdf))).
+* He loves Interdisciplinary Learning, for example, he attending lectures on Introduction to Mathematical Theory on Fluids (got score [98]({{site.url}}/file/数学系列讲座3.pdf)), Modes and Approximate Standard Types (got score [95]({{site.url}}/file/数学系列讲座1.pdf)), Faculty of Humanities of the University of Macau (successfully participation as [speaker]({{site.url}}/file/澳门大学.pdf)).
 * Life: Travelling (Travelled to more than 30 cities in China); Sports and Bodybuilding (Badminton, Table Tennis etc.)
 
