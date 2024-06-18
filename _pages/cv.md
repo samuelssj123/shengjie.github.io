@@ -59,7 +59,7 @@ Qualification
 
 Language
 ---
-* IELTS 6.5 (Listening6.5, Reading7, Speaking6.5, Writing6.5) [Click]({{site.url}}/file/雅思成绩单-副本.pdf)
+* IELTS 6.5 (Listening6.5, Reading7, Speaking6.5, Writing6.5) [Click]({{site.url}}/file/雅思成绩单.pdf)
 
 * Mandarin primary-level B certificate (Native speaker)
 
