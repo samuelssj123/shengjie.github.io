@@ -20,7 +20,7 @@ Blockchain and Digital Assets
 ---
 Online Course Videos: Click [here](https://www.bilibili.com/video/BV16r421u7PG/)
 
-Course Handouts: Click [here]({{site.url}}/files/Handout_of_Block_Chain.pdf)
+Course Handouts: Click [here]({{site.url}}/file/Handout_of_Block_Chain.pdf)
 
 Financial Engineering
 ---
