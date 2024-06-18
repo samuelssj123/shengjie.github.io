@@ -7,7 +7,7 @@ permalink: /teaching/Finance Technology
 date: 2024-04-30
 ---
 
-Core Curriculum: *Financial Big Data Analysis, Blockchain and Digital Assets, Financial Engineering, Corporate Finance, Fintech Theory and Practice, Investment Science, International Finance*
+Core Curriculum: *Financial Big Data Analysis, Blockchain and Digital Assets, Financial Engineering, Corporate Finance, Fintech Theory and Practice, Investment, International Finance*
 
 From 2022 to 2024.
 
