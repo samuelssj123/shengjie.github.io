@@ -20,11 +20,31 @@ Course Handouts: Click [here](https://shengjie.github.io/files/区块链与数�
 
 Financial Engineering
 ======
-Corporate Finance
+[Forwards, Futures](https://www.bilibili.com/video/BV1i8411v7jP/)
+
+[Swaps](https://www.bilibili.com/video/BV1HQ4y1g7YH/)
+
+[Options](https://www.bilibili.com/video/BV1vN411L78h/)
+
+[Review](https://www.bilibili.com/video/BV1yQ4y1u78P/)
+
+Investment
 ======
-Fintech Theory and Practice
+[Section 1](https://www.bilibili.com/video/BV1Ng4y197zk/)
+
+[Section 2](https://www.bilibili.com/video/BV1xa4y1r71Y/)
+
+[Review](https://www.bilibili.com/video/BV1pC4y1T75V/)
+
+Financial Technology Fundamentals 
 ======
-Investment Science
-======
-International Finance
-======
+[Corporate Finance](https://www.bilibili.com/video/BV1XN411C75G/)
+
+[Fintech Theory and Practice](https://www.bilibili.com/video/BV1Po4y1W7W3/)
+
+[International Finance](https://www.bilibili.com/video/BV12P411D7wK/)
+
+
+
+
+
