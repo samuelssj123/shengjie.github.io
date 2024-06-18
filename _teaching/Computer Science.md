@@ -2,6 +2,7 @@
 title: "Computer Science"
 type: Online Course
 collection: teaching
+venue： Bilibili
 permalink: /teaching/Computer Science
 date: 2024-06-05
 ---
