@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Work Life Balance"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,56 +9,58 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Academic[^1]
+---
+* This is his Academic Transcript of outstanding results obtained with his deep understanding of his major.
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* His GPA was the top in the major and exceeded the second place by six points (under the percentage system).
+  
+* He received a National Scholarship and the school's highest honour.
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  * National Scholarship (Top 1% of the university, highest scholarship from Ministry of Education of China)
+ 
+  * The First Prize Scholarship (Top 10% of the school, highest academic honor at BNU)
+
+
+Learning
+---
+He loves Interdisciplinary Learning, for example, he attending lectures on 
+
+  * Introduction to Mathematical Theory on Fluids
+  * Modes and Approximate Standard Types
+  * Faculty of Humanities of the University of Macau
+
+Working
+---
+He often work as a teaching assistant in high school and English-learning institutions, for example,
+
+  * Language Teaching
+
+  * English Language Teaching
+
+  * Arts Teaching
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+Volunteering
+---
+
+* the 3rd Boao Forum
+
+* the sixth China’s Educational Innovation Expo
+
+Qualification
+---
+* Accounting Professional and Technical Qualification Certificate (Junior)
+
+* Student Union’s General Affairs Minister
+
+* Higher Secondary Mathematics & English Teaching Qualifications
+
+Language
+---
+* IELTS 6.5 (Listening6.5, Reading7, Speaking6.5, Writing6.5)
+
+* Mandarin primary-level B certificate (Native speaker)
+
+* Japanese (Beginner)
+
+[^1] For privacy reasons, you can ask him by [email](sjs@mail.bnu.edu.cn) for the above proofs.
