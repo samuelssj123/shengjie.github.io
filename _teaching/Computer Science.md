@@ -6,7 +6,7 @@ permalink: /teaching/Computer Science
 date: 2024-05-31
 ---
 
-Core Curriculum: *Data Structure, Algorithm Design and Analysis, JAVA Progarmming, Python Programming*
+Core Curriculum: *Data Structure, Algorithm Design and Analysis, JAVA Progarmming, Python Programming, Machine learning*
 
 Data Structure
 ======
@@ -29,6 +29,9 @@ Algorithm Design and Analysis
 
 [Greedy Algorithms](https://www.bilibili.com/video/BV1cz421h7SJ/)
 
+Machine Learning
+======
+[Machine Learning (R language)](https://www.bilibili.com/video/BV1b8411Z7iH/)
 
 Progarmming
 ======
