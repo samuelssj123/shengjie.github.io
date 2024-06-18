@@ -1,5 +1,6 @@
 ---
 title: "Computer Science"
+type: Online Course
 collection: teaching
 permalink: /teaching/Computer Science
 date: 2024-05-31
