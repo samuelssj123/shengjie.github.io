@@ -11,7 +11,7 @@ redirect_from:
 
 Academic
 ---
-* This is his Academic Transcript of outstanding results obtained with his deep understanding of his major.
+* This is his Academic Transcript of outstanding results obtained with his deep understanding of his major. [Click]({{site.url}}/file/本科成绩单06.pdf)
   
 * His GPA was the top in the major and exceeded the second place by six points (under the percentage system).
   
