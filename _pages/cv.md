@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+*Note: You can click the button at the end of each lines, but you may not open successfully because some of them includes my personal information. If you are interested you can [email](mailto:sjs@mail.bnu.edu.cn) at me.*
+
 Academic
 ---
 * This is his Academic Transcript of outstanding results obtained with his deep understanding of his major. [Click]({{site.url}}/file/本科成绩单06.pdf)
