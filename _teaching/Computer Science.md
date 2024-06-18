@@ -1,7 +1,7 @@
 ---
 title: "Computer Science"
 collection: teaching
-permalink: /teaching/Introduction to Algorithm
+permalink: /teaching/Computer Science
 date: 2024
 ---
 
