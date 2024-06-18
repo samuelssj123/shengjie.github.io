@@ -20,7 +20,7 @@ Research Interests
   
 * Education
 
-EDUCATION
+Education
 ====
 * Beijing Normal University (2021.09-2025.06)  
   Finance Technology  
