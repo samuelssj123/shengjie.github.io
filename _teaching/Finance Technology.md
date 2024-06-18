@@ -12,18 +12,18 @@ Core Curriculum: *Financial Big Data Analysis, Blockchain and Digital Assets, Fi
 From 2022 to 2024.
 
 Financial Big Data Analysis
-======
+---
 
 Please click [here](https://www.bilibili.com/video/BV1uT421S7UA/) to see the online course videos, including how to use EXCEL to build portfolio and test CAPM or index model, how to use Python to perform web crawling, text analysis, data cleansing.
 
 Blockchain and Digital Assets
-======
+---
 Online Course Videos: Click [here](https://www.bilibili.com/video/BV16r421u7PG/)
 
-Course Handouts: Click [here](https://shengjie.github.io/files/Handout of Block Chain.pdf)
+Course Handouts: Click [here](shengjie.github.io/files/Handout_of_Block_Chain.pdf)
 
 Financial Engineering
-======
+---
 [Forwards, Futures](https://www.bilibili.com/video/BV1i8411v7jP/)
 
 [Swaps](https://www.bilibili.com/video/BV1HQ4y1g7YH/)
@@ -33,7 +33,7 @@ Financial Engineering
 [Review](https://www.bilibili.com/video/BV1yQ4y1u78P/)
 
 Investment
-======
+---
 [Section 1](https://www.bilibili.com/video/BV1Ng4y197zk/)
 
 [Section 2](https://www.bilibili.com/video/BV1xa4y1r71Y/)
@@ -41,7 +41,7 @@ Investment
 [Review](https://www.bilibili.com/video/BV1pC4y1T75V/)
 
 Financial Technology Fundamentals 
-======
+---
 [Corporate Finance](https://www.bilibili.com/video/BV1XN411C75G/)
 
 [Fintech Theory and Practice](https://www.bilibili.com/video/BV1Po4y1W7W3/)
