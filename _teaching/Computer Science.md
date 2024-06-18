@@ -8,6 +8,8 @@ date: 2024-05-31
 
 Core Curriculum: *Data Structure, Algorithm Design and Analysis, JAVA Progarmming, Python Programming, Machine learning*
 
+From 2023 to 2024.
+
 Data Structure
 ======
 [Linear Table](https://www.bilibili.com/video/BV1nk4y1c7Hp/)
