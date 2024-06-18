@@ -20,7 +20,7 @@ Blockchain and Digital Assets
 ======
 Online Course Videos: Click [here](https://www.bilibili.com/video/BV16r421u7PG/)
 
-Course Handouts: Click [here](https://shengjie.github.io/files/区块链与数字资产.pdf)
+Course Handouts: Click [here](https://shengjie.github.io/files/Handout of Block Chain.pdf)
 
 Financial Engineering
 ======
