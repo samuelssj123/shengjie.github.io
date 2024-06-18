@@ -8,7 +8,7 @@ redirect_from:
 
 Shengjie Song is currently an undergraduate student in [BIBS](https://bibs.bnu.edu.cn/) at Beijing Normal University. Born at Qingdao, Shandong, China. His major is Financial Technology and his research interests include asset pricing, financial economy, the intersection of computer science and finance.
 
-Here is a more detailed CV.
+If you want more detailed information, please [email](mailto:sjs@mail.bnu.edu.cn) at me.
 
 Research Interests
 ====
@@ -30,7 +30,7 @@ Skills
 ===
 * Advanced: R, Stata, C/C++, Basic: Python, Java, Matlab
   
-* proficient data processing empirical analysis, machine learning, MS-Office software (Word, Excel etc.)
+* Proficient: Data Processing and Empirical Analysis, Machine Learning, MS-Office software (Word, Excel etc.)
 
 
 
