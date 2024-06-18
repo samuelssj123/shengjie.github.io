@@ -13,26 +13,18 @@ redirect_from:
 
 Academic
 ---
-* This is his Academic Transcript of outstanding results obtained with his deep understanding of his major. [Click]({{site.url}}/file/本科成绩单06.pdf)
+* This is his Academic Transcript of outstanding results obtained with his deep understanding of his major. [Click]({{site.url}}/file/本科生英文成绩单.pdf)
   
-* His GPA was the top in the major and exceeded the second place by six points (under the percentage system).
+* His GPA was the top in the major and exceeded the second place by six points (under the percentage system). [Click]({{site.url}}/file/排名证明.pdf)
   
 * He received a National Scholarship and the school's highest honour.
 
-  * National Scholarship (Top 1% of the university, highest scholarship from Ministry of Education of China)
+  * National Scholarship (Top 1% of the university, highest scholarship from Ministry of Education of China) [Click]({{site.url}}/file/国家奖学金.pdf)
  
-  * The First Prize Scholarship (Top 10% of the school, highest academic honor at BNU)
+  * The First Prize Scholarship (Top 10% of the school, highest academic honor at BNU) [Click]({{site.url}}/file/京师一等奖学金.pdf)
 
 
-Learning
----
-He loves Interdisciplinary Learning, for example, he attending lectures on 
 
-  * Introduction to Mathematical Theory on Fluids
-
-  * Modes and Approximate Standard Types
-    
-  * Faculty of Humanities of the University of Macau
 
 Working
 ---
@@ -67,3 +59,10 @@ Language
 
 * Japanese (Beginner)
 
+Interests
+---
+* He loves Interdisciplinary Learning, for example, he attending lectures on Introduction to Mathematical Theory on Fluids (got score [98](({{site.url}}/file/雅思成绩单.pdf)))
+
+  * Modes and Approximate Standard Types
+    
+  * Faculty of Humanities of the University of Macau
