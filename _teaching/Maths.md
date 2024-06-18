@@ -2,7 +2,7 @@
 title: "Maths"
 collection: teaching
 type: Online Course
-permalink: /teaching/2015-spring-teaching-1
+permalink: /teaching/Maths
 venue: Bilibili
 date: 2024-04-30
 ---
