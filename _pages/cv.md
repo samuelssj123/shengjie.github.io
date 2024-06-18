@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Academic[^1]
+Academic
 ---
 * This is his Academic Transcript of outstanding results obtained with his deep understanding of his major.
   
@@ -59,10 +59,9 @@ Qualification
 
 Language
 ---
-* IELTS 6.5 (Listening6.5, Reading7, Speaking6.5, Writing6.5)
+* IELTS 6.5 (Listening6.5, Reading7, Speaking6.5, Writing6.5) [Click]({{site.url}}/file/雅思成绩单-副本.pdf)
 
 * Mandarin primary-level B certificate (Native speaker)
 
 * Japanese (Beginner)
 
-[^1] For privacy reasons, you can ask him by [email](sjs@mail.bnu.edu.cn) for the above proofs.
