@@ -22,17 +22,7 @@ Academic
   * National Scholarship (Top 1% of the university, highest scholarship from Ministry of Education of China) [Click]({{site.url}}/file/国家奖学金.pdf)
  
   * The First Prize Scholarship (Top 10% of the school, highest academic honor at BNU) [Click]({{site.url}}/file/京师一等奖学金.pdf)
-
-Working
----
-He often work as a teaching assistant in high school and English-learning institutions, for example,
-
-  * Chinese Teaching  [Click]({{site.url}}/file/【教育实习】乘风语文实习.pdf)
-
-  * English Teaching
-
-  * Arts Teaching [Click]({{site.url}}/file/【教育实习】宋圣洁实习证明.pdf)
-  
+ 
 Volunteering
 ---
 
@@ -56,8 +46,23 @@ Language
 
 * Japanese (Beginner)
 
+Part-time Working
+---
+He often works as a teaching assistant in high school and English-learning institutions, for example,
+
+  * Chinese Teaching  [Click]({{site.url}}/file/【教育实习】乘风语文实习.pdf)
+
+  * English Teaching
+
+  * Arts Teaching [Click]({{site.url}}/file/【教育实习】宋圣洁实习证明.pdf)
+
 Interests
 ---
-* He loves Interdisciplinary Learning, for example, he attending lectures on Introduction to Mathematical Theory on Fluids (got score [98]({{site.url}}/file/数学系列讲座3.pdf)), Modes and Approximate Standard Types (got score [95]({{site.url}}/file/数学系列讲座1.pdf)), Faculty of Humanities of the University of Macau (successfully participation as [speaker]({{site.url}}/file/澳门大学.pdf)).
-* Life: Travelling (Travelled to more than 30 cities in China); Sports and Bodybuilding (Badminton, Table Tennis etc.)
+* He loves Interdisciplinary Learning, for example, he attending lectures on
+  * Introduction to Mathematical Theory on Fluids (got score [98]({{site.url}}/file/数学系列讲座3.pdf))
+  * Modes and Approximate Standard Types (got score [95]({{site.url}}/file/数学系列讲座1.pdf))
+  * Faculty of Humanities of the University of Macau (successfully participation as [speaker]({{site.url}}/file/澳门大学.pdf)).
+* He is also willing to embrace new thins, for instance,
+  * Travelled to more than 30 cities in China and shared personal experience on social platform called Little Red Book and obtain over 10,000 fans (following him by clicking [here](https://www.xiaohongshu.com/user/profile/619e2dd9000000001000afa2?xhsshare=CopyLink&appuid=619e2dd9000000001000afa2&apptime=1718706118&share_id=94e7a172ea274f2d8a05a0a083ca32af)).
+  * Sports and Bodybuilding (Badminton, Table Tennis, Swimming, Climbing and Camping etc.)
 
