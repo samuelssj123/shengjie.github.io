@@ -18,7 +18,7 @@ Research Interests
   
 * The Intersection of Computer Science and Finance
   
-* Education
+* Pedagogy
 
 Education
 ====
