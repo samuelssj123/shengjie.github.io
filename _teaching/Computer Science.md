@@ -22,6 +22,7 @@ Data Structure
 
 [Finding and Sorting](https://www.bilibili.com/video/BV1bN4y187n6/)
 
+[Review](https://www.bilibili.com/video/BV1J5411z7DE/)
 
 Algorithm Design and Analysis
 ======
