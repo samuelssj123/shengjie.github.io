@@ -54,11 +54,11 @@ Interests
 ---
 * He possesses excellent linguistic skills, including
   
-  * English: IELTS 6.5 (Listening6.5, Reading7, Speaking6.5, Writing6.5) [Click]({{site.url}}/file/雅思成绩单.pdf)
+  * English IELTS 6.5 (Listening 6.5, Reading 7, Speaking 6.5, Writing 6.5) [Click]({{site.url}}/file/雅思成绩单.pdf)
     
-  * Mandarin primary-level B certificate (Native speaker) [Click]({{site.url}}/file/普通话一级乙等.pdf)
+  * 中文(Mandarin)一级乙等(Highest level of qualification examination) (Native speaker) [Click]({{site.url}}/file/普通话一级乙等.pdf)
     
-  * Japanese (Beginner).
+  * 日本語／にほんご(Japanese) (Beginner).
     
 * He loves Interdisciplinary Learning, for example, he attending lectures on
   
