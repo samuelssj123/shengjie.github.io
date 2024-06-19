@@ -9,7 +9,7 @@ date: 2022-10-31
 
 He received his training in the spring of 2022 and travelled to Shandong Province and Guangdong Province for fieldwork in the summer. This is his contribution to Mature Economics.
 
-You can click [here]({{site.url}}/file/2022年9月+优秀队伍+北京大学CHARLS.pdf) to view my certification and verified [here](https://charls.pku.edu.cn/info/1131/1802.htm).
+<span style="color:red">**Result: Click [here]({{site.url}}/file/2022年9月+优秀队伍+北京大学CHARLS.pdf) to view my certification and verified [here](https://charls.pku.edu.cn/info/1131/1802.htm).**
 
 Introduction
 ---
