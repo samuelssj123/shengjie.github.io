@@ -9,6 +9,5 @@ date: 2022-10-27
 
 This represents his contribution at the intersection of the biological and social sciences.
 
-My certificate is valid electronically and can be verified [here](https://projects.igem.org/2022/bnuzh-china), and [here]({{site.url}}/file/2022年11月_金牌_iGEM.pdf) is the PDF version.
+<span style="color:red">**Results: [Wiki](https://2022.igem.wiki/bnuzh-china/) , [Certificate]({{site.url}}/file/2022年11月_金牌_iGEM.pdf) Verified at [official website](https://projects.igem.org/2022/bnuzh-china)**
 
-You can click [here](https://2022.igem.wiki/bnuzh-china/) to see our result.
