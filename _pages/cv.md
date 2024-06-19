@@ -72,5 +72,5 @@ Interests
   
   * Travelled to more than 30 cities in China and shared personal experience on social platform called Little Red Book and obtain over 10,000 fans (following him by clicking [here](https://www.xiaohongshu.com/user/profile/619e2dd9000000001000afa2?xhsshare=CopyLink&appuid=619e2dd9000000001000afa2&apptime=1718706118&share_id=94e7a172ea274f2d8a05a0a083ca32af)).
     
-  * Sports and Bodybuilding (Badminton, Table Tennis, Swimming, Climbing and Camping etc.)
+  * Sports and Bodybuilding (Badminton, Table Tennis, Swimming, Climbing and Camping etc.) and some [official camps]({{site.url}}/file/卓越训练营.pdf) to improve my overall quality.
 
