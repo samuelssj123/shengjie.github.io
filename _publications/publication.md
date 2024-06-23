@@ -11,6 +11,6 @@ author_profile: true
 
 **Preprints**
 
-- **S. Song**, M. Han, “[Is Buffett indicator priced in Chinese stock markets]({{site.url}}/file/paper.pdf)”.
+- **S. Song**, M. Han, “[Is Buffett indicator priced in Chinese stock markets]({{site.url}}/file/paper1.pdf)”.
 
 - **S. Song**,  “[Is social capital  the  secret weapon of happiness]({{site.url}}/file/lunwen2.pdf)”.
