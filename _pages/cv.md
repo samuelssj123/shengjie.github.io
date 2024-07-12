@@ -61,12 +61,18 @@ Interests
   * 日本語／にほんご(Japanese) (Beginner).
     
 * He loves Interdisciplinary Learning, for example, he attending lectures on
+
+  * 2024.6, Open FIESTA Summer Camp and SDG Olympiad at Tsinghua University (got [BRONZE PRIZE]({{site.url}}/file/thu铜.pdf))
+ 
+  * 2024.7， [Postgraduate Forum]({{site.url}}/file/pku教育经济加密.pdf)) on Economics of Education in Peking University
+ 
+  * 2024.7, Outstanding Undergraduate Summer Camp, School of Systems Science, awarded [Outstanding Camper]({{site.url}}/file/系统科学学院优秀营员.pdf)) in Beijing Normal University
   
-  * Introduction to Mathematical Theory on Fluids (got score [98]({{site.url}}/file/数学系列讲座3.pdf))
+  * 2023.6, Introduction to Mathematical Theory on Fluids (got score [98]({{site.url}}/file/数学系列讲座3.pdf)) in Beijing Normal University
     
-  * Modes and Approximate Standard Types (got score [95]({{site.url}}/file/数学系列讲座1.pdf))
+  * 2023.6, Modes and Approximate Standard Types (got score [95]({{site.url}}/file/数学系列讲座1.pdf)) in Beijing Normal University
     
-  * Faculty of Humanities of the University of Macau (successfully participation as [speaker]({{site.url}}/file/澳门大学.pdf)).
+  * 2024.5, Faculty of Humanities of the University of Macau (successfully participation as [speaker]({{site.url}}/file/澳门大学.pdf)) in University of Macao
     
 * He is also willing to embrace new thins, for instance,
   
