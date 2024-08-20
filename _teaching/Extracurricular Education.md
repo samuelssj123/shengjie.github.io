@@ -3,7 +3,7 @@ title: "Extracurricular Education"
 type: Tutor and Teaching Researcher
 collection: teaching
 venue: China Mainland
-permalink: /teaching/Economy
+permalink: /teaching/Extracurricular Education
 date: 2021-06-07
 ---
 
