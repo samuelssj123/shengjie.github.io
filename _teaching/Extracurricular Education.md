@@ -11,9 +11,9 @@ This section contains the work he has done in high school extracurricular educat
 
 From 2021 to the present.
 
-Ideology and Politics
+Extracurricular Education
 ---
-I have put together a handy guide for high school students who are struggling with the liberal arts. We know that some concepts can be tricky, and exams can be tough. That's why we've created this helpful resource to make things easier. It's been well-received by students at many different schools, and we're so happy to see it helping them succeed!
+*Ideology and Politics : * I have put together a handy guide for high school students who are struggling with the liberal arts. We know that some concepts can be tricky, and exams can be tough. That's why we've created this helpful resource to make things easier. It's been well-received by students at many different schools, and we're so happy to see it helping them succeed!
 针对高中学生在学习文科时遇到的问题，如概念不清、逻辑混乱、审题不清、生搬硬套等问题，编写了[《高中思想政治修炼手册》]({{site.url}}/file/高中思想政治修炼手册.pdf)供多家教培机构学生使用，评价良好。
 
 Vocational Education
