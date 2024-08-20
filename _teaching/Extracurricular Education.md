@@ -1,6 +1,6 @@
 ---
 title: "Extracurricular Education"
-type: Tutors
+type: Tutor and Teaching Researcher
 collection: teaching
 venue: China Mainland
 permalink: /teaching/Economy
