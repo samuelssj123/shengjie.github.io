@@ -18,5 +18,10 @@ I have put together a handy guide for high school students who are struggling wi
 
 Vocational Education
 ---
-Senior middle school teacher qualification certificate ([Politics](https://www.bilibili.com/video/BV1ar421M7Es/))
+Senior Middle School Teacher Qualification Certificate ([Maths](https://www.bilibili.com/video/BV1ES421P7v4/))
 
+Senior Middle School Teacher Qualification Certificate ([English](https://www.bilibili.com/video/BV1pM4y1H7mb/))
+
+Senior Middle School Teacher Qualification Certificate ([Politics](https://www.bilibili.com/video/BV1ar421M7Es/))
+
+Teacher Qualification Certificate [General Quality](https://www.bilibili.com/video/BV1n14y197Cd/) and [Pedagogy and Educational Psychology](https://www.bilibili.com/video/BV1Du4y1m7Gu/)
