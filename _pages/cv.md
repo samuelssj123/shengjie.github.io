@@ -62,18 +62,20 @@ Interests
     
 * He loves Interdisciplinary Learning, for example, he attending lectures on
 
-  * 2024.6, Open FIESTA Summer Camp and SDG Olympiad at Tsinghua University (got [BRONZE PRIZE]({{site.url}}/file/thu铜.pdf))
+  * July, 2024, Certificate of Achievement Awarded to Shengjie SONG for succesopully completing [Society Hub Summer Camp]({{site.url}}/file/HKUST(GZ).pdf) for PhD Admission in Fall 2025
  
-  * 2024.7， [Postgraduate Forum]({{site.url}}/file/pku教育经济加密.pdf)) on Economics of Education in Peking University
+  * July, 2024， [Postgraduate Forum]({{site.url}}/file/pku教育经济加密.pdf) on Economics of Education in Peking University
  
-  * 2024.7, Outstanding Undergraduate Summer Camp, School of Systems Science, awarded [Outstanding Camper]({{site.url}}/file/系统科学学院优秀营员.pdf)) in Beijing Normal University
-  
-  * 2023.6, Introduction to Mathematical Theory on Fluids (got score [98]({{site.url}}/file/数学系列讲座3.pdf)) in Beijing Normal University
+  * July, 2024, Outstanding Undergraduate Summer Camp, School of Systems Science, awarded [Outstanding Camper]({{site.url}}/file/系统科学学院优秀营员.pdf)) in Beijing Normal University
+
+  * June, 2024, Open FIESTA Summer Camp and SDG Olympiad at Tsinghua University (got [BRONZE PRIZE]({{site.url}}/file/thu铜.pdf))
+
+  * April, 2024, Faculty of Humanities of the University of Macau (successfully participation as [speaker]({{site.url}}/file/澳门大学.pdf)) in University of Macao
+
+  * June, 2023, Introduction to Mathematical Theory on Fluids (got score [98]({{site.url}}/file/数学系列讲座3.pdf)) in Beijing Normal University
     
-  * 2023.6, Modes and Approximate Standard Types (got score [95]({{site.url}}/file/数学系列讲座1.pdf)) in Beijing Normal University
-    
-  * 2024.5, Faculty of Humanities of the University of Macau (successfully participation as [speaker]({{site.url}}/file/澳门大学.pdf)) in University of Macao
-    
+  * June, 2023, Modes and Approximate Standard Types (got score [95]({{site.url}}/file/数学系列讲座1.pdf)) in Beijing Normal University
+      
 * He is also willing to embrace new thins, for instance,
   
   * Travelled to more than 30 cities in China and shared personal experience on social platform called Little Red Book and obtain over 10,000 fans (following him by clicking [here](https://www.xiaohongshu.com/user/profile/619e2dd9000000001000afa2?xhsshare=CopyLink&appuid=619e2dd9000000001000afa2&apptime=1718706118&share_id=94e7a172ea274f2d8a05a0a083ca32af)).
