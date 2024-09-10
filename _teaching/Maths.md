@@ -9,6 +9,8 @@ date: 2024-04-28
 
 Core Curriculum: *Calculus, Linear Algebra, Probability Theory and Mathematical Statistics, Real Variable Function, Operations Research(OR)* Note: I was hired to teach maths to undergraduates as a government-paid teaching students' [partner]({{site.url}}/file/乐学.pdf) at Beijing Normal University.
 
+He has a solid mathematical background. He has won the second prize in the provincial level of the [Mathematics Competition]({{site.url}}/file/数学竞赛.pdf) and a provincial award in [Mathematical Modelling]({{site.url}}/file/数学建模.pdf).
+
 From 2022 to 2024.
 
 Basic Course
