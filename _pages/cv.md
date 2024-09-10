@@ -17,7 +17,7 @@ Beijing Normal University, Bachelor, Sep 2021 – June 2025
 
 * This is his Academic Transcript of outstanding results obtained with his deep understanding of his major. [Click]({{site.url}}/file/本科生英文成绩单.pdf)
   
-* His GPA was the top in the major and exceeded the second place by six points (under the percentage system). [Click]({{site.url}}/file/排名证明.pdf)
+* His GPA was the top in the major and exceeded the second place by six points (under the percentage system). [Click]({{site.url}}/file/Shengjie_SONG's_Grade_at_bachalor.pdf)
   
 * He received a National Scholarship and the school's highest honour.
 
