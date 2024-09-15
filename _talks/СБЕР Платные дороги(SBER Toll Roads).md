@@ -15,4 +15,6 @@ This is a transnational cooperation project in which ten students (includes Shen
 
 Personal Story
 ---
-<font face="Times New Roman">When I first interacted with my new Russian colleagues, the main barriers were language and culture. Humorously, we joked that even though we were face-to-face, we could still plot in our native languages and then conspire in English. Culturally, assisting a Moscow bank with proposals for toll roads was challenging. We initially thought we could simply apply successful Chinese models, but as they explained the Russian context, we realized their development was far beyond our expectations. Despite these differences, we found common ground and successfully completed this international collaboration.</font>
+<font face="Times New Roman">When I first interacted with my new Russian friends, the main barriers were language and culture. We humorously noted that even though we were face-to-face, we could still plot loudly in our native languages and then conspire in English. When we exchanged visits to each other’s countries, they found the pearls in Chinese bubble tea to be chewier and promised to gift us a Matryoshka doll when we visit Russia. <br> <br>
+
+Assisting a Moscow bank with proposals for toll roads was challenging. We initially thought we could simply apply successful Chinese models, but as they explained the Russian context, we realized their development was far beyond our expectations. Despite these differences, we found common ground and successfully completed this international collaboration.</font>
