@@ -23,7 +23,7 @@ Contribution
 
 Personal Story
 ---
-<font face="Times New Roman">Aging is a pressing global issue, and the China Health and Retirement Longitudinal Study (CHARLS) is a crucial database for researching this phenomenon in China. Papers based on CHARLS data have even been published in prestigious journals like Nature(see [example](https://www.nature.com/articles/s41591-024-03184-3#citeas)). As a field interviewer for CHARLS, I have had the privilege of experiencing firsthand the diverse lives of the elderly in China. <br>    <br>
+<font face="Times New Roman">Aging is a pressing global issue, and the China Health and Retirement Longitudinal Study (CHARLS) is a crucial database for researching this phenomenon in China. Papers based on CHARLS data have even been published in prestigious journals like Nature(see </font>[example](https://www.nature.com/articles/s41591-024-03184-3#citeas))<font face="Times New Roman">. As a field interviewer for CHARLS, I have had the privilege of experiencing firsthand the diverse lives of the elderly in China. <br>    <br>
 
 In the scorching heat of rural Shandong, where the ground was hot enough to cook an egg, my team and I sought refuge in a local home to avoid heatstroke. In the urban villages of Guangzhou, I met migrant workers living in a single-room rental for just 600 RMB and had to go downstairs a long way to shower and use the toilet. While following up with a worker in Dongguan, I witnessed the profound love she had for her husband when she saw his recent photo on my tablet and eagerly asked to take a picture of it with her phone. <br>    <br>
 
