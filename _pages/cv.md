@@ -25,7 +25,7 @@ I completed my undergraduate studies at Beijing Normal University from Sep 2021 
 | [The First Prize Scholarship]({{site.url}}/file/京师一等奖学金.pdf)               | Top 10% of the school, highest academic honor at BNU    |      
 ## Personal Story
 
-<font face="STCAIYUN">It may be helpful to identify a positive feedback mechanism that aligns with your natural rhythm. You could find me in the study room at 7 AM, or working on the lemon car model with PhD students at 10 PM. My notes were often sought after during finals. In my free time, I enjoyed watching videos on humanities, social sciences, and popular science to cultivate my economic intuition. Whenever I encountered counterintuitive phenomena, I would ponder the underlying reasons.</font>
+<font face="Times New Roman">It may be helpful to identify a positive feedback mechanism that aligns with your natural rhythm. You could find me in the study room at 7 AM, or working on the lemon car model with PhD students at 10 PM. My notes were often sought after during finals. In my free time, I enjoyed watching videos on humanities, social sciences, and popular science to cultivate my economic intuition. Whenever I encountered counterintuitive phenomena, I would ponder the underlying reasons.</font>
 
 
 Academic
