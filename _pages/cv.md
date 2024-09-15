@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Work Life Balance"
+title: "Diversity"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,7 +9,24 @@ redirect_from:
 
 {% include base_path %}
 
+I come from a county under Qingdao, Shandong Province, where I completed my pre-university education. From county to city, I have developed a propensity for recognizing alternative views, and in doing so I have come to appreciate the importance of helping those less represented and
+underprivileged. 
+
 *Note: You can click the button at the end of each lines, but you may not open successfully because some of them include private information. If you are interested you can [email](mailto:sjs@mail.bnu.edu.cn) at me.*
+
+
+# Academic Excellence: Leading by 6 Points and Exceeding Expectations
+
+I completed my undergraduate studies at Beijing Normal University from Sep 2021 to June 2025. During the first three years of my undergraduate studies, I completed a rigorous curriculum of core courses, followed by project-based learning in the fourth year. My academic ranking was based on the grades from these core courses, which I have highlighted on my [English transcript]({{site.url}}/file/本科生英文成绩单.pdf). At the end of my undergraduate program, I received a comprehensive transcript covering all four years of coursework. I graduated with an [average GPA]({{site.url}}/file/Shengjie_SONG's_Grade_at_bachalor.pdf) that surpassed the second-highest score by six points, securing the top rank in my class and earning the highest level of scholarship.
+
+| Scholarship                  | Description      |        
+| :--------------------------- | :--------------: | 
+| [National Scholarship]({{site.url}}/file/国家奖学金.pdf)          | Top 1% of the university, highest scholarship from Ministry of Education of China     | 
+| [The First Prize Scholarship]({{site.url}}/file/京师一等奖学金.pdf)               | Top 10% of the school, highest academic honor at BNU    |      
+## Personal Story
+
+<font face="STCAIYUN">It may be helpful to identify a positive feedback mechanism that aligns with your natural rhythm. You could find me in the study room at 7 AM, or working on the lemon car model with PhD students at 10 PM. My notes were often sought after during finals. In my free time, I enjoyed watching videos on humanities, social sciences, and popular science to cultivate my economic intuition. Whenever I encountered counterintuitive phenomena, I would ponder the underlying reasons.</font>
+
 
 Academic
 ---
