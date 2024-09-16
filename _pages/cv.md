@@ -9,22 +9,20 @@ redirect_from:
 
 {% include base_path %}
 
-I come from a county under Qingdao, Shandong Province, where I completed my pre-university education. From county to city, I have developed a propensity for recognizing alternative views, and in doing so I have come to appreciate the importance of helping those less represented and
-underprivileged. 
+<font face="Trebuchet MS">I come from a county under Qingdao, Shandong Province, where I completed my pre-university education. From county to city, I have developed a propensity for recognizing alternative views, and in doing so I have come to appreciate the importance of helping those less represented and underprivileged. </font>
 
 *Note: You can click the button at the end of each lines, but you may not open successfully because some of them include private information. If you are interested you can [email](mailto:sjs@mail.bnu.edu.cn) at me.*
 
 
 # Academic Excellence: Leading and Exceeding
 
-<font face="Comic Sans MS">I completed my undergraduate studies at Beijing Normal University from Sep 2021 to June 2025. During the first three years of my undergraduate studies, I completed a rigorous curriculum of core courses, followed by project-based learning in the fourth year. My academic ranking was based on the grades from these core courses, which I have highlighted on my English transcript. At the end of my undergraduate program, I received a comprehensive transcript covering all four years of coursework. I graduated with an average GPA that surpassed the second-highest score by 6 points, securing the top rank in my class and earning the highest level of scholarship.</font>
-
-| [English transcript]({{site.url}}/file/本科生英文成绩单.pdf)
-|[ GPA Ranking]({{site.url}}/file/Shengjie_SONG's_Grade_at_bachalor.pdf)
+| Transcript & Ranking | Description   <br>
+| [Transcript]({{site.url}}/file/本科生英文成绩单.pdf)  | Exceeding Expectations: Transcript of Bachelor from Sep 2021 to  June 2025  <br>
+|[ GPA Ranking]({{site.url}}/file/Shengjie_SONG's_Grade_at_bachalor.pdf) | Leading by 6 points: Ranking of GPA of all major courses in the training programme (major courses must be completed in the first three academic years)
 
 | Scholarship                  | Description             <br>
-| [National Scholarship]({{site.url}}/file/国家奖学金.pdf)          | Top 1% of the university, highest scholarship from Ministry of Education of China        <br>
-| [The First Prize Scholarship]({{site.url}}/file/京师一等奖学金.pdf)               | Top 10% of the school, highest academic honor at BNU    
+| [National Scholarship]({{site.url}}/file/国家奖学金.pdf)          | Highest scholarship from Ministry of Education of China        <br>
+| [The First Prize Scholarship]({{site.url}}/file/京师一等奖学金.pdf)    | Highest academic honor at BNU (Top 10%)    
 
 ## Personal Story
 
