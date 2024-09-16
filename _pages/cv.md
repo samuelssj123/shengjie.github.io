@@ -15,12 +15,7 @@ redirect_from:
 
 
 ## <font face="Comic Sans MS">Academic: Leading and Exceeding</font>
-
-![BNU_logo](/images/BNU_logo.png)
-<div style="float: left; width: 100%; max-height: 3em;">
-  <img src="/images/BNU_logo.png" style="max-height: 3em; width: auto;">
-</div>
-
+![](/images/BNU_logo.png)
 
 | Transcript & Ranking | Description   <br>
 | [Transcript]({{site.url}}/file/本科生英文成绩单.pdf)  | **Exceeding Expectations:** Transcript of Bachelor from Sep 2021 to  June 2025  <br>
