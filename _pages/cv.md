@@ -55,6 +55,13 @@ Later, at the Tsinghua University SDG Olympiad Competition, I collaborated with 
 |College Students' View of Daochen |Daochen County, Guizhou Province |Cultural Tourism Poverty Alleviation <br>
 |[Excellence Camp]({{site.url}}/file/卓越训练营.pdf) in BNU |Beijing, Zhuhai |'Obsession for Excellence', aiming to cultivate excellent talents with comprehensive abilities
 
+<font color=Olive face="Times New Roman">My journey has been marked by a deep commitment to cultural preservation, community engagement, and inclusive education. Through various projects and leadership roles, I have consistently sought to bridge gaps and foster understanding across diverse communities. <br> <br>
+One of my significant endeavors involved working with the Baoan ethnic minority to preserve their cultural heritage, the Baoan waist knives. Facing modern regulations restricting their transport that threatened their existence, our team utilized e-commerce platforms and live streaming to boost sales and created cultural documentaries to enhance their reputation. This project underscored the importance of innovative solutions in cultural preservation. <br> <br>
+In Guizhou’s Daozhen County, our team leveraged the region’s unique tourism resources to promote economic development. By engaging in local activities and producing promotional videos, we garnered government support and highlighted the potential of cultural tourism in poverty alleviation. This experience demonstrated the power of media and community-driven initiatives in fostering economic growth. <br> <br>
+Additionally, my work with an autistic child revealed the profound impact of tailored educational approaches. By designing activities that allowed him to learn at his own pace, we demonstrated that with the right support, every child can achieve academic success. This taught me the value of empathy, patience, and subtle mentorship. <br> <br>
+Beyond these projects, I have actively participated as a volunteer in other activities that has equipped me with comprehensive skills and a drive for continuous improvement. They have enriched my understanding of cross-cultural dynamics and prepared me to contribute meaningfully to diverse academic and professional environments.  <br> <br> </font>
+
+
 ## <font face="Comic Sans MS">Skills & Interests: Diversified Learning and Purpose </font>
 
 |Skills | Description and Certification <br>
