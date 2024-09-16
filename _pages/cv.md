@@ -22,7 +22,7 @@ redirect_from:
 
 | Transcript & Ranking | Description   <br>
 | [Transcript]({{site.url}}/file/本科生英文成绩单.pdf)  | **Exceeding Expectations:** Transcript of Bachelor from Sep 2021 to  June 2025  <br>
-|[ GPA Ranking]({{site.url}}/file/Shengjie_SONG's_Grade_at_bachalor.pdf) | **Leading by 6 points:** Ranking of GPA of all major courses in the training programme (major courses must be completed in the first three academic years)
+|[ GPA Ranking]({{site.url}}/file/Shengjie_SONG's_Grade_at_bachalor.pdf) | **Leading by 6 points:** GPA:3.9/4.0, 93.8065/100. Ranking of GPA of all major courses in the training programme (major courses must be completed in the first three academic years)
 
 | Scholarship                  | Description             <br>
 | [National Scholarship]({{site.url}}/file/国家奖学金.pdf)          | **Highest** scholarship from Ministry of Education of China        <br>
