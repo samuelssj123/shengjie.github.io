@@ -69,6 +69,10 @@ Beyond these projects, I have actively participated as a volunteer in other acti
 |Accounting Professional and Technical Qualification Certificate (Junior) |**Diversified Learning: Accounting** [Accounting Qualification]({{site.url}}/file/初级会计.pdf) <br>
 |Linguistic Skills of English,Mandarin,Japanese | **Diversified Learning: Language** English [IELTS]({{site.url}}/file/雅思成绩单.pdf) 6.5(Listening 6.5, Reading 7, Speaking 6.5, Writing 6.5),中文([Mandarin]({{site.url}}/file/普通话一级乙等.pdf))一级乙等(Highest level of qualification examination) (Native speaker), 日本語／にほんご(Japanese) (Beginner) <br> <br>
 
+* Skills used in Research
+  * Advanced: R, Stata, Python, Basic: C/C++, Java, Matlab
+  * Proficient: Data Processing and Empirical Analysis, Machine Learning, MS-Office software (Word, Excel etc.)
+
 |Experience | Time | Location| Certification <br>
 |Society Hub Summer Camp | July,2024 | [HKUST-GZ](https://mp.weixin.qq.com/s/atLUJUpZpj7wqW6ebPvHBw) | Certificate of Achievement Awarded to Shengjie SONG for succesopully completing [Society Hub Summer Camp]({{site.url}}/file/HKUST(GZ).pdf) for PhD Admission in Fall 2025 <br>
 |Economics of Education |July,2024 |Peking University | [Postgraduate Forum]({{site.url}}/file/pku教育经济加密.pdf) on Economics of Education <br>
