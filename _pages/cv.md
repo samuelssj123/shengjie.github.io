@@ -15,6 +15,8 @@ redirect_from:
 
 
 ## <font face="Comic Sans MS">Academic: Leading and Exceeding</font>
+
+![BNU_logo](images/BNU_logo.png)
 <div style="float: left; width: 100%; max-height: 3em;">
   <img src="/images/BNU_logo.png" style="max-height: 3em; width: auto;">
 </div>
