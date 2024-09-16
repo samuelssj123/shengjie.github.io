@@ -14,19 +14,17 @@ redirect_from:
 *Note: You can click the button at the end of each lines, but you may not open successfully because some of them include private information. If you are interested you can [email](mailto:sjs@mail.bnu.edu.cn) at me.*
 
 
-# Academic Excellence: Leading and Exceeding
+## Academic: Leading and Exceeding
 
 | Transcript & Ranking | Description   <br>
-| [Transcript]({{site.url}}/file/本科生英文成绩单.pdf)  | Exceeding Expectations: Transcript of Bachelor from Sep 2021 to  June 2025  <br>
-|[ GPA Ranking]({{site.url}}/file/Shengjie_SONG's_Grade_at_bachalor.pdf) | Leading by 6 points: Ranking of GPA of all major courses in the training programme (major courses must be completed in the first three academic years)
+| [Transcript]({{site.url}}/file/本科生英文成绩单.pdf)  | **Exceeding Expectations:** Transcript of Bachelor from Sep 2021 to  June 2025  <br>
+|[ GPA Ranking]({{site.url}}/file/Shengjie_SONG's_Grade_at_bachalor.pdf) | **Leading by 6 points:** Ranking of GPA of all major courses in the training programme (major courses must be completed in the first three academic years)
 
 | Scholarship                  | Description             <br>
-| [National Scholarship]({{site.url}}/file/国家奖学金.pdf)          | Highest scholarship from Ministry of Education of China        <br>
-| [The First Prize Scholarship]({{site.url}}/file/京师一等奖学金.pdf)    | Highest academic honor at BNU (Top 10%)    
+| [National Scholarship]({{site.url}}/file/国家奖学金.pdf)          | **Highest** scholarship from Ministry of Education of China        <br>
+| [The First Prize Scholarship]({{site.url}}/file/京师一等奖学金.pdf)    | **Highest** academic honor at BNU (Top 10%)    
 
-## Personal Story
-
-<font face="Times New Roman">It may be helpful to identify a positive feedback mechanism that aligns with your natural rhythm. You could find me in the study room at 7 AM, or working on the lemon car model with PhD students at 10 PM. My notes were often sought after during finals. In my free time, I enjoyed watching videos on humanities, social sciences, and popular science to cultivate my economic intuition. Whenever I encountered counterintuitive phenomena, I would ponder the underlying reasons.</font>
+<font color=#6495ED face="Times New Roman">It may be helpful to identify a positive feedback mechanism that aligns with your natural rhythm. You could find me in the study room at 7 AM, or working on the lemon car model with PhD students at 10 PM. My notes were often sought after during finals. In my free time, I enjoyed watching videos on humanities, social sciences, and popular science to cultivate my economic intuition. Whenever I encountered counterintuitive phenomena, I would ponder the underlying reasons.</font>
 
 
 Academic
