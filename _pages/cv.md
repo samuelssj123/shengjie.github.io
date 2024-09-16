@@ -42,23 +42,24 @@ Upon returning to campus, I joined a high school tutoring organization, progress
 
 Later, at the Tsinghua University SDG Olympiad Competition, I collaborated with friends from Vietnam, Thailand, and other countries to discuss Sustainable Development Goals (SDGs). We found common ground in addressing educational inequality and proposed developing a metaverse game to help children in impoverished areas experience urban professions, guiding them toward distant goals. We also promoted our project through media platforms, aiming to expand its reach to different regions. We are all committed to spreading and creating equal educational opportunities.</font> 
 
-## <font face="Comic Sans MS">Volunteer: Cross-cultural and Cross-disciplinary </font>
+## <font face="Comic Sans MS">Volunteering: Cross-cultural </font>
 
 |Experience | Description <br>
 |Little Red Book | **Influencer:** Travelled around China and shared personal experience on social platform called Little Red Book and obtain over 10,000 fans (following him by clicking [here](https://www.xiaohongshu.com/user/profile/619e2dd9000000001000afa2?xhsshare=CopyLink&appuid=619e2dd9000000001000afa2&apptime=1718706118&share_id=94e7a172ea274f2d8a05a0a083ca32af)).   <br>
-|The Third Conference of the lnternational Science, Technology and innovation Forum of Boao Forum for Asia([ISTIF](https://www.boaoforum.org/themed/istif/2023/index_1.html)) | **Volunteering:**[Best Volunteer]({{site.url}}/file/2023年10月+优秀志愿者+博鳌亚洲论坛.pdf). <br>
+|The Third Conference of the lnternational Science, Technology and innovation Forum of Boao Forum for Asia([ISTIF](https://www.boaoforum.org/themed/istif/2023/index_1.html)) | **Volunteering:**[Best Volunteer]({{site.url}}/file/2023年10月+优秀志愿者+博鳌亚洲论坛.pdf) <br>
 |[THE SIXTH CHINA EDUCATION INNOVATION EXPO](https://news.bnu.edu.cn/zx/ttgz/2091c3219be24fb8b3ad5fdab16d93ce.htm) | **Volunteering:**[Best Volunteer]({{site.url}}/file/教博会.pdf) <br>
-|Student Union’s General Affairs Minister |**Leadership:** Student Work and [Head of Department]({{site.url}}/file/教育培训部部门负责人证明.pdf) <br>
+|Student Union’s General Affairs Minister |**Leadership:** Student Work and [Head of Department]({{site.url}}/file/教育培训部部门负责人证明.pdf) <br> <br>
 
-    
-  * Sports and Bodybuilding (Badminton, Table Tennis, Swimming, Climbing and Camping etc.) and some [official camps]({{site.url}}/file/卓越训练营.pdf) to improve my overall quality.
-
-
+|Activity | Location |Topic <br>
+|[Research on Baoan Waist Knives]({{site.url}}/file/卓越训练营.pdf)|Jieshishan County, Gansu Province |Protection of Ethnic Minority Cultural Heritage <br>
+|[Entering Ancient Shu Culture&Exploring Ancestral Civilisation](https://mp.weixin.qq.com/s/PefKn-BtHiRaCo-bHN69mQ)|Chengdu, Sichuan Province |Exploring Ancient Civilisation and Modern Urban Governance <br>
+|College Students' View of Daochen |Daochen County, Guizhou Province |Cultural Tourism Poverty Alleviation <br>
+|[Excellence Camp]({{site.url}}/file/卓越训练营.pdf) in BNU |Beijing, Zhuhai |'Obsession for Excellence', aiming to cultivate excellent talents with comprehensive abilities
 
 ## <font face="Comic Sans MS">Skills & Interests: Diversified Learning </font>
 
 |Skills | Description and Certification <br>
-|Accounting Professional and Technical Qualification Certificate (Junior) |**Diversified Learning: Accounting** [Accounting] Qualification({{site.url}}/file/初级会计.pdf) <br>
+|Accounting Professional and Technical Qualification Certificate (Junior) |**Diversified Learning: Accounting** [Accounting Qualification]({{site.url}}/file/初级会计.pdf) <br>
 |Linguistic Skills of English,Mandarin,Japanese | **Diversified Learning: Language** English [IELTS]({{site.url}}/file/雅思成绩单.pdf) 6.5(Listening 6.5, Reading 7, Speaking 6.5, Writing 6.5),中文([Mandarin]({{site.url}}/file/普通话一级乙等.pdf))一级乙等(Highest level of qualification examination) (Native speaker), 日本語／にほんご(Japanese) (Beginner) <br> <br>
 
 |Experience | Time | Location| Certification <br>
