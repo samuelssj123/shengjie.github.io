@@ -14,9 +14,8 @@ redirect_from:
 *Note: You can click the button at the end of each lines, but you may not open successfully because some of them include private information. If you are interested you can [email](mailto:sjs@mail.bnu.edu.cn) at me.*
 
 
-## Academic: Leading and Exceeding
-![light mode only](/images/BNU_logo.png){: .light .w-75 .shadow .rounded-10 w='1212' h='668' }
-![dark mode only](/images/BNU_logo.png){: .dark .w-75 .shadow .rounded-10 w='1212' h='668' }
+## <font color=Blue face="Comic Sans MS">Academic: Leading and Exceeding</font>
+![Desktop View](/images/BNU_logo.png){: width="972" height="589" .w-75 .normal}
 
 | Transcript & Ranking | Description   <br>
 | [Transcript]({{site.url}}/file/本科生英文成绩单.pdf)  | **Exceeding Expectations:** Transcript of Bachelor from Sep 2021 to  June 2025  <br>
