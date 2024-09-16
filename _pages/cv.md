@@ -9,9 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-> <font face="Trebuchet MS">I come from a county under Qingdao, Shandong Province, where I completed my pre-university education. From county to city, I have developed a propensity for recognizing alternative views, and in doing so I have come to appreciate the importance of helping those less represented and underprivileged. </font>[^note]
+> <font face="Trebuchet MS">I come from a county under Qingdao, Shandong Province, where I completed my pre-university education. From county to city, I have developed a propensity for recognizing alternative views, and in doing so I have come to appreciate the importance of helping those less represented and underprivileged[^1]. </font>
 
-[^note]: You can click the button at the end of each lines, but you may not open successfully because some of them include private information. If you are interested you can [email](mailto:sjs@mail.bnu.edu.cn) at me.
+[^1]: You can click the button at the end of each lines, but you may not open successfully because some of them include private information. If you are interested you can [email](mailto:sjs@mail.bnu.edu.cn) at me.
 
 ## <font face="Comic Sans MS">Academic: Leading and Exceeding</font>
 Beijing Normal University [北京師範大學](https://www.bnu.edu.cn/)
