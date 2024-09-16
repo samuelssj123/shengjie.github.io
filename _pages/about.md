@@ -13,6 +13,12 @@ Shengjie Song has a wide range of research interests and has plans to pursue a P
 
 If you want more detailed information, please [email](mailto:sjs@mail.bnu.edu.cn) at me. 
 
+Education
+====
+* Beijing Normal University (2021.09-2025.06)  
+  Finance Technology  
+  Advisor: Prof. [Meng Han](https://bibs.bnu.edu.cn/teachers/qzjs/587d80e0309b4d559299abec5d16924b.htm)
+  
 Research Interests
 ====
 * Asset Pricing
@@ -23,17 +29,8 @@ Research Interests
   
 * Pedagogy
 
-Education
-====
-* Beijing Normal University (2021.09-2025.06)  
-  Finance Technology  
-  Advisor: Prof. [Meng Han](https://bibs.bnu.edu.cn/teachers/qzjs/587d80e0309b4d559299abec5d16924b.htm)
 
-Skills
-===
-* Advanced: R, Stata, C/C++, Basic: Python, Java, Matlab
-  
-* Proficient: Data Processing and Empirical Analysis, Machine Learning, MS-Office software (Word, Excel etc.)
+
 
 
 
