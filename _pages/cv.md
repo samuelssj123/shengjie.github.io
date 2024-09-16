@@ -15,7 +15,7 @@ redirect_from:
 
 
 ## <font face="Comic Sans MS">Academic: Leading and Exceeding</font>
-![](/file/BNU_logo.png) [Beijing Normal University](https://www.bnu.edu.cn/)
+Beijing Normal University[北京師範大學](https://www.bnu.edu.cn/)
 
 | Transcript & Ranking | Description   <br>
 | [Transcript]({{site.url}}/file/本科生英文成绩单.pdf)  | **Exceeding Expectations:** Transcript of Bachelor from Sep 2021 to  June 2025  <br>
