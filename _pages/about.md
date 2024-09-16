@@ -14,7 +14,8 @@ My research interest includes Empirical Asset Pricing, Empirical Finance, Educat
 
 My goal is to study how phenomena in the humanities and social spheres affect the value of financial assets, in order to hopefully achieve financial inclusion. I am seeking a RA or Ph.D. position, starting from now or 4 years later,respectively. If you are interested in my research or would like to collaborate, please feel free to look through my homepage and reach out. 
 
-> <font color=DarkGray size=3>Note: By clicking the buttons above, you can explore my research, projects, teaching, and experiences. On my personal homepage, you can reach the deepest level of content in no more than three clicks, with no further navigation required.</font>  <br> <br>
+> <font color=DarkGray size=3>Note: By clicking the buttons above, you can explore my research, projects, teaching, and experiences. On my personal homepage, you can reach the deepest level of content in no more than three clicks, with no further navigation required.</font>   
+
 
 Education
 ====
