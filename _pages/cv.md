@@ -15,7 +15,7 @@ redirect_from:
 
 
 ## <font face="Comic Sans MS">Academic: Leading and Exceeding</font>
-Beijing Normal University[北京師範大學](https://www.bnu.edu.cn/)
+Beijing Normal University [北京師範大學](https://www.bnu.edu.cn/)
 
 | Transcript & Ranking | Description   <br>
 | [Transcript]({{site.url}}/file/本科生英文成绩单.pdf)  | **Exceeding Expectations:** Transcript of Bachelor from Sep 2021 to  June 2025  <br>
@@ -27,21 +27,15 @@ Beijing Normal University[北京師範大學](https://www.bnu.edu.cn/)
 
 <font color=CornflowerBlue face="Times New Roman">It may be helpful to identify a positive feedback mechanism that aligns with your natural rhythm. You could find me in the study room at 7 AM, or working on the lemon car model with PhD students at 10 PM. My notes were often sought after during finals. In my free time, I enjoyed watching videos on humanities, social sciences, and popular science to cultivate my economic intuition. Whenever I encountered counterintuitive phenomena, I would ponder the underlying reasons.</font>
 
+## <font face="Comic Sans MS">Education: Spreading and Creating </font>
 
-Academic
----
-Beijing Normal University, Bachelor, Sep 2021 – June 2025
+|Experience | Description  <br>
 
-* This is his Academic Transcript of outstanding results obtained with his deep understanding of his major. [Click]({{site.url}}/file/本科生英文成绩单.pdf)
-  
-* His GPA was the top in the major and exceeded the second place by six points (under the percentage system). [Click]({{site.url}}/file/Shengjie_SONG's_Grade_at_bachalor.pdf)
-  
-* He received a National Scholarship and the school's highest honour.
+|Lecturers and Teaching Assistants for [Chinese]({{site.url}}/file/【教育实习】乘风语文实习.pdf), [Geography]({{site.url}}/file/【教育实习】宋圣洁实习证明.pdf), IELTS English | Helping students with insufficient teachers, educational resources and unequal access to education in educational training institutions <br>
+|Teacher Qualification Certificate ([Maths]({{site.url}}/file/数学教师.pdf) & [English]({{site.url}}/file/英语教师.pdf)) of High School| Demonstrate that the applicant has passed the examinations on teacher ethics, basic qualities, educational and pedagogical competencies, and potential for professional development of teachers. | <br>
+|[SDG Olympiad Competition]({{site.url}}/file/thu铜.pdf) at Tsinghua University | The workshop was centred around the theme of ‘Planetary Health’, which encouraged campers to explore practical issues and propose potentially viable solutions to accelerate society's progress towards the SDG goals. <br>
 
-  * National Scholarship (Top 1% of the university, highest scholarship from Ministry of Education of China) [Click]({{site.url}}/file/国家奖学金.pdf)
- 
-  * The First Prize Scholarship (Top 10% of the school, highest academic honor at BNU) [Click]({{site.url}}/file/京师一等奖学金.pdf)
- 
+
 Leadership and Volunteering
 ---
 * The Third Conference of the lnternational Science, Technology and innovation Forum of Boao Forum for Asia ([ISTIF](https://www.boaoforum.org/themed/istif/2023/index_1.html))  [Click]({{site.url}}/file/2023年10月+优秀志愿者+博鳌亚洲论坛.pdf)
