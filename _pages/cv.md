@@ -15,6 +15,7 @@ redirect_from:
 
 
 ## Academic: Leading and Exceeding
+![Desktop View](/images/BNU_logo.png){: width="972" height="589" }
 
 | Transcript & Ranking | Description   <br>
 | [Transcript]({{site.url}}/file/本科生英文成绩单.pdf)  | **Exceeding Expectations:** Transcript of Bachelor from Sep 2021 to  June 2025  <br>
@@ -24,7 +25,7 @@ redirect_from:
 | [National Scholarship]({{site.url}}/file/国家奖学金.pdf)          | **Highest** scholarship from Ministry of Education of China        <br>
 | [The First Prize Scholarship]({{site.url}}/file/京师一等奖学金.pdf)    | **Highest** academic honor at BNU (Top 10%)    
 
-<font color=#6495ED face="Times New Roman">It may be helpful to identify a positive feedback mechanism that aligns with your natural rhythm. You could find me in the study room at 7 AM, or working on the lemon car model with PhD students at 10 PM. My notes were often sought after during finals. In my free time, I enjoyed watching videos on humanities, social sciences, and popular science to cultivate my economic intuition. Whenever I encountered counterintuitive phenomena, I would ponder the underlying reasons.</font>
+<font color=CornflowerBlue face="Times New Roman">It may be helpful to identify a positive feedback mechanism that aligns with your natural rhythm. You could find me in the study room at 7 AM, or working on the lemon car model with PhD students at 10 PM. My notes were often sought after during finals. In my free time, I enjoyed watching videos on humanities, social sciences, and popular science to cultivate my economic intuition. Whenever I encountered counterintuitive phenomena, I would ponder the underlying reasons.</font>
 
 
 Academic
