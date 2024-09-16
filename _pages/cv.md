@@ -31,6 +31,7 @@ Beijing Normal University [北京師範大學](https://www.bnu.edu.cn/)
 
 |Experience | Description  <br>
 |Lecturers and Teaching Assistants for [Chinese]({{site.url}}/file/【教育实习】乘风语文实习.pdf), [Geography]({{site.url}}/file/【教育实习】宋圣洁实习证明.pdf), IELTS English | Helping students with insufficient teachers, educational resources and unequal access to education in educational training institutions <br>
+|Aid Education in [Henan Province]({{site.url}}/file/EDU_Zhijiao.pdf)| Volunteer Teaching in a Middle School in a National Poverty-stricken County
 |Teacher Qualification Certificate ([Maths]({{site.url}}/file/数学教师.pdf) & [English]({{site.url}}/file/英语教师.pdf)) of High School| Demonstrate that the applicant has passed the examinations on teacher ethics, basic qualities, educational and pedagogical competencies, and potential for professional development of teachers.  <br>
 |[SDG Olympiad Competition]({{site.url}}/file/thu铜.pdf) at Tsinghua University | The workshop was centred around the theme of ‘Planetary Health’, which encouraged campers to explore practical issues and propose potentially viable solutions to accelerate society's progress towards the SDG goals. <br> <br>
 
@@ -51,8 +52,8 @@ Later, at the Tsinghua University SDG Olympiad Competition, I collaborated with 
 |Student Union’s General Affairs Minister |**Leadership:** Student Work and [Head of Department]({{site.url}}/file/教育培训部部门负责人证明.pdf) <br> <br>
 
 |Activity | Location |Topic <br>
-|[Research on Baoan Waist Knives]({{site.url}}/file/卓越训练营.pdf)|Jieshishan County, Gansu Province |Protection of Ethnic Minority Cultural Heritage <br>
-|[Entering Ancient Shu Culture&Exploring Ancestral Civilisation](https://mp.weixin.qq.com/s/PefKn-BtHiRaCo-bHN69mQ)|Chengdu, Sichuan Province |Exploring Ancient Civilisation and Modern Urban Governance <br>
+|[Research on Baoan Waist Knives]({{site.url}}/file/VOU_Gansu.pdf)|Jieshishan County, Gansu Province |Protection of Ethnic Minority Cultural Heritage <br>
+|[Entering Ancient Shu Culture&Exploring Ancestral Civilisation](https://mp.weixin.qq.com/s/PefKn-BtHiRaCo-bHN69mQ)(or [PDF]({{site.url}}/file/VOU_Chengdu.pdf) version)|Chengdu, Sichuan Province |Exploring Ancient Civilisation and Modern Urban Governance  <br>
 |College Students' View of Daochen |Daochen County, Guizhou Province |Cultural Tourism Poverty Alleviation <br>
 |[Excellence Camp]({{site.url}}/file/卓越训练营.pdf) in BNU |Beijing, Zhuhai |'Obsession for Excellence', aiming to cultivate excellent talents with comprehensive abilities
 
