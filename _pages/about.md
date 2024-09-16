@@ -6,28 +6,22 @@ redirect_from:
   - /about.html
 ---
 
-Shengjie Song is currently an undergraduate student in [BIBS](https://bibs.bnu.edu.cn/) at Beijing Normal University. Born at Qingdao, Shandong, China. His major is Financial Technology and he is interested in history, education, technology, economics, and art. He has a 3.9/4.0 GPA during his undergraduate studies, was the top student in the college, and received a National Scholarship. He is dedicated to finding interesting and innovative ideas from seemingly boring observations and is currently applying for graduate school.
+I am currently an Research Assistant, FTEC Thrust, Society Hub, Hong Kong University of Secience and Technology([HKUST-GZ](https://www.hkust-gz.edu.cn/zh/?variant=zh-cn)), supervise by Prof. [Yi Zhang](https://sites.google.com/view/yzhangone/home).
 
-Shengjie Song has a wide range of research interests and has plans to pursue a PhD degree in the intersection of economics, finance, computing, and mathematics. He explains university knowledge in [Bilibili](https://space.bilibili.com/1329764887), and most students tend to listen to his class for consolidation of revision in normal study, and helps PhD teaching assistants to answer questions in algorithm design class. He also has project experience in aging economy (CHARLS), toll roads (SBER), synthetic biology (iGEM), and overseas macroeconomics. He currently researches and writes about asset pricing, socio-economics related research under the guidance of BIBS faculty, and will continue to delve deeper into computers and finance in the future. **You can view his experience in Publications/ Projects/ Teaching/ Experience at the top of the homepage.**
-宋圣洁研究兴趣广泛，并有在经济、金融、计算机、数学交叉领域读博计划。他在[哔哩哔哩](https://space.bilibili.com/1329764887)讲解大学知识，平常学习多数同学倾向于听他的课巩固复习，算法设计课上帮助博士生助教答疑。他也在老龄经济（CHARLS）、收费公路（SBER）、合成生物学（iGEM）、海外宏观经济有项目经历。他目前在BIBS老师指导下，研究并撰写资产定价、社会经济相关的研究，未来将在计算机、金融等方面继续深入研究。**您可以在主页上方的Publications/ Projects/ Teaching/ Experience 栏目查看他的阅历。**
+I recived my Bachelor's Degree in Bay Area International Business School of Finance Technology([BIBS](https://bibs.bnu.edu.cn/)), Beijing Normal University([BNU](https://www.bnu.edu.cn/)). In my third year as an undergraduate, I was fortunate to have the opportunity to study under Prof. [Meng Han](https://bibs.bnu.edu.cn/teachers/qzjs/587d80e0309b4d559299abec5d16924b.htm) who is an excellent teacher, guiding me to the academic path.
 
-If you want more detailed information, please [email](mailto:sjs@mail.bnu.edu.cn) at me. 
+My research interest includes Empirical Asset Pricing, Empirical Finance, Education and Macroeconomics, Applied Machine Learning. In particular, how political, climatic, educational and other social events affect asset values.
+
+My goal is to study how phenomena in the humanities and social spheres affect the value of financial assets, in order to hopefully achieve financial inclusion. I am seeking a RA or Ph.D. position, starting from now or 4 years later,respectively. If you are interested in my research or would like to collaborate, please feel free to look through my homepage and reach out. 
+
+<font color=DarkGray size=3>By clicking the buttons above, you can explore my research, projects, teaching, and experiences. On my personal homepage, you can reach the deepest level of content in no more than three clicks, with no further navigation required.</font>
+
 
 Education
 ====
 * Beijing Normal University (2021.09-2025.06)  
   Finance Technology  
   Advisor: Prof. [Meng Han](https://bibs.bnu.edu.cn/teachers/qzjs/587d80e0309b4d559299abec5d16924b.htm)
-  
-Research Interests
-====
-* Asset Pricing
-
-* Financial Economy
-  
-* The Intersection of Computer Science and Finance
-  
-* Pedagogy
 
 
 
