@@ -14,13 +14,12 @@ My research interest includes Empirical Asset Pricing, Empirical Finance, Educat
 
 My goal is to study how phenomena in the humanities and social spheres affect the value of financial assets, in order to hopefully achieve financial inclusion. I am seeking a RA or Ph.D. position, starting from now or 4 years later,respectively. If you are interested in my research or would like to collaborate, please feel free to look through my homepage and reach out. 
 
-<font color=DarkGray size=3>By clicking the buttons above, you can explore my research, projects, teaching, and experiences. On my personal homepage, you can reach the deepest level of content in no more than three clicks, with no further navigation required.</font>
-
+> <font color=DarkGray size=3>Note: By clicking the buttons above, you can explore my research, projects, teaching, and experiences. On my personal homepage, you can reach the deepest level of content in no more than three clicks, with no further navigation required.</font>  <br> <br>
 
 Education
 ====
 * Beijing Normal University (2021.09-2025.06)  
-  Finance Technology  
+  Bachelor, Finance Technology  
   Advisor: Prof. [Meng Han](https://bibs.bnu.edu.cn/teachers/qzjs/587d80e0309b4d559299abec5d16924b.htm)
 
 
