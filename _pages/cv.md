@@ -42,108 +42,28 @@ Upon returning to campus, I joined a high school tutoring organization, progress
 
 Later, at the Tsinghua University SDG Olympiad Competition, I collaborated with friends from Vietnam, Thailand, and other countries to discuss Sustainable Development Goals (SDGs). We found common ground in addressing educational inequality and proposed developing a metaverse game to help children in impoverished areas experience urban professions, guiding them toward distant goals. We also promoted our project through media platforms, aiming to expand its reach to different regions. We are all committed to spreading and creating equal educational opportunities.</font> 
 
-Leadership and Volunteering
----
-* The Third Conference of the lnternational Science, Technology and innovation Forum of Boao Forum for Asia ([ISTIF](https://www.boaoforum.org/themed/istif/2023/index_1.html))  [Click]({{site.url}}/file/2023年10月+优秀志愿者+博鳌亚洲论坛.pdf)
-  
-* [THE SIXTH CHINA EDUCATION INNOVATION EXPO](https://news.bnu.edu.cn/zx/ttgz/2091c3219be24fb8b3ad5fdab16d93ce.htm)  [Click]({{site.url}}/file/教博会.pdf)
-  
-* Student Union’s General Affairs Minister [Click]({{site.url}}/file/教育培训部部门负责人证明.pdf)
+## <font face="Comic Sans MS">Volunteer: Cross-cultural and Cross-disciplinary </font>
 
-Qualification and Part-time Work
----
-* He has obtained national qualification in both accounting and edcation area, such as,
-  
-  * Accounting Professional and Technical Qualification Certificate (Junior)  [Click]({{site.url}}/file/初级会计.pdf)
-    
-  * Higher Secondary [Mathematics]({{site.url}}/file/数学教师.pdf) & [English]({{site.url}}/file/英语教师.pdf) Teaching Qualifications
+|Experience | Description <br>
+|Little Red Book | **Influencer:** Travelled around China and shared personal experience on social platform called Little Red Book and obtain over 10,000 fans (following him by clicking [here](https://www.xiaohongshu.com/user/profile/619e2dd9000000001000afa2?xhsshare=CopyLink&appuid=619e2dd9000000001000afa2&apptime=1718706118&share_id=94e7a172ea274f2d8a05a0a083ca32af)).   <br>
+|The Third Conference of the lnternational Science, Technology and innovation Forum of Boao Forum for Asia([ISTIF](https://www.boaoforum.org/themed/istif/2023/index_1.html)) | **Volunteering:**[Best Volunteer]({{site.url}}/file/2023年10月+优秀志愿者+博鳌亚洲论坛.pdf). <br>
+|[THE SIXTH CHINA EDUCATION INNOVATION EXPO](https://news.bnu.edu.cn/zx/ttgz/2091c3219be24fb8b3ad5fdab16d93ce.htm) | **Volunteering:**[Best Volunteer]({{site.url}}/file/教博会.pdf) <br>
+|Student Union’s General Affairs Minister |**Leadership:** Student Work and [Head of Department]({{site.url}}/file/教育培训部部门负责人证明.pdf) <br>
 
-* He often works as a teaching assistant in high school and English-learning institutions, for example,
-  
-  * Chinese Teaching  [Click]({{site.url}}/file/【教育实习】乘风语文实习.pdf)
-    
-  * English Teaching
-    
-  * Arts Teaching [Click]({{site.url}}/file/【教育实习】宋圣洁实习证明.pdf)
-
-
-Interests
----
-* He possesses excellent linguistic skills, including
-  
-  * English IELTS 6.5 (Listening 6.5, Reading 7, Speaking 6.5, Writing 6.5) [Click]({{site.url}}/file/雅思成绩单.pdf)
-    
-  * 中文(Mandarin)一级乙等(Highest level of qualification examination) (Native speaker) [Click]({{site.url}}/file/普通话一级乙等.pdf)
-    
-  * 日本語／にほんご(Japanese) (Beginner).
-    
-* He loves Interdisciplinary Learning, for example, he attending lectures on
-
-  * July, 2024, Certificate of Achievement Awarded to Shengjie SONG for succesopully completing [Society Hub Summer Camp]({{site.url}}/file/HKUST(GZ).pdf) for PhD Admission in Fall 2025
- 
-  * July, 2024， [Postgraduate Forum]({{site.url}}/file/pku教育经济加密.pdf) on Economics of Education in Peking University
- 
-  * July, 2024, Outstanding Undergraduate Summer Camp, School of Systems Science, awarded [Outstanding Camper]({{site.url}}/file/系统科学学院优秀营员.pdf)) in Beijing Normal University
-
-  * June, 2024, Open FIESTA Summer Camp and SDG Olympiad at Tsinghua University (got [BRONZE PRIZE]({{site.url}}/file/thu铜.pdf))
-
-  * April, 2024, Faculty of Humanities of the University of Macau (successfully participation as [speaker]({{site.url}}/file/澳门大学.pdf)) in University of Macao
-
-  * June, 2023, Introduction to Mathematical Theory on Fluids (got score [98]({{site.url}}/file/数学系列讲座3.pdf)) in Beijing Normal University
-    
-  * June, 2023, Modes and Approximate Standard Types (got score [95]({{site.url}}/file/数学系列讲座1.pdf)) in Beijing Normal University
-      
-* He is also willing to embrace new thins, for instance,
-  
-  * Travelled to more than 30 cities in China and shared personal experience on social platform called Little Red Book and obtain over 10,000 fans (following him by clicking [here](https://www.xiaohongshu.com/user/profile/619e2dd9000000001000afa2?xhsshare=CopyLink&appuid=619e2dd9000000001000afa2&apptime=1718706118&share_id=94e7a172ea274f2d8a05a0a083ca32af)).
     
   * Sports and Bodybuilding (Badminton, Table Tennis, Swimming, Climbing and Camping etc.) and some [official camps]({{site.url}}/file/卓越训练营.pdf) to improve my overall quality.
 
 
 
+## <font face="Comic Sans MS">Skills & Interests: Diversified Learning </font>
 
+|Skills | Description and Certification <br>
+|Accounting Professional and Technical Qualification Certificate (Junior) |**Diversified Learning: Accounting** [Accounting] Qualification({{site.url}}/file/初级会计.pdf) <br>
+|Linguistic Skills of English,Mandarin,Japanese | **Diversified Learning: Language** English [IELTS]({{site.url}}/file/雅思成绩单.pdf) 6.5(Listening 6.5, Reading 7, Speaking 6.5, Writing 6.5),中文([Mandarin]({{site.url}}/file/普通话一级乙等.pdf))一级乙等(Highest level of qualification examination) (Native speaker), 日本語／にほんご(Japanese) (Beginner) <br> <br>
 
-- [ ] Job
-  - [x] Step 1
-  - [x] Step 2
-  - [ ] Step 3
-
-### Description list
-
-Sun
-: the star around which the earth orbits
-
-Moon
-: the natural satellite of the earth, visible by reflected light from the sun
-
-## Block Quote
-
-> This line shows the _block quote_.
-
-## Prompts
-
-<!-- markdownlint-capture -->
-<!-- markdownlint-disable -->
-> An example showing the `tip` type prompt.
-{: .prompt-tip }
-
-> An example showing the `info` type prompt.
-{: .prompt-info }
-
-> An example showing the `warning` type prompt.
-{: .prompt-warning }
-
-> An example showing the `danger` type prompt.
-{: .prompt-danger }
-<!-- markdownlint-restore -->
-
-## Tables
-
-| Company                      | Contact          | Country |
-| :--------------------------- | :--------------- | ------: |
-| Alfreds Futterkiste          | Maria Anders     | Germany |
-| Island Trading               | Helen Bennett    |      UK |
-| Magazzini Alimentari Riuniti | Giovanni Rovelli |   Italy |
-
-
-
+|Experience | Time | Location| Certification <br>
+|Society Hub Summer Camp | July,2024 | [HKUST-GZ](https://mp.weixin.qq.com/s/atLUJUpZpj7wqW6ebPvHBw) | Certificate of Achievement Awarded to Shengjie SONG for succesopully completing [Society Hub Summer Camp]({{site.url}}/file/HKUST(GZ).pdf) for PhD Admission in Fall 2025 <br>
+|Economics of Education |July,2024 |Peking University | [Postgraduate Forum]({{site.url}}/file/pku教育经济加密.pdf) on Economics of Education <br>
+|Systems Science | July,2024 |Beijing Normal University |Outstanding Undergraduate Summer Camp for Systems Science, awarded [Outstanding Camper]({{site.url}}/file/系统科学学院优秀营员.pdf)) <br>
+|Cultural Spread and Change | April,2024 |University of Macau| Faculty of Humanities, successfully participation as [speaker]({{site.url}}/file/澳门大学.pdf)) in University of Macao <br>
+|Maths Lecture |June,2023|Beijing Normal University |Introduction to Mathematical Theory on Fluids (got score [98]({{site.url}}/file/数学系列讲座3.pdf)), Modes and Approximate Standard Types (got score [95]({{site.url}}/file/数学系列讲座1.pdf))
