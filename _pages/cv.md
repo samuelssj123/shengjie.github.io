@@ -80,4 +80,4 @@ Beyond these projects, I have actively participated as a volunteer in other acti
 |Cultural Spread and Change | April,2024 |University of Macau| Faculty of Humanities, successfully participation as [speaker]({{site.url}}/file/澳门大学.pdf)) in University of Macao <br>
 |Maths Lecture |June,2023|Beijing Normal University |Introduction to Mathematical Theory on Fluids (got score [98]({{site.url}}/file/数学系列讲座3.pdf)), Modes and Approximate Standard Types (got score [95]({{site.url}}/file/数学系列讲座1.pdf))
 
-[Diversity Statement and Personal Story]({{site.url}}/file/CV_Div.pdf))
+<font color=IndianRed face="Times New Roman"> This part of the content related to my personal story can be viewed in the document.[Diversity Statement and Personal Story]({{site.url}}/file/CV_Div.pdf) </font>
