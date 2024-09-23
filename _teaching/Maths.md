@@ -13,8 +13,10 @@ He has a solid mathematical background. He has won the second prize in the provi
 
 From 2022 to 2024.
 
-Basic Course
+Basic Core Course
 ======
+I have also prepared personal study and preparation notes for your use in the core undergraduate math courses, which you can download by clicking on the following: table of [contents](Warehouse/math_mulu.pdf), [calculus](Warehouse/math_Calculus.pdf), [linear algebra](Warehouse/math_linear_algebra.pdf), and [probability theory and mathematical statistics](Warehouse/math_pro_sta.pdf). The textbook uses the Complete Book of Review for Domestic Examinations by Zhengyuan Li.
+
 [Calculus](https://www.bilibili.com/video/BV1Q7421f7jn/)
 
 [Linear Algebra](https://www.bilibili.com/video/BV1ar42177QF/)
