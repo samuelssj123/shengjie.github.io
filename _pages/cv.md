@@ -28,7 +28,7 @@ Beijing Normal University [北京師範大學](https://www.bnu.edu.cn/)
 ## <font face="Comic Sans MS">Education: Spreading and Equality </font>
 
 |Experience | Description  <br>
-|Lecturers and Teaching Assistants for [Chinese]({{site.url}}/file/【教育实习】乘风语文实习.pdf), [Geography]({{site.url}}/file/【教育实习】宋圣洁实习证明.pdf), IELTS English | Helping students with insufficient teachers, educational resources and unequal access to education in educational training institutions <br>
+|Lecturers and Teaching Assistants for [Chinese]({{site.url}}/file/【教育实习】乘风语文实习.pdf), [Geography]({{site.url}}/file/【教育实习】宋圣洁实习证明.pdf), [IELTS English]({{site.url}}/file/CV_engintern.pdf) | Helping students with insufficient teachers, educational resources and unequal access to education in educational training institutions <br>
 |Aid Education in [Henan Province]({{site.url}}/file/EDU_Zhijiao.pdf)| Volunteer Teaching in a Middle School in a National Poverty-stricken County
 |Teacher Qualification Certificate ([Maths]({{site.url}}/file/数学教师.pdf) & [English]({{site.url}}/file/英语教师.pdf)) of High School| Demonstrate that the applicant has passed the examinations on teacher ethics, basic qualities, educational and pedagogical competencies, and potential for professional development of teachers.  <br>
 |[SDG Olympiad Competition]({{site.url}}/file/thu铜.pdf) at Tsinghua University | The workshop was centred around the theme of ‘Planetary Health’, which encouraged campers to explore practical issues and propose potentially viable solutions to accelerate society's progress towards the SDG goals. <br> <br>
