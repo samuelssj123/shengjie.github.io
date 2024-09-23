@@ -15,7 +15,7 @@ From 2022 to 2024.
 
 Basic Core Course
 ======
-I have also prepared personal study and preparation notes for your use in the core undergraduate math courses, which you can download by clicking on the following: table of [contents]({{site.url}}Warehouse/math_mulu.pdf), [calculus](Warehouse/math_Calculus.pdf), [linear algebra](Warehouse/math_linear_algebra.pdf), and [probability theory and mathematical statistics](Warehouse/math_pro_sta.pdf). The textbook uses the Complete Book of Review for Domestic Examinations by Zhengyuan Li.
+I have also prepared personal study and preparation notes for your use in the core undergraduate math courses, which you can download by clicking on the following: table of [contents](https://github.com/samuelssj123/Warehouse/math_mulu.pdf), [calculus](Warehouse/math_Calculus.pdf), [linear algebra](Warehouse/math_linear_algebra.pdf), and [probability theory and mathematical statistics](Warehouse/math_pro_sta.pdf). The textbook uses the Complete Book of Review for Domestic Examinations by Zhengyuan Li.
 
 [Calculus](https://www.bilibili.com/video/BV1Q7421f7jn/)
 
