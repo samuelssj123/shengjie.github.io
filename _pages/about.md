@@ -26,8 +26,10 @@ Education and Research
   
   Advisor: Prof. [Yi Zhang](https://sites.google.com/view/yzhangone/home)
 
-* Beijing Normal University (2021.09-2025.06)     
-  Bachelor, Finance Technology  
+* Beijing Normal University (2021.09-2025.06)
+  
+  Bachelor, Finance Technology
+  
   Advisor: Prof. [Meng Han](https://bibs.bnu.edu.cn/teachers/qzjs/587d80e0309b4d559299abec5d16924b.htm)
 
 
