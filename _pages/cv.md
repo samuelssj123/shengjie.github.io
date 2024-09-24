@@ -79,7 +79,7 @@ Beyond these projects, I have actively participated as a volunteer in other acti
 |Linguistic Skills of English,Mandarin,Japanese | **Diversified Learning: Language** English [IELTS]({{site.url}}/file/雅思成绩单.pdf) 6.5(Listening 6.5, Reading 7, Speaking 6.5, Writing 6.5),中文([Mandarin]({{site.url}}/file/普通话一级乙等.pdf))一级乙等(Highest level of qualification examination) (Native speaker), 日本語／にほんご(Japanese) (Beginner) <br> <br>
 
 * Skills used in Research
-  * Advanced: R, Stata, Python, Basic: C/C++, Java, Matlab
+  * Advanced: R, Stata, Python, Basic: GIS, C/C++, Java, Matlab
   * Proficient: Data Processing and Empirical Analysis, Machine Learning, MS-Office software (Word, Excel etc.)
 
 |Experience | Time | Location| Certification <br>
