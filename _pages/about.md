@@ -19,8 +19,8 @@ My goal is to study how phenomena in the humanities and social spheres affect th
 
 Education and Research
 ====
-* The Hong Kong University of Science and Technology(Guangzhou) (2024.09-present)
 
+* The Hong Kong University of Science and Technology(Guangzhou) (2024.09-present)
   Research Assistant, Finance Technology
   Advisor: Prof. [Yi Zhang](https://sites.google.com/view/yzhangone/home)
 
