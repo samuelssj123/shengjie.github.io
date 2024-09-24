@@ -12,6 +12,12 @@ redirect_from:
 > <font face="Trebuchet MS">I come from a county under Qingdao, Shandong Province, where I completed my pre-university education. From county to city, I have developed a propensity for recognizing alternative views, and in doing so I have come to appreciate the importance of helping those less represented and underprivileged. </font> <br>
 > *Note: You can click the button at the end of each lines, but you may not open successfully because some of them include private information. If you are interested you can [email](mailto:sjs@mail.bnu.edu.cn) at me.*
 
+* [Academic: Leading and Exceeding](#Academic:-Leading-and-Exceeding)
+* [Education: Spreading and Equality](#Education:-Spreading-and-Equality)
+* [Volunteering: Cross-cultural and Inclusion](#Volunteering:-Cross-cultural-and-Inclusion)
+* [Skills & Interests: Diversified Learning and Purpose](#Skills-&-Interests:-Diversified-Learning-and-Purpose)
+
+  
 ## <font face="Comic Sans MS">Academic: Leading and Exceeding</font>
 Beijing Normal University [北京師範大學](https://www.bnu.edu.cn/)
 
@@ -25,7 +31,7 @@ Beijing Normal University [北京師範大學](https://www.bnu.edu.cn/)
 
 <font color=CornflowerBlue face="Times New Roman">It may be helpful to identify a positive feedback mechanism that aligns with your natural rhythm. You could find me in the study room at 7 AM, or working on the lemon car model with PhD students at 10 PM. My notes were often sought after during finals. In my free time, I enjoyed watching videos on humanities, social sciences, and popular science to cultivate my economic intuition. Whenever I encountered counterintuitive phenomena, I would ponder the underlying reasons.</font>
 
-## <font face="Comic Sans MS">Education: Spreading and Equality </font>
+## <font face="Comic Sans MS">Education: Spreading and Equality</font>
 
 |Experience | Description  <br>
 |Lecturers and Teaching Assistants for [Chinese]({{site.url}}/file/【教育实习】乘风语文实习.pdf), [Geography]({{site.url}}/file/【教育实习】宋圣洁实习证明.pdf), [IELTS English]({{site.url}}/file/CV_engintern.pdf) | Helping students with insufficient teachers, educational resources and unequal access to education in educational training institutions <br>
@@ -41,7 +47,7 @@ Upon returning to campus, I joined a high school tutoring organization, progress
 
 Later, at the Tsinghua University SDG Olympiad Competition, I collaborated with friends from Vietnam, Thailand, and other countries to discuss Sustainable Development Goals (SDGs). We found common ground in addressing educational inequality and proposed developing a metaverse game to help children in impoverished areas experience urban professions, guiding them toward distant goals. We also promoted our project through media platforms, aiming to expand its reach to different regions. We are all committed to spreading and creating equal educational opportunities.</font> 
 
-## <font face="Comic Sans MS">Volunteering: Cross-cultural and Inclusion </font>
+## <font face="Comic Sans MS">Volunteering: Cross-cultural and Inclusion</font>
 
 |Experience | Description <br>
 |Little Red Book | **Influencer:** Travelled around China and shared personal experience on social platform called Little Red Book and obtain over 10,000 fans (following him by clicking [here](https://www.xiaohongshu.com/user/profile/619e2dd9000000001000afa2?xhsshare=CopyLink&appuid=619e2dd9000000001000afa2&apptime=1718706118&share_id=94e7a172ea274f2d8a05a0a083ca32af)).   <br>
@@ -63,7 +69,7 @@ Additionally, my work with an autistic child revealed the profound impact of tai
 Beyond these projects, I have actively participated as a volunteer in other activities that has equipped me with comprehensive skills and a drive for continuous improvement. They have enriched my understanding of cross-cultural dynamics and prepared me to contribute meaningfully to diverse academic and professional environments.  <br> <br> </font>
 
 
-## <font face="Comic Sans MS">Skills & Interests: Diversified Learning and Purpose </font>
+## <font face="Comic Sans MS">Skills & Interests: Diversified Learning and Purpose</font>
 
 |Skills | Description and Certification <br>
 |Accounting Professional and Technical Qualification Certificate (Junior) |**Diversified Learning: Accounting** [Accounting Qualification]({{site.url}}/file/初级会计.pdf) <br>
