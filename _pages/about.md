@@ -21,7 +21,9 @@ Education and Research
 ====
 
 * The Hong Kong University of Science and Technology(Guangzhou) (2024.09-present)
+
   Research Assistant, Finance Technology
+  
   Advisor: Prof. [Yi Zhang](https://sites.google.com/view/yzhangone/home)
 
 * Beijing Normal University (2021.09-2025.06)     
