@@ -15,7 +15,18 @@ From 2022 to 2024.
 
 Basic Core Course
 ======
-I have also prepared personal study and preparation notes for your use in the core undergraduate math courses, which you can download by clicking on the following to download: table of [contents](https://github.com/samuelssj123/WareHouse/raw/refs/heads/master/math_mulu.pdf), [calculus](https://github.com/samuelssj123/WareHouse/raw/refs/heads/master/math_Calculus.pdf), [linear algebra](https://github.com/samuelssj123/WareHouse/raw/refs/heads/master/math_linear_algebra.pdf), and [probability theory and mathematical statistics](https://github.com/samuelssj123/WareHouse/raw/refs/heads/master/math_pro_sta.pdf). The textbook uses the Complete Book of Review for Domestic Examinations by Zhengyuan Li.
+
+* I have also prepared personal study and preparation notes for your use in the core undergraduate math courses, which you can download by clicking on the following to download. The textbook uses the Complete Book of Review for Domestic Examinations by Zhengyuan Li.
+
+[Contents](https://github.com/samuelssj123/WareHouse/raw/refs/heads/master/math_mulu.pdf)
+
+[Calculus](https://github.com/samuelssj123/WareHouse/raw/refs/heads/master/math_Calculus.pdf)
+
+[Linear Algebra](https://github.com/samuelssj123/WareHouse/raw/refs/heads/master/math_linear_algebra.pdf)
+
+[Probability Theory and Mathematical Statistics](https://github.com/samuelssj123/WareHouse/raw/refs/heads/master/math_pro_sta.pdf)
+
+* The practice and lecture courses are as follows:
 
 [Calculus](https://www.bilibili.com/video/BV1Q7421f7jn/)
 
