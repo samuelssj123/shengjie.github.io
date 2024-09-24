@@ -20,10 +20,11 @@ My goal is to study how phenomena in the humanities and social spheres affect th
 Education and Research
 ====
 * The Hong Kong University of Science and Technology(Guangzhou) (2024.09-present)
+
   Research Assistant, Finance Technology
   Advisor: Prof. [Yi Zhang](https://sites.google.com/view/yzhangone/home)
 
-* Beijing Normal University (2021.09-2025.06)  
+* Beijing Normal University (2021.09-2025.06)     
   Bachelor, Finance Technology  
   Advisor: Prof. [Meng Han](https://bibs.bnu.edu.cn/teachers/qzjs/587d80e0309b4d559299abec5d16924b.htm)
 
