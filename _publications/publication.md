@@ -18,7 +18,7 @@ author_profile: true
 
 - Research Assistant, 2024-present, The Hong Kong University of Science and Technology(Guangzhou)
 
-  --Report1: How Trump and Paris Agreement shock Climate Change Exposure in stock market? [[pdf]({{site.url}}/file/Rea_report1.pdf)]
+  Report 1: How Trump and Paris Agreement shock Climate Change Exposure in stock market? [[pdf]({{site.url}}/file/Rea_report1.pdf)]
 
 -  Project Leader, 2024 Guangdong Science and Technology Innovation Strategy Special Funds (‘Climbing Program’) (Project NO. pdjh2024b424), 2024-2026 [[pdf]({{site.url}}/file/Res_Climbing.pdf)]
 
