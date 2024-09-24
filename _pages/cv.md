@@ -12,10 +12,11 @@ redirect_from:
 > <font face="Trebuchet MS">I come from a county under Qingdao, Shandong Province, where I completed my pre-university education. From county to city, I have developed a propensity for recognizing alternative views, and in doing so I have come to appreciate the importance of helping those less represented and underprivileged. </font> <br>
 > *Note: You can click the button at the end of each lines, but you may not open successfully because some of them include private information. If you are interested you can [email](mailto:sjs@mail.bnu.edu.cn) at me.*
 
+# <font face="Comic Sans MS">Contents</font>
 * [Academic: Leading and Exceeding](#section1)
-* [Education: Spreading and Equality](#education:-spreading-and-equality)
-* [Volunteering: Cross-cultural and Inclusion](#volunteering:-rross-cultural-and-inclusion)
-* [Skills & Interests: Diversified Learning and Purpose](#skills-&-interests:-diversified-learning-and-purpose)
+* [Education: Spreading and Equality](#section2)
+* [Volunteering: Cross-cultural and Inclusion](#section3)
+* [Skills & Interests: Diversified Learning and Purpose](#section4)
 
 <a id="section1"></a>
 ## <font face="Comic Sans MS">Academic: Leading and Exceeding</font>
@@ -31,6 +32,7 @@ Beijing Normal University [北京師範大學](https://www.bnu.edu.cn/)
 
 <font color=CornflowerBlue face="Times New Roman">It may be helpful to identify a positive feedback mechanism that aligns with your natural rhythm. You could find me in the study room at 7 AM, or working on the lemon car model with PhD students at 10 PM. My notes were often sought after during finals. In my free time, I enjoyed watching videos on humanities, social sciences, and popular science to cultivate my economic intuition. Whenever I encountered counterintuitive phenomena, I would ponder the underlying reasons.</font>
 
+<a id="section2"></a>
 ## <font face="Comic Sans MS">Education: Spreading and Equality</font>
 
 |Experience | Description  <br>
@@ -47,6 +49,7 @@ Upon returning to campus, I joined a high school tutoring organization, progress
 
 Later, at the Tsinghua University SDG Olympiad Competition, I collaborated with friends from Vietnam, Thailand, and other countries to discuss Sustainable Development Goals (SDGs). We found common ground in addressing educational inequality and proposed developing a metaverse game to help children in impoverished areas experience urban professions, guiding them toward distant goals. We also promoted our project through media platforms, aiming to expand its reach to different regions. We are all committed to spreading and creating equal educational opportunities.</font> 
 
+<a id="section3"></a>
 ## <font face="Comic Sans MS">Volunteering: Cross-cultural and Inclusion</font>
 
 |Experience | Description <br>
@@ -68,7 +71,7 @@ In Guizhou’s Daozhen County, our team leveraged the region’s unique tourism 
 Additionally, my work with an autistic child revealed the profound impact of tailored educational approaches. By designing activities that allowed him to learn at his own pace, we demonstrated that with the right support, every child can achieve academic success. This taught me the value of empathy, patience, and subtle mentorship. <br> <br>
 Beyond these projects, I have actively participated as a volunteer in other activities that has equipped me with comprehensive skills and a drive for continuous improvement. They have enriched my understanding of cross-cultural dynamics and prepared me to contribute meaningfully to diverse academic and professional environments.  <br> <br> </font>
 
-
+<a id="section4"></a>
 ## <font face="Comic Sans MS">Skills & Interests: Diversified Learning and Purpose</font>
 
 |Skills | Description and Certification <br>
