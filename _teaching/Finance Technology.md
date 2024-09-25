@@ -11,6 +11,11 @@ Core Curriculum: *Financial Big Data Analysis, Blockchain and Digital Assets, Fi
 
 From 2022 to 2024.
 
+Basic Finance 
+---
+
+Monetary Banking, International Finance, Corporate Finance, and Investments are the four core courses of finance, and I have provided a condensed summary and detailed explanation of these four courses. [[link](https://www.bilibili.com/video/BV1UJHke1EcU/?share_source=copy_web&vd_source=e8fa1855f6f86b783664c47a8acea625)]
+
 Financial Big Data Analysis
 ---
 
