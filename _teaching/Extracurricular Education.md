@@ -1,5 +1,5 @@
 ---
-title: "Extracurricular Education"
+title: "Adult Continuing Education"
 type: Tutor and Teaching Researcher
 collection: teaching
 venue: China Mainland
@@ -11,27 +11,34 @@ This section contains the work he has done in high school extracurricular educat
 
 From 2021 to the present.
 
-Extracurricular Education
----
+## Working Handout Manuscripts
 
-- When I was working as a research assistant in HKUST, I studied and researched several courses and compiled my research notes, which I hope can help you.
+> The following is a manuscript of handouts that I developed during my internship that are available to teachers and students.
 > I will update when I finish them.
-  
-GIS and Spatial Analysis [pdf Version:202409]({{site.url}}/file/Tea_gis.pdf)
 
-Quantitative Social Science [pdf Version:202409]({{site.url}}/file/Tea_qua.pdf)
+### Research Enhancement
 
-Machine Learning and Artificial Intelligence [pdf Version:202409]({{site.url}}/file/Tea_mac.pdf)
+- GIS and Spatial Analysis [pdf Version:202409]({{site.url}}/file/Tea_gis.pdf)
 
-- *Ideology and Politics :* I have put together a handy guide for high school students who are struggling with the liberal arts. We know that some concepts can be tricky, and exams can be tough. That's why we've created this helpful resource to make things easier. It's been well-received by students at many different schools, and we're so happy to see it helping them succeed!
-针对高中学生在学习文科时遇到的问题，如概念不清、逻辑混乱、审题不清、生搬硬套等问题，编写了[《高考思想政治修炼手册》]({{site.url}}/file/高考思想政治修炼手册.pdf)，供多家教培机构学生使用，评价良好。
+- Quantitative Social Science [pdf Version:202409]({{site.url}}/file/Tea_qua.pdf)
 
-Vocational Education
----
-Senior Middle School Teacher Qualification Certificate ([Maths](https://www.bilibili.com/video/BV1ES421P7v4/))
+- Machine Learning and Artificial Intelligence [pdf Version:202409]({{site.url}}/file/Tea_mac.pdf)
 
-Senior Middle School Teacher Qualification Certificate ([English](https://www.bilibili.com/video/BV1pM4y1H7mb/))
+### Language Teaching
 
-Senior Middle School Teacher Qualification Certificate ([Politics](https://www.bilibili.com/video/BV1ar421M7Es/))
+- Writing in English for GRE & IELTS
 
-Teacher Qualification Certificate [General Quality](https://www.bilibili.com/video/BV1n14y197Cd/) and [Pedagogy and Educational Psychology](https://www.bilibili.com/video/BV1Du4y1m7Gu/)
+- Advanced Chinese and Literature
+
+## Vocational Education (For Teachers)
+
+- Senior Middle School Teacher Qualification Certificate ([Maths](https://www.bilibili.com/video/BV1ES421P7v4/))
+
+- Senior Middle School Teacher Qualification Certificate ([English](https://www.bilibili.com/video/BV1pM4y1H7mb/))
+
+- Senior Middle School Teacher Qualification Certificate ([Politics](https://www.bilibili.com/video/BV1ar421M7Es/))
+
+  - *Ideology and Politics:* I have put together a handy guide for high school students who are struggling with the liberal arts. We know that some concepts can be tricky, and exams can be tough. That's why we've created this helpful resource to make things easier. It's been well-received by students at many different schools, and we're so happy to see it helping them succeed!
+针对高中学生/教研老师编写了[《高考思想政治修炼手册》]({{site.url}}/file/高考思想政治修炼手册.pdf)，已在教育机构使用并入选出版物。
+
+- Teacher Qualification Certificate [General Quality](https://www.bilibili.com/video/BV1n14y197Cd/) and [Pedagogy and Educational Psychology](https://www.bilibili.com/video/BV1Du4y1m7Gu/)
