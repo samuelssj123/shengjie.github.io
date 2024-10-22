@@ -16,11 +16,12 @@ author_profile: true
 
 **Research Projects**
 
-- Research Assistant, 2024-present, The Hong Kong University of Science and Technology(Guangzhou)
-
-  ***Report 1:** How Trump and Paris Agreement shock Climate Change Exposure in stock market? [[Report PDF]({{site.url}}/file/Rea_report1.pdf)]*
-
 -  Project Leader, Guangdong Science and Technology Innovation Strategy Special Funds (‘Climbing Program’) (Project NO. pdjh2024b424), 2024-2026 [[Public Notice]({{site.url}}/file/Res_Climbing.pdf)]
+
+-  Research Assistant, 2024-present, The Hong Kong University of Science and Technology(Guangzhou)
+
+   <font size=5> ***Topic 1:** How Trump and Paris Agreement shock Climate Change Exposure in stock market? [[Report PDF]({{site.url}}/file/Rea_report1.pdf)]* </font>
+   <font size=5> ***Topic 2:** China Climate Policy Risk Hedging Portfolio [[Report PDF]({{site.url}}/file/Rea_report2.pdf)]* </font>
 
 -  Project Leader, "Jingshi Cup" Technological Innovation Competition, 2024 [[Certification]({{site.url}}/file/Jingshi_cup_key.pdf)]
 
