@@ -23,6 +23,6 @@ author_profile: true
   *Topic 2: China Climate Policy Risk Hedging Portfolio [[Report PDF]({{site.url}}/file/Rea_report2.pdf)]*
 
 -  Project Leader, "Jingshi Cup" Technological Innovation Competition, 2024 [[Certification]({{site.url}}/file/Jingshi_cup_key.pdf)] <br>
-   ***S. Song**,  [Is social capital  the  secret weapon of happiness?]({{site.url}}/file/paper2.pdf), Working paper.*
+   ***S. Song**,  Is social capital  the  secret weapon of happiness?, [Working paper PDF]({{site.url}}/file/paper2.pdf).*
 
 -  Project Leader, Bay Area Top Innovative Youth Cultivation Fund Project, Awarded First Prize, 2023-2024 [[Public Notice](https://bibs.bnu.edu.cn/news/notice/d0538048ad62427e969045a64a8e2ad1.htm)]
