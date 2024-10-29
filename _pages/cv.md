@@ -30,6 +30,10 @@ Beijing Normal University [北京師範大學](https://www.bnu.edu.cn/)
 | [National Scholarship]({{site.url}}/file/国家奖学金.pdf)          | **Highest** scholarship from Ministry of Education of China        <br>
 | [The First Prize Scholarship]({{site.url}}/file/京师一等奖学金.pdf)    | **Highest** academic honor at BNU (Top 10%)    
 
+The Hong Kong Universtiy of Science and Technology (GUANGZHOU) [香港科技大學（廣州）](https://ugadmissions.hkust-gz.edu.cn/en/)
+
+| Research Assistant | 2024-2025 | [Contract]({{site.url}}/file/intern_hkustgz.pdf)
+
 <font color=CornflowerBlue face="Times New Roman">It may be helpful to identify a positive feedback mechanism that aligns with your natural rhythm. You could find me in the study room at 7 AM, or working on the lemon car model with PhD students at 10 PM. My notes were often sought after during finals. In my free time, I enjoyed watching videos on humanities, social sciences, and popular science to cultivate my economic intuition. Whenever I encountered counterintuitive phenomena, I would ponder the underlying reasons.</font>
 
 <a id="section2"></a>
@@ -89,4 +93,4 @@ Beyond these projects, I have actively participated as a volunteer in other acti
 |Cultural Spread and Change | April,2024 |University of Macau| Faculty of Humanities, successfully participation as [speaker]({{site.url}}/file/澳门大学.pdf)) in University of Macao <br>
 |Maths Lecture |June,2023|Beijing Normal University |Introduction to Mathematical Theory on Fluids (got score [98]({{site.url}}/file/数学系列讲座3.pdf)), Modes and Approximate Standard Types (got score [95]({{site.url}}/file/数学系列讲座1.pdf))
 
-<font color=IndianRed face="Times New Roman"> This part of the content related to my personal story can be viewed in the document.</font> [Diversity Statement and Personal Story]({{site.url}}/file/CV_Div.pdf) 
+<font color=IndianRed face="Times New Roman"> This part of the content related to my personal story can be viewed in the document.</font> [Diversity Statement and Personal Story]({{site.url}}/file/CV_Div.pdf) as well as my high school [academic performance]({{site.url}}/file/gaokao.pdf) I have referred.
