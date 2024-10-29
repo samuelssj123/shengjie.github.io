@@ -26,7 +26,8 @@ From 2021 to the present.
 
 ### Language Teaching
 
-- Writing in English for GRE & IELTS
+- Writing in English for GRE & IELTS [Handout](https://github.com/samuelssj123/WareHouse/raw/refs/heads/master/Eng_Writing.pdf)
+  ([学科网](https://www.zxxk.com/)签约作者Contracted author of the XuekeWang (see [contract]({{site.url}}/file/intern_xuekewang_key.pdf)) & [饥饿英语](http://www.hungry-english.com/)Hungry English Teaching Assistant)
 
 - Advanced Chinese and Literature
 
