@@ -29,7 +29,7 @@ From 2021 to the present.
 - Writing in English for GRE & IELTS [Handout](https://github.com/samuelssj123/WareHouse/raw/refs/heads/master/Eng_Writing.pdf)
   ([学科网](https://www.zxxk.com/)签约作者Contracted author of the XuekeWang (see [contract]({{site.url}}/file/intern_xuekewang_key.pdf)) & [饥饿英语](http://www.hungry-english.com/)Hungry English Teaching Assistant)
 
-- Advanced Chinese and Literature [Handout](https://github.com/samuelssj123/WareHouse/raw/refs/heads/master/Chinese_gaokao.pdf)
+- Advanced Chinese and Literature [Handout Part1](https://github.com/samuelssj123/WareHouse/raw/refs/heads/master/Chinese_part1.pdf) [Part2](https://github.com/samuelssj123/WareHouse/raw/refs/heads/master/Chinese_part2.pdf) [Part3](https://github.com/samuelssj123/WareHouse/raw/refs/heads/master/Chinese_part3.pdf)
 
 ## Vocational Education (For Teachers)
 
