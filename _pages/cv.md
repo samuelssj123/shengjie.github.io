@@ -21,6 +21,7 @@ redirect_from:
 <a id="section1"></a>
 ## <font face="Comic Sans MS">Academic: Leading and Exceeding</font>
 Beijing Normal University [北京師範大學](https://www.bnu.edu.cn/)
+Bachelor, 2021-2025
 
 | Transcript & Ranking | Description   <br>
 | [Transcript]({{site.url}}/file/本科生英文成绩单.pdf)  | **Exceeding Expectations:** Transcript of Bachelor from Sep 2021 to  June 2025  <br>
@@ -31,8 +32,11 @@ Beijing Normal University [北京師範大學](https://www.bnu.edu.cn/)
 | [The First Prize Scholarship]({{site.url}}/file/京师一等奖学金.pdf)    | **Highest** academic honor at BNU (Top 10%)    
 
 The Hong Kong Universtiy of Science and Technology (GUANGZHOU) [香港科技大學（廣州）](https://ugadmissions.hkust-gz.edu.cn/en/)
+Research Assistant, 2024-2025, [Contract]({{site.url}}/file/intern_hkustgz.pdf)
 
-| Research Assistant | 2024-2025 | [Contract]({{site.url}}/file/intern_hkustgz.pdf)
+| Contributions and Samples   
+|  *Topic 1: How Trump and Paris Agreement shock Climate Change Exposure in stock market, [Report PDF]({{site.url}}/file/Rea_report1.pdf).* <br> 
+| *Topic 2: China Climate Policy Risk Hedging Portfolio, [Report PDF]({{site.url}}/file/Rea_report2.pdf).*
 
 <font color=CornflowerBlue face="Times New Roman">It may be helpful to identify a positive feedback mechanism that aligns with your natural rhythm. You could find me in the study room at 7 AM, or working on the lemon car model with PhD students at 10 PM. My notes were often sought after during finals. In my free time, I enjoyed watching videos on humanities, social sciences, and popular science to cultivate my economic intuition. Whenever I encountered counterintuitive phenomena, I would ponder the underlying reasons.</font>
 
