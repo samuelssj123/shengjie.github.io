@@ -20,8 +20,9 @@ redirect_from:
 
 <a id="section1"></a>
 ## <font face="Comic Sans MS">Academic: Leading and Exceeding</font>
-Beijing Normal University [北京師範大學](https://www.bnu.edu.cn/)  <br>
-Bachelor, 2021-2025
+
+**Beijing Normal University [北京師範大學](https://www.bnu.edu.cn/)  <br>**
+**Bachelor, 2021-2025**
 
 | Transcript & Ranking | Description   <br>
 | [Transcript]({{site.url}}/file/本科生英文成绩单.pdf)  | **Exceeding Expectations:** Transcript of Bachelor from Sep 2021 to  June 2025  <br>
@@ -31,8 +32,8 @@ Bachelor, 2021-2025
 | [National Scholarship]({{site.url}}/file/国家奖学金.pdf)          | **Highest** scholarship from Ministry of Education of China        <br>
 | [The First Prize Scholarship]({{site.url}}/file/京师一等奖学金.pdf)    | **Highest** academic honor at BNU (Top 10%)    
 
-The Hong Kong Universtiy of Science and Technology (GUANGZHOU) [香港科技大學（廣州）](https://ugadmissions.hkust-gz.edu.cn/en/)  <br>
-Research Assistant, 2024-2025, [Contract]({{site.url}}/file/intern_hkustgz.pdf)
+**The Hong Kong Universtiy of Science and Technology (GUANGZHOU) [香港科技大學（廣州）](https://ugadmissions.hkust-gz.edu.cn/en/)  <br>**
+**Research Assistant, 2024-2025, [Contract]({{site.url}}/file/intern_hkustgz.pdf)**
 
 | Contributions and Samples   
 |  *Topic 1: How Trump and Paris Agreement shock Climate Change Exposure in stock market, [Report PDF]({{site.url}}/file/Rea_report1.pdf).* <br> 
