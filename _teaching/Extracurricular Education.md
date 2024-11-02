@@ -18,18 +18,18 @@ From 2021 to the present.
 
 ### Research Enhancement
 
-- GIS and Spatial Analysis [pdf Version:202409]({{site.url}}/file/Tea_gis.pdf)
+- GIS and Spatial Analysis. [pdf Version:202409]({{site.url}}/file/Tea_gis.pdf)
 
-- Quantitative Social Science [pdf Version:202409]({{site.url}}/file/Tea_qua.pdf)
+- Quantitative Social Science. [pdf Version:202409]({{site.url}}/file/Tea_qua.pdf)
 
-- Machine Learning and Artificial Intelligence [pdf Version:202409]({{site.url}}/file/Tea_mac.pdf)
+- Machine Learning and Artificial. Intelligence [pdf Version:202409]({{site.url}}/file/Tea_mac.pdf)
 
 ### Language Teaching
 
-- Writing in English for GRE & IELTS [Handout](https://github.com/samuelssj123/WareHouse/raw/refs/heads/master/Eng_Writing.pdf)
+- Writing in English for GRE & IELTS. [Handout](https://github.com/samuelssj123/WareHouse/raw/refs/heads/master/Eng_Writing.pdf)
   ([学科网](https://www.zxxk.com/)签约作者Contracted author of the XuekeWang (see [contract]({{site.url}}/file/intern_xuekewang_key.pdf)) & [饥饿英语](http://www.hungry-english.com/)Hungry English Teaching Assistant)
 
-- Advanced Chinese and Literature [Handout](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/Ecl6-bY7m-9LnSoBZDrvheAB9b2vQ2_clGUe7JXeWjCoXA?e=LBQW8e)
+- Advanced Chinese and Literature. [Handout](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/Ecl6-bY7m-9LnSoBZDrvheAB9b2vQ2_clGUe7JXeWjCoXA?e=LBQW8e)
 
 ## Vocational Education (For Teachers)
 
