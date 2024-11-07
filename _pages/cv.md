@@ -92,7 +92,7 @@ Beyond these projects, I have actively participated as a volunteer in other acti
   * Proficient: Data Processing and Empirical Analysis, Machine Learning, MS-Office software (Word, Excel etc.)
 
 |Experience | Time | Location| Certification <br>
-|JuliaCN 2024 Meetup | Oco,2024 | HKUST(GZ) | [Academic Exchanges](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/EdTNYaiZvLdForoCEdbDmjcBBVbP-7OlcaeRCmc2fDnqrA?e=E02Cmd) <br>
+|JuliaCN 2024 Meetup | Oct,2024 | HKUST(GZ) | [Academic Exchanges](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/EdTNYaiZvLdForoCEdbDmjcBBVbP-7OlcaeRCmc2fDnqrA?e=E02Cmd) <br>
 |Society Hub Summer Camp | July,2024 | [HKUST(GZ)](https://mp.weixin.qq.com/s/atLUJUpZpj7wqW6ebPvHBw) | Certificate of Achievement Awarded to Shengjie SONG for succesopully completing [Society Hub Summer Camp]({{site.url}}/file/HKUST(GZ).pdf) for PhD Admission in Fall 2025 <br>
 |Economics of Education |July,2024 |Peking University | [Postgraduate Forum]({{site.url}}/file/pku教育经济加密.pdf) on Economics of Education <br>
 |Systems Science | July,2024 |Beijing Normal University |Outstanding Undergraduate Summer Camp for Systems Science, awarded [Outstanding Camper]({{site.url}}/file/系统科学学院优秀营员.pdf)) <br>
