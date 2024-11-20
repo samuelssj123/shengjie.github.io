@@ -22,7 +22,7 @@ From 2021 to the present.
 
 - Machine Learning and Artificial. Intelligence [pdf Version:202409]({{site.url}}/file/Tea_mac.pdf)
   
-- Quantitative Social Science. [pdf Version:202409](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/EX5j22UFhLFHsv1bgh7YurQB-FQMDN_2UDvLvKNAR4ZSHg?e=yeOt1g)
+- Quantitative Social Science. [PDF](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/EX5j22UFhLFHsv1bgh7YurQB-FQMDN_2UDvLvKNAR4ZSHg?e=yeOt1g)
   
 ### Language Teaching
 
