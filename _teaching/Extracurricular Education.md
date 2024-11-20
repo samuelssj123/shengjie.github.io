@@ -20,10 +20,10 @@ From 2021 to the present.
 
 - GIS and Spatial Analysis. [pdf Version:202409]({{site.url}}/file/Tea_gis.pdf)
 
-- Quantitative Social Science. [pdf Version:202409]({{site.url}}/file/Tea_qua.pdf)
-
 - Machine Learning and Artificial. Intelligence [pdf Version:202409]({{site.url}}/file/Tea_mac.pdf)
-
+  
+- Quantitative Social Science. [pdf Version:202409](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/EX5j22UFhLFHsv1bgh7YurQB-FQMDN_2UDvLvKNAR4ZSHg?e=yeOt1g)
+  
 ### Language Teaching
 
 - Writing in English for GRE & IELTS. [[Writing Handout](https://github.com/samuelssj123/WareHouse/raw/refs/heads/master/Eng_Writing.pdf)] [[Reading Handout](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/EXoJu019KaNEiFw5C63TvXUB1v-Bkotv_Kh6h3oudNAbow?e=bPerkE)] <br>
