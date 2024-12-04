@@ -18,9 +18,9 @@ From 2021 to the present.
 
 ### Research Enhancement
 
-- GIS and Spatial Analysis. [pdf Version:202409]({{site.url}}/file/Tea_gis.pdf)
+- GIS and Spatial Analysis. [PDF](https://hkustgz-my.sharepoint.com/:b:/g/personal/shengjiesong_hkust-gz_edu_cn/EVK2IgyPmUlGlLCfZoaB2fwBV26omlKCkoHE9bsh82q5oA?e=8ChoAi)
 
-- Machine Learning and Artificial. Intelligence [pdf Version:202409]({{site.url}}/file/Tea_mac.pdf)
+- Machine Learning and Artificial. Intelligence [PDF](https://hkustgz-my.sharepoint.com/:b:/g/personal/shengjiesong_hkust-gz_edu_cn/EVgNZ9ZqeOVNt9a0R7KhXpkBx1UWj-H82Dv55IMfEPhuKg?e=85Ga8w)
   
 - Quantitative Social Science. [PDF](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/EX5j22UFhLFHsv1bgh7YurQB-FQMDN_2UDvLvKNAR4ZSHg?e=yeOt1g)
   
