@@ -38,7 +38,7 @@ redirect_from:
 | Contributions and Samples   
 | *Topic 1: How Trump and Paris Agreement shock Climate Change Exposure in stock market, [Report PDF]({{site.url}}/file/Rea_report1.pdf).* <br> 
 | *Topic 2: Measuring China Climate Policy Risk, [Report PDF]({{site.url}}/file/Rea_report2.pdf).* <br>
-| *Topic 3: Mimicking Portfolio Construction to Hedge Green Policy Risks, China Securities Association, [File Attachment](https://mailbnueducn-my.sharepoint.com/:f:/g/personal/sjs_mail_bnu_edu_cn/ErLLs83RNS9EgkQdp4HrzWIBVlo1xcD05i5GzfE4n0wA0w?e=fMc9nP) [Report PDF]({{site.url}}/file/hkustgz_Green_Industrial_Policy.pdf).*
+| *Topic 3: Mimicking Portfolio Construction to Hedge Green Policy Risks, China Securities Association, [File Attachment](https://mailbnueducn-my.sharepoint.com/:f:/g/personal/sjs_mail_bnu_edu_cn/ErLLs83RNS9EgkQdp4HrzWIBVlo1xcD05i5GzfE4n0wA0w?e=fMc9nP), [Report PDF]({{site.url}}/file/hkustgz_Green_Industrial_Policy.pdf).*
 
 <font color=CornflowerBlue face="Times New Roman">It may be helpful to identify a positive feedback mechanism that aligns with your natural rhythm. You could find me in the study room at 7 AM, or working on the lemon car model with PhD students at 10 PM. My notes were often sought after during finals. In my free time, I enjoyed watching videos on humanities, social sciences, and popular science to cultivate my economic intuition. Whenever I encountered counterintuitive phenomena, I would ponder the underlying reasons.</font>
 
