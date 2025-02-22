@@ -11,7 +11,7 @@ author_profile: true
 
 - **S. Song**, M. Han, [Is Buffett indicator priced in Chinese stock markets]({{site.url}}/file/paper1.pdf), Working Paper
 
-- **S. Song**, C. Chen, M. Lin, Kong Yiji's Long Gown Empirical Insights into the Impact of Educational Mismatch on Labor Force, Working Paper
+- **S. Song**, C. Chen, M. Lin, [Kong Yiji's Long Gown Empirical Insights into the Impact of Educational Mismatch on Labor Force, Working Paper]({{site.url}}/file/Paper2kongyiji.pdf), Working Paper
 
 
 **Research Projects**
