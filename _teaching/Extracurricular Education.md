@@ -1,5 +1,5 @@
 ---
-title: "Adult Continuing Education"
+title: "High School Teaching"
 type: Tutor and Teaching Researcher
 collection: teaching
 venue: China Mainland
@@ -14,20 +14,16 @@ From 2021 to the present.
 ## Working Handout Manuscripts
 
 > The following is a manuscript of handouts that I developed during my internship that are available to teachers and students.
-> I will update when I finish them.
+> I will update ...
 
-### Research Enhancement
+### High School Course
 
-- GIS and Spatial Analysis. [PDF](https://hkustgz-my.sharepoint.com/:b:/g/personal/shengjiesong_hkust-gz_edu_cn/EVK2IgyPmUlGlLCfZoaB2fwBV26omlKCkoHE9bsh82q5oA?e=8ChoAi)
-
-- Machine Learning and Artificial. Intelligence [PDF](https://hkustgz-my.sharepoint.com/:b:/g/personal/shengjiesong_hkust-gz_edu_cn/EVgNZ9ZqeOVNt9a0R7KhXpkBx1UWj-H82Dv55IMfEPhuKg?e=85Ga8w)
-  
-- Quantitative Social Science. [PDF](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/EX5j22UFhLFHsv1bgh7YurQB-FQMDN_2UDvLvKNAR4ZSHg?e=yeOt1g)
-  
 ### Language Teaching
 
 - Writing in English for GRE & IELTS. [[Writing Handout](https://github.com/samuelssj123/WareHouse/raw/refs/heads/master/Eng_Writing.pdf)] [[Reading Handout](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/EXoJu019KaNEiFw5C63TvXUB1v-Bkotv_Kh6h3oudNAbow?e=bPerkE)] <br>
-  - [学科网](https://www.zxxk.com/)签约作者Contracted author of the XuekeWang (see [contract](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/EXbsn14TbTlBipUg0yyYVNQBdZjd8ezMB8tvZA9MopJYGg?e=NVpIzs)) 
+
+  - [学科网](https://www.zxxk.com/)签约作者Contracted author of the XuekeWang (see [contract](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/EXbsn14TbTlBipUg0yyYVNQBdZjd8ezMB8tvZA9MopJYGg?e=NVpIzs))
+    
   - [饥饿英语](http://www.hungry-english.com/)Hungry English Teaching Assistant
   - NEW CONCEPT ENGLISH 4 [Handout](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/EQJRwyYCpohNok6a1VVruqkB7NLE9JOyadEcDGvDFVhE4w?e=DMrG5j)
 
@@ -45,3 +41,6 @@ From 2021 to the present.
   > *I have put together a handy guide for high school students who are struggling with the liberal arts. We know that some concepts can be tricky, and exams can be tough. That's why we've created this helpful resource to make things easier. It's been well-received by students at many different schools, and we're so happy to see it helping them succeed!*
 
 - Teacher Qualification Certificate [General Quality](https://www.bilibili.com/video/BV1n14y197Cd/) and [Pedagogy and Educational Psychology](https://www.bilibili.com/video/BV1Du4y1m7Gu/)
+
+
+  
