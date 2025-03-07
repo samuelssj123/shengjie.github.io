@@ -57,7 +57,7 @@ redirect_from:
 
 |Experience | Description <br>
 |Little Red Book | **Influencer:** Travelled around China and shared personal experience on social platform called Little Red Book and obtain over 10,000 fans (following him by clicking [here](https://www.xiaohongshu.com/user/profile/619e2dd9000000001000afa2?xhsshare=CopyLink&appuid=619e2dd9000000001000afa2&apptime=1718706118&share_id=94e7a172ea274f2d8a05a0a083ca32af)).   <br>
-|The Third Conference of the lnternational Science, Technology and innovation Forum of Boao Forum for Asia([ISTIF](https://www.boaoforum.org/themed/istif/2023/index_1.html)) | **Volunteering:** [Best Volunteer]({{site.url}}/file/2023年10月+优秀志愿者+博鳌亚洲论坛.pdf) <br>
+|The Third Conference of the lnternational Science, Technology and innovation Forum of Boao Forum for Asia([ISTIF](https://www.boaoforum.org/themed/istif/2023/index_1.html)) | **Volunteering:** [Best Volunteer](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/EXnBczhu7xNAo_bH20TqWWQBCJLQooNjAlGGTbLKFjmY3Q?e=0gXRdI) <br>
 |Voluntary Service Time Certifcate of Guangdong Province |**Volunteering:** [Voluntary more than 138 hours]({{site.url}}/file/VOL_volunteer.pdf)  until I leave my university. <br>
 |[THE SIXTH CHINA EDUCATION INNOVATION EXPO](https://news.bnu.edu.cn/zx/ttgz/2091c3219be24fb8b3ad5fdab16d93ce.htm) | **Volunteering:** [Best Volunteer]({{site.url}}/file/教博会.pdf) <br>
 |Student Union’s General Affairs Minister |**Leadership:** Student Work and [Head of Department]({{site.url}}/file/教育培训部部门负责人证明.pdf) <br> <br>
