@@ -9,7 +9,7 @@ date: 2023-11-30
 
 He was responsible for overseas macroeconomic research at securities firms and assisted securities analysts in the production of world macroeconomic analysis. He did this work from Aug to Nov.
 
-<span style="color:red">**Result: Click [here]({{site.url}}/file/德邦证券实习证明隐私.pdf) to view my certification, and you can know more about [Topsperity Securities](https://www.tebon.com.cn/main/index.html) here.**
+<span style="color:red">**Result: Click [here](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/EV2o6LeMddZKu-n-gTqrTHgB3_1uTlnZCdSHyew2RHBYSg?e=FOAEVA) to view my certification, and you can know more about [Topsperity Securities](https://www.tebon.com.cn/main/index.html) here.**
 
 Contribution
 ---
