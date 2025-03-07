@@ -20,7 +20,7 @@ author_profile: true
 
 -  Research Assistant, 2024-present, The Hong Kong University of Science and Technology(Guangzhou) <br>
 
--  Project Leader, "Jingshi Cup" Technological Innovation Competition, 2024 [[Certification]({{site.url}}/file/Jingshi_cup_key.pdf)] <br>
+-  Project Leader, "Jingshi Cup" Technological Innovation Competition, 2024 [[Certification](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/EaCUP69Drc1IgvMe5RuNBkYBUtvRqDwoxidGXHutGrJlNQ?e=Qb9hV2)] <br>
    ***S. Song**, Is social capital the secret weapon of happiness? (October 10, 2024). Available at SSRN: [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4994129)*
 
 -  Project Leader, Bay Area Top Innovative Youth Cultivation Fund Project, Awarded First Prize, 2023-2024 [[Public Notice](https://bibs.bnu.edu.cn/news/notice/d0538048ad62427e969045a64a8e2ad1.htm)]
