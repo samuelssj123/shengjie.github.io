@@ -41,7 +41,7 @@ From 2021 to the present.
 
 - Senior Middle School Teacher Qualification Certificate ([Politics](https://www.bilibili.com/video/BV1ar421M7Es/))
 
-  - Ideology and Politics: [《高考思想政治修炼手册》]({{site.url}}/file/高考思想政治修炼手册.pdf), used in educational institutions and selected for publication. （学而思讲师）
+  - Ideology and Politics: [《高考思想政治修炼手册》](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/EaYSwN-QNZ9Lqy_QzeLg4MoBaKeOt1e_EY3NdLxun5ih5Q?e=UbNHWD), used in educational institutions and selected for publication. （学而思讲师）
   > *I have put together a handy guide for high school students who are struggling with the liberal arts. We know that some concepts can be tricky, and exams can be tough. That's why we've created this helpful resource to make things easier. It's been well-received by students at many different schools, and we're so happy to see it helping them succeed!*
 
 - Teacher Qualification Certificate [General Quality](https://www.bilibili.com/video/BV1n14y197Cd/) and [Pedagogy and Educational Psychology](https://www.bilibili.com/video/BV1Du4y1m7Gu/)
