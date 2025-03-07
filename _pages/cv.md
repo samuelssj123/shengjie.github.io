@@ -88,4 +88,4 @@ redirect_from:
 |Cultural Spread and Change | April,2024 |University of Macau| Faculty of Humanities, successfully participation as [speaker]({{site.url}}/file/澳门大学.pdf)) in University of Macao <br>
 |Maths Lecture |June,2023|Beijing Normal University |Introduction to Mathematical Theory on Fluids (got score [98]({{site.url}}/file/数学系列讲座3.pdf)), Modes and Approximate Standard Types (got score [95]({{site.url}}/file/数学系列讲座1.pdf))
 
-Notes: This part of the content related to my personal story can be viewed in the document.</font> [Diversity Statement and Personal Story]({{site.url}}/file/CV_Div.pdf) as well as my high school [academic performance]({{site.url}}/file/gaokao.pdf) I have referred.
+Notes: This part of the content related to my personal story can be viewed in the document.</font> [Diversity Statement and Personal Story](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/EYFBpS5SislEkAYPBNlBvhwB-X_fs4_SG1kSUEuea9OuZA?e=8lRARw) as well as my high school [academic performance]({{site.url}}/file/gaokao.pdf) I have referred.
