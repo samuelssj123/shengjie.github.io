@@ -29,8 +29,8 @@ redirect_from:
 |[ GPA Ranking](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/EW07T-Hf3rRKgYSebS_1n8kBA1NBcPGeRu0QxFrwoqAd8Q?e=C3R9qx) | **Leading by 6 points:** GPA:3.9/4.0, 93.8065/100. Ranking of GPA of all major courses in the training programme (major courses must be completed in the first three academic years)
 
 | Scholarship                  | Description             <br>
-| [National Scholarship]({{site.url}}/file/国家奖学金.pdf)          | **Highest** scholarship from Ministry of Education of China        <br>
-| [The First Prize Scholarship]({{site.url}}/file/京师一等奖学金.pdf)    | **Highest** academic honor at BNU (Top 10%)    
+| [National Scholarship](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/EckLbKJtaW1AqhNQKcXKiAsBvpx-pyqEfV0kGz6Yuytf4g?e=9qUoog)          | **Highest** scholarship from Ministry of Education of China        <br>
+| [The First Prize Scholarship](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/EVwLImBjD1hIoCEHZ83UsssBB-pszOmocLK2PmIa_HLrvw?e=T4YobQ)    | **Highest** academic honor at BNU (Top 10%)    
 
 **The Hong Kong Universtiy of Science and Technology (GUANGZHOU) [香港科技大學（廣州）](https://ugadmissions.hkust-gz.edu.cn/en/)  <br>**
 **Research Assistant, 2024-2025, [Contract]({{site.url}}/file/intern_hkustgz.pdf)**
@@ -58,13 +58,13 @@ redirect_from:
 |Experience | Description <br>
 |Little Red Book | **Influencer:** Travelled around China and shared personal experience on social platform called Little Red Book and obtain over 10,000 fans (following him by clicking [here](https://www.xiaohongshu.com/user/profile/619e2dd9000000001000afa2?xhsshare=CopyLink&appuid=619e2dd9000000001000afa2&apptime=1718706118&share_id=94e7a172ea274f2d8a05a0a083ca32af)).   <br>
 |The Third Conference of the lnternational Science, Technology and innovation Forum of Boao Forum for Asia([ISTIF](https://www.boaoforum.org/themed/istif/2023/index_1.html)) | **Volunteering:** [Best Volunteer](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/EXnBczhu7xNAo_bH20TqWWQBCJLQooNjAlGGTbLKFjmY3Q?e=0gXRdI) <br>
-|Voluntary Service Time Certifcate of Guangdong Province |**Volunteering:** [Voluntary more than 138 hours]({{site.url}}/file/VOL_volunteer.pdf)  until I leave my university. <br>
+|Voluntary Service Time Certifcate of Guangdong Province |**Volunteering:** [Voluntary more than 138 hours](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/EUQYC6qPfepEmjh-I_6K5XMB6ykeqOweV-xrfTD5qMoMjg?e=wWIqiu)  until I leave my university. <br>
 |[THE SIXTH CHINA EDUCATION INNOVATION EXPO](https://news.bnu.edu.cn/zx/ttgz/2091c3219be24fb8b3ad5fdab16d93ce.htm) | **Volunteering:** [Best Volunteer]({{site.url}}/file/教博会.pdf) <br>
 |Student Union’s General Affairs Minister |**Leadership:** Student Work and [Head of Department](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/Eb-9A7dfd0VMpkXOSdfG2rQBY81re4on186FqRfp5hfw7w?e=ADNPja) <br> <br>
 
 |Activity | Location |Topic <br>
-|[Research on Baoan Waist Knives]({{site.url}}/file/VOU_Gansu.pdf)|Jieshishan County, Gansu Province |Protection of Ethnic Minority Cultural Heritage <br>
-|[Entering Ancient Shu Culture&Exploring Ancestral Civilisation](https://mp.weixin.qq.com/s/PefKn-BtHiRaCo-bHN69mQ)(or [PDF]({{site.url}}/file/VOU_Chengdu.pdf) version)|Chengdu, Sichuan Province |Exploring Ancient Civilisation and Modern Urban Governance  <br>
+|[Research on Baoan Waist Knives](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/Ed_yYAA6ymhOvja6xkJxMPEBAFo0TyFUVSEmwITyP0j-JA?e=s9QfY9)|Jieshishan County, Gansu Province |Protection of Ethnic Minority Cultural Heritage <br>
+|[Entering Ancient Shu Culture&Exploring Ancestral Civilisation](https://mp.weixin.qq.com/s/PefKn-BtHiRaCo-bHN69mQ)(or [PDF](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/EZylCQUHJSlCr8ACZCRLTWoBVM1Gc0vQDmLGuJJQZvl0Gw?e=zaBaTc) version)|Chengdu, Sichuan Province |Exploring Ancient Civilisation and Modern Urban Governance  <br>
 |College Students' View of Daochen |Daochen County, Guizhou Province |Cultural Tourism Poverty Alleviation <br>
 |[Excellence Camp]({{site.url}}/file/卓越训练营.pdf) in BNU |Beijing, Zhuhai |'Obsession for Excellence', aiming to cultivate excellent talents with comprehensive abilities
 
