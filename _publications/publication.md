@@ -16,7 +16,7 @@ author_profile: true
 
 **Research Projects**
 
--  Project Leader, Guangdong Science and Technology Innovation Strategy Special Funds (‘Climbing Program’) (Project NO. pdjh2024b424), 2024-2026 [[Public Notice]({{site.url}}/file/Res_Climbing.pdf)]
+-  Project Leader, Guangdong Science and Technology Innovation Strategy Special Funds (‘Climbing Program’) (Project NO. pdjh2024b424), 2024-2026 [[Public Notice](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/EQLHG5d_PehAtQQHgXSF3NoBuQURgNmc8eBkXHE6VczavA?e=GQHOqR)]
 
 -  Research Assistant, 2024-present, The Hong Kong University of Science and Technology(Guangzhou) <br>
 
