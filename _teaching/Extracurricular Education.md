@@ -27,7 +27,7 @@ From 2021 to the present.
 ### Language Teaching
 
 - Writing in English for GRE & IELTS. [[Writing Handout](https://github.com/samuelssj123/WareHouse/raw/refs/heads/master/Eng_Writing.pdf)] [[Reading Handout](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/EXoJu019KaNEiFw5C63TvXUB1v-Bkotv_Kh6h3oudNAbow?e=bPerkE)] <br>
-  - [学科网](https://www.zxxk.com/)签约作者Contracted author of the XuekeWang (see [contract]({{site.url}}/file/intern_xuekewang_key.pdf)) 
+  - [学科网](https://www.zxxk.com/)签约作者Contracted author of the XuekeWang (see [contract](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/EXbsn14TbTlBipUg0yyYVNQBdZjd8ezMB8tvZA9MopJYGg?e=NVpIzs)) 
   - [饥饿英语](http://www.hungry-english.com/)Hungry English Teaching Assistant
   - NEW CONCEPT ENGLISH 4 [Handout](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/EQJRwyYCpohNok6a1VVruqkB7NLE9JOyadEcDGvDFVhE4w?e=DMrG5j)
 
