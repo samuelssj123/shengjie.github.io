@@ -7,7 +7,7 @@ venue: Beijing Normal University, Bilibili
 date: 2024-04-28
 ---
 
-Core Curriculum: *Calculus, Linear Algebra, Probability Theory and Mathematical Statistics, Real Variable Function, Operations Research(OR)* Note: I was hired to teach maths to undergraduates as a government-paid teaching students' [partner]({{site.url}}/file/乐学.pdf) at Beijing Normal University.
+Core Curriculum: *Calculus, Linear Algebra, Probability Theory and Mathematical Statistics, Real Variable Function, Operations Research(OR)* Note: I was hired to teach maths to undergraduates as a government-paid teaching students' [partner](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/ETC-iBdXiD9ApNWRpXRWE58BUaI8qZSbdt-MbQ2Xp0xjvw?e=RDzHih) at Beijing Normal University.
 
 He has a solid mathematical background. He has won the second prize in the provincial level of the [Mathematics_Competition](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/EWDW-09JwS9Isi1YCfuUAfsBKptE6epI-BI4lZe-LpBY7A?e=FGh1QK) and a provincial award in [Mathematical Modelling](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/EcS0DjYz-g9Do25Fv7FiRo4BV5E4MtMyHSuyQheJIGdaZQ?e=OewGrY).
 
