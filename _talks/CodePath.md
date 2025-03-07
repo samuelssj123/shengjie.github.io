@@ -1,8 +1,8 @@
 ---
-title: "CodePath: From Algorithms"
+title: "CodePath: A Practical Guide to Algorithm Mastery"
 collection: talks
 type: "Field Research"
-permalink: /talks/CodePath: From Algorithms
+permalink: /talks/CodePath
 venue: "Online"
 date: 2025-02-12
 ---
