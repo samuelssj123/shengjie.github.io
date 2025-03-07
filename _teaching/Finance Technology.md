@@ -14,7 +14,7 @@ From 2022 to 2024.
 Basic Finance 
 ---
 
-Monetary Banking, International Finance, Corporate Finance, and Investments are the four core courses of finance, and I have provided a condensed summary and detailed explanation of these four courses. [[link](https://www.bilibili.com/video/BV1UJHke1EcU/?share_source=copy_web&vd_source=e8fa1855f6f86b783664c47a8acea625)] [[Handouts]({{site.url}}/file/Tea_financenotes.pdf)]
+Monetary Banking, International Finance, Corporate Finance, and Investments are the four core courses of finance, and I have provided a condensed summary and detailed explanation of these four courses. [[link](https://www.bilibili.com/video/BV1UJHke1EcU/?share_source=copy_web&vd_source=e8fa1855f6f86b783664c47a8acea625)] [[Handouts](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/Eae2msAbo3lIuiZKVO6b_zABkGUrpp25_pkKP-dNWD0WUw?e=PIKXNe)]
 
 Financial Big Data Analysis
 ---
