@@ -25,8 +25,8 @@ redirect_from:
 **Bachelor, 2021-2025**
 
 | Transcript & Ranking | Description   <br>
-| [Transcript]({{site.url}}/file/本科生英文成绩单.pdf)  | **Exceeding Expectations:** Transcript of Bachelor from Sep 2021 to  June 2025  <br>
-|[ GPA Ranking]({{site.url}}/file/Shengjie_SONG's_Grade_at_bachalor.pdf) | **Leading by 6 points:** GPA:3.9/4.0, 93.8065/100. Ranking of GPA of all major courses in the training programme (major courses must be completed in the first three academic years)
+| [Transcript](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/ETGp9byAMUtJnh-J46GhGPcB0GRVO62r6N_F7GbTrWicgA?e=NlyKWq)  | **Exceeding Expectations:** Transcript of Bachelor from Sep 2021 to  June 2025  <br>
+|[ GPA Ranking](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/EW07T-Hf3rRKgYSebS_1n8kBA1NBcPGeRu0QxFrwoqAd8Q?e=C3R9qx) | **Leading by 6 points:** GPA:3.9/4.0, 93.8065/100. Ranking of GPA of all major courses in the training programme (major courses must be completed in the first three academic years)
 
 | Scholarship                  | Description             <br>
 | [National Scholarship]({{site.url}}/file/国家奖学金.pdf)          | **Highest** scholarship from Ministry of Education of China        <br>
@@ -47,7 +47,7 @@ redirect_from:
 |Experience | Description  <br>
 |Lecturers and Teaching Assistants for [Chinese]({{site.url}}/file/【教育实习】乘风语文实习.pdf), [Geography]({{site.url}}/file/【教育实习】宋圣洁实习证明.pdf), [IELTS English]({{site.url}}/file/CV_engintern.pdf) | Helping students with insufficient teachers, educational resources and unequal access to education in educational training institutions <br>
 |Aid Education in [Henan Province](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/Ef8wK8BYUu1MqBzQDk2z6xoBWB_LEcopZTMndpTCtXeqzw?e=fUhE5v)| Volunteer Teaching in a Middle School in a National Poverty-stricken County
-|Teacher Qualification Certificate ([Maths]({{site.url}}/file/数学教师.pdf) & [English]({{site.url}}/file/英语教师.pdf)) of High School| Demonstrate that the applicant has passed the examinations on teacher ethics, basic qualities, educational and pedagogical competencies, and potential for professional development of teachers.  <br>
+|Teacher Qualification Certificate ([Maths]({{site.url}}/file/数学教师.pdf) & [English](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/EeI5W2kjeFRDkTf9VqkdCxwBnKcpvdrUFNTkA35uEPUMPA?e=JoTNVF)) of High School| Demonstrate that the applicant has passed the examinations on teacher ethics, basic qualities, educational and pedagogical competencies, and potential for professional development of teachers.  <br>
 |[SDG Olympiad Competition]({{site.url}}/file/thu铜.pdf) at Tsinghua University | The workshop was centred around the theme of ‘Planetary Health’, which encouraged campers to explore practical issues and propose potentially viable solutions to accelerate society's progress towards the SDG goals. <br> <br>
 
 
@@ -60,7 +60,7 @@ redirect_from:
 |The Third Conference of the lnternational Science, Technology and innovation Forum of Boao Forum for Asia([ISTIF](https://www.boaoforum.org/themed/istif/2023/index_1.html)) | **Volunteering:** [Best Volunteer](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/EXnBczhu7xNAo_bH20TqWWQBCJLQooNjAlGGTbLKFjmY3Q?e=0gXRdI) <br>
 |Voluntary Service Time Certifcate of Guangdong Province |**Volunteering:** [Voluntary more than 138 hours]({{site.url}}/file/VOL_volunteer.pdf)  until I leave my university. <br>
 |[THE SIXTH CHINA EDUCATION INNOVATION EXPO](https://news.bnu.edu.cn/zx/ttgz/2091c3219be24fb8b3ad5fdab16d93ce.htm) | **Volunteering:** [Best Volunteer]({{site.url}}/file/教博会.pdf) <br>
-|Student Union’s General Affairs Minister |**Leadership:** Student Work and [Head of Department]({{site.url}}/file/教育培训部部门负责人证明.pdf) <br> <br>
+|Student Union’s General Affairs Minister |**Leadership:** Student Work and [Head of Department](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/Eb-9A7dfd0VMpkXOSdfG2rQBY81re4on186FqRfp5hfw7w?e=ADNPja) <br> <br>
 
 |Activity | Location |Topic <br>
 |[Research on Baoan Waist Knives]({{site.url}}/file/VOU_Gansu.pdf)|Jieshishan County, Gansu Province |Protection of Ethnic Minority Cultural Heritage <br>
@@ -73,8 +73,8 @@ redirect_from:
 ## <font face="Comic Sans MS">Skills & Interests: Diversified Learning and Purpose</font>
 
 |Skills | Description and Certification <br>
-|Accounting Professional and Technical Qualification Certificate (Junior) |**Diversified Learning: Accounting** [Accounting Qualification]({{site.url}}/file/初级会计.pdf) <br>
-|Linguistic Skills of English,Mandarin,Japanese | **Diversified Learning: Language** English [IELTS]({{site.url}}/file/雅思成绩单.pdf) 6.5(Listening 6.5, Reading 7, Speaking 6.5, Writing 6.5),中文([Mandarin]({{site.url}}/file/普通话一级乙等.pdf))一级乙等(Highest level of qualification examination) (Native speaker), 日本語／にほんご(Japanese) (Beginner) <br> <br>
+|Accounting Professional and Technical Qualification Certificate (Junior) |**Diversified Learning: Accounting** [Accounting Qualification](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/EZK9d8ZhV85Ksb9epBqOGpcBnVKPDKY2VznaB1x0Tkbzhw?e=Uawk9U) <br>
+|Linguistic Skills of English,Mandarin,Japanese | **Diversified Learning: Language** English [IELTS]({{site.url}}/file/雅思成绩单.pdf) 6.5(Listening 6.5, Reading 7, Speaking 6.5, Writing 6.5),中文([Mandarin](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/ESiyLHLuIzhOmvUC3NbL1usBMM08hhHGIXBEnR9J-pTq0A?e=mNhFaW))一级乙等(Highest level of qualification examination) (Native speaker), 日本語／にほんご(Japanese) (Beginner) <br> <br>
 
 * Skills used in Research
   * Advanced: R, Stata, Python, Basic: GIS, C/C++, Java, Matlab
@@ -88,4 +88,4 @@ redirect_from:
 |Cultural Spread and Change | April,2024 |University of Macau| Faculty of Humanities, successfully participation as [speaker]({{site.url}}/file/澳门大学.pdf)) in University of Macao <br>
 |Maths Lecture |June,2023|Beijing Normal University |Introduction to Mathematical Theory on Fluids (got score [98]({{site.url}}/file/数学系列讲座3.pdf)), Modes and Approximate Standard Types (got score [95]({{site.url}}/file/数学系列讲座1.pdf))
 
-Notes: This part of the content related to my personal story can be viewed in the document.</font> [Diversity Statement and Personal Story](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/EYFBpS5SislEkAYPBNlBvhwB-X_fs4_SG1kSUEuea9OuZA?e=8lRARw) as well as my high school [academic performance]({{site.url}}/file/gaokao.pdf) I have referred.
+Notes: This part of the content related to my personal story can be viewed in the document.</font> [Diversity Statement and Personal Story](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/EYFBpS5SislEkAYPBNlBvhwB-X_fs4_SG1kSUEuea9OuZA?e=8lRARw) as well as my high school [academic performance](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/EToxMbbx2CFFgaJBKAlK6Z8BzEBUm1dEzMLpox528pdcRA?e=UcrpLc) I have referred.
