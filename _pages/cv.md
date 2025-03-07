@@ -46,7 +46,7 @@ redirect_from:
 
 |Experience | Description  <br>
 |Lecturers and Teaching Assistants for [Chinese]({{site.url}}/file/【教育实习】乘风语文实习.pdf), [Geography]({{site.url}}/file/【教育实习】宋圣洁实习证明.pdf), [IELTS English]({{site.url}}/file/CV_engintern.pdf) | Helping students with insufficient teachers, educational resources and unequal access to education in educational training institutions <br>
-|Aid Education in [Henan Province]({{site.url}}/file/EDU_Zhijiao.pdf)| Volunteer Teaching in a Middle School in a National Poverty-stricken County
+|Aid Education in [Henan Province](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/Ef8wK8BYUu1MqBzQDk2z6xoBWB_LEcopZTMndpTCtXeqzw?e=fUhE5v)| Volunteer Teaching in a Middle School in a National Poverty-stricken County
 |Teacher Qualification Certificate ([Maths]({{site.url}}/file/数学教师.pdf) & [English]({{site.url}}/file/英语教师.pdf)) of High School| Demonstrate that the applicant has passed the examinations on teacher ethics, basic qualities, educational and pedagogical competencies, and potential for professional development of teachers.  <br>
 |[SDG Olympiad Competition]({{site.url}}/file/thu铜.pdf) at Tsinghua University | The workshop was centred around the theme of ‘Planetary Health’, which encouraged campers to explore practical issues and propose potentially viable solutions to accelerate society's progress towards the SDG goals. <br> <br>
 
@@ -82,7 +82,7 @@ redirect_from:
 
 |Experience | Time | Location| Certification <br>
 |JuliaCN 2024 Meetup | Oct,2024 | HKUST(GZ) | [Academic Exchanges](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/EdTNYaiZvLdForoCEdbDmjcBBVbP-7OlcaeRCmc2fDnqrA?e=E02Cmd) <br>
-|Society Hub Summer Camp | July,2024 | [HKUST(GZ)](https://mp.weixin.qq.com/s/atLUJUpZpj7wqW6ebPvHBw) | Certificate of Achievement Awarded to Shengjie SONG for succesopully completing [Society Hub Summer Camp]({{site.url}}/file/HKUST(GZ).pdf) for PhD Admission in Fall 2025 <br>
+|Society Hub Summer Camp | July,2024 | [HKUST(GZ)](https://mp.weixin.qq.com/s/atLUJUpZpj7wqW6ebPvHBw) | Certificate of Achievement Awarded to Shengjie SONG for succesopully completing [Society Hub Summer Camp](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/EWI1CYWbWu9MnmBbdSrLB6ABwWT8RHi3q1Bw0bQJlPLbqg?e=fBjWwQ) for PhD Admission in Fall 2025 <br>
 |Economics of Education |July,2024 |Peking University | [Postgraduate Forum]({{site.url}}/file/pku教育经济加密.pdf) on Economics of Education <br>
 |Systems Science | July,2024 |Beijing Normal University |Outstanding Undergraduate Summer Camp for Systems Science, awarded [Outstanding Camper]({{site.url}}/file/系统科学学院优秀营员.pdf)) <br>
 |Cultural Spread and Change | April,2024 |University of Macau| Faculty of Humanities, successfully participation as [speaker]({{site.url}}/file/澳门大学.pdf)) in University of Macao <br>
