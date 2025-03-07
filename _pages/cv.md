@@ -81,6 +81,7 @@ redirect_from:
   * Proficient: Data Processing and Empirical Analysis, Machine Learning, MS-Office software (Word, Excel etc.)
 
 |Experience | Time | Location| Certification <br>
+|ABBA Elite Internship Camp | Feb, 2025 | Hong Kong | Completing internship under guidance from Prudential Insurance's mentor with [certification](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/EW5BbCrYo9VNq55PwOPesKYBZ5kfTYDixQGzjffLhBjzhA?e=WK9ABL) <br>
 |JuliaCN 2024 Meetup | Oct,2024 | HKUST(GZ) | [Academic Exchanges](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/EdTNYaiZvLdForoCEdbDmjcBBVbP-7OlcaeRCmc2fDnqrA?e=E02Cmd) <br>
 |Society Hub Summer Camp | July,2024 | [HKUST(GZ)](https://mp.weixin.qq.com/s/atLUJUpZpj7wqW6ebPvHBw) | Certificate of Achievement Awarded to Shengjie SONG for succesopully completing [Society Hub Summer Camp](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/EWI1CYWbWu9MnmBbdSrLB6ABwWT8RHi3q1Bw0bQJlPLbqg?e=fBjWwQ) for PhD Admission in Fall 2025 <br>
 |Economics of Education |July,2024 |Peking University | [Postgraduate Forum](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/Eb3ctq2IAVtApCKNYgn4jL8Btpm15f17YN-uLnKnNCO4xg?e=PG7aKc) on Economics of Education <br>
