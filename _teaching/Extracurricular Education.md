@@ -62,22 +62,36 @@ From 2021 to the present.
 - Customized Coursebook: [《高考思想政治修炼手册》](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/EaYSwN-QNZ9Lqy_QzeLg4MoBaKeOt1e_EY3NdLxun5ih5Q?e=UbNHWD), used in educational institutions and selected for publication (Related Publication [《解题觉醒（2026）》](https://book.yunzhan365.com/bookcase/zzon/index.html)). 
   > *I have put together a handy guide for high school students who are struggling with the liberal arts. We know that some concepts can be tricky, and exams can be tough. That's why we've created this helpful resource to make things easier. It's been well-received by students at many different schools, and we're so happy to see it helping them succeed!*
 
-- 2024 National College Entrance Exam: Problem-Solving Workshop. [Course](https://www.bilibili.com/video/BV1pDfJY2Ejf/)
+- 2024 National College Entrance Exam: Problem-Solving Workshop.
 
-- Optional Compulsory Unit 2: Legal Studies and Daily Life – Revision Program. [Course](https://www.bilibili.com/video/BV1r593YrEM1/)
+  [Course](https://www.bilibili.com/video/BV1pDfJY2Ejf/)
+
+- Optional Compulsory Unit 2: Legal Studies and Daily Life – Revision Program.
+
+  [Course](https://www.bilibili.com/video/BV1r593YrEM1/)
 
 ## Teacher Certification Training Program
 
-- [Module 1](https://www.bilibili.com/video/BV1n14y197Cd/): Holistic Teacher Qualities
+- Module 1: Holistic Teacher Qualities
 
-- [Module 2]((https://www.bilibili.com/video/BV1Du4y1m7Gu/)): Pedagogical Content Knowledge, including Educational Philosophy and Systems and Cognitive and Behavioral Psychology in Education
+  [Course](https://www.bilibili.com/video/BV1n14y197Cd/)
   
-- Senior Middle School Teacher Qualification Certificate ([Maths](https://www.bilibili.com/video/BV1ES421P7v4/))
+- Module 2: Pedagogical Content Knowledge, including Educational Philosophy and Systems and Cognitive and Behavioral Psychology in Education
+  
+  [Course](https://www.bilibili.com/video/BV1Du4y1m7Gu/)
+  
+- Senior Middle School Teacher Qualification Certificate Maths
 
-- Senior Middle School Teacher Qualification Certificate ([English](https://www.bilibili.com/video/BV1pM4y1H7mb/))
+  [Course](https://www.bilibili.com/video/BV1ES421P7v4/)
+  
+- Senior Middle School Teacher Qualification Certificate English
 
-- Senior Middle School Teacher Qualification Certificate ([Politics](https://www.bilibili.com/video/BV1ar421M7Es/))
+  [Course](https://www.bilibili.com/video/BV1pM4y1H7mb/)
+  
+- Senior Middle School Teacher Qualification Certificate Citizenship and Society
 
+  [Course](https://www.bilibili.com/video/BV1ar421M7Es/)
+  
   
 
 
