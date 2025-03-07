@@ -40,7 +40,7 @@ From 2021 to the present.
 
 ### Related Work
 
-- [乘风语文] Teaching Assistant & Media Operations (see [Certification](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/EUrrSPj-ZL9CkN2ds_Q_O8cBbBdhyHGchxdsFV7vSSG-rQ?e=tqhznB))
+- 乘风语文 Teaching Assistant & Media Operations (see [Certification](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/EUrrSPj-ZL9CkN2ds_Q_O8cBbBdhyHGchxdsFV7vSSG-rQ?e=tqhznB))
 
 ### Cources and Handouts
 
@@ -52,9 +52,9 @@ From 2021 to the present.
 
 ### Related Work
 
-- [学而思](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/EUeZxpzK2H1KsdYR8KB-bIMBLt1N9AvRZg1UaEa54rOFmw?e=ac9amv) Teacher
+- [学而思](https://www.xueersi.com/) Teacher (see [Certification](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/EUeZxpzK2H1KsdYR8KB-bIMBLt1N9AvRZg1UaEa54rOFmw?e=ac9amv))
   
-- [开明治学](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/EeLG9Jtsb_JLjnBCEIajUkkBi2-gKGwP2EHaOlDBrnfmBQ?e=WF0qQD) Teaching Assistant
+- 开明治学 Teaching Assistant (see [Certification]](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/EeLG9Jtsb_JLjnBCEIajUkkBi2-gKGwP2EHaOlDBrnfmBQ?e=WF0qQD)
 
 
 ### Cources and Handouts
