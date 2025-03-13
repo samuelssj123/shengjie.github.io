@@ -66,9 +66,17 @@ From 2021 to the present.
 
   [Course](https://www.bilibili.com/video/BV1pDfJY2Ejf/)
 
-- Optional Compulsory Unit 2: Legal Studies and Daily Life – Revision Program.
+- Selective Compulsory Unit 2: Legal Studies and Daily Life – Review Session.
 
-  [Course](https://www.bilibili.com/video/BV1r593YrEM1/)
+  [Course](https://www.bilibili.com/video/BV1r593YrEM1/)  [Handout_v2503](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/EYTP38U2vHNCgxOrEMjVDAMBseyBLb9cpqlZDXgKW4GWVQ?e=ahzuii)
+
+- Selective Compulsory Unit 3: Logic and Reasoning – Review Session.
+  
+  [Course](https://www.bilibili.com/video/BV1fWRJY8EL8/) Handout_v2503
+
+- Compulsory Unit 1: Socialism with Chinese Characteristics - Review Session.
+
+  Handout_v2503
 
 ## Teacher Certification Training Program
 
