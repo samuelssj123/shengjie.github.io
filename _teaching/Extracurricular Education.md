@@ -76,7 +76,7 @@ From 2021 to the present.
 
 - Compulsory Unit 1: Socialism with Chinese Characteristics - Review Session.
 
-  Handout_v2503
+  [Handout_v2503](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/EXd8HyHzGd5AkV8RzVL7aBkBT7AQ98SA_W3vZ4kvcMD8ZQ?e=cBjk5t)
 
 ## Teacher Certification Training Program
 
