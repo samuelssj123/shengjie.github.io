@@ -72,7 +72,7 @@ From 2021 to the present.
 
 - Selective Compulsory Unit 3: Logic and Reasoning – Review Session.
   
-  [Course](https://www.bilibili.com/video/BV1fWRJY8EL8/) Handout_v2503
+  [Course](https://www.bilibili.com/video/BV1fWRJY8EL8/) [Handout_v2503](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/ES9eVeBPetRMh8CrccvbF4MBsTTT4HUCDvZGnVGsZTzwTA?e=0ah5em)
 
 - Compulsory Unit 1: Socialism with Chinese Characteristics - Review Session.
 
