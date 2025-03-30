@@ -66,6 +66,10 @@ From 2021 to the present.
 
   [Course](https://www.bilibili.com/video/BV1pDfJY2Ejf/)
 
+- Selective Compulsory Unit 1: Contemporary International Politics and Economics – Review Session.
+  
+  [Course](https://www.bilibili.com/video/BV1aXZAY7EJH/)  [Handout_v2504](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/EYe0UW0TiApLsu605ovuCLYBQo2JeqerhWD6lOD2UzdhMw?e=7yRuM8)
+  
 - Selective Compulsory Unit 2: Legal Studies and Daily Life – Review Session.
 
   [Course](https://www.bilibili.com/video/BV1r593YrEM1/)  [Handout_v2503](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/EYTP38U2vHNCgxOrEMjVDAMBseyBLb9cpqlZDXgKW4GWVQ?e=ahzuii)
