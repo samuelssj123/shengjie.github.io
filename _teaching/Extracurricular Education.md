@@ -82,6 +82,11 @@ From 2021 to the present.
 
   [Handout_v2503](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/EXd8HyHzGd5AkV8RzVL7aBkBT7AQ98SA_W3vZ4kvcMD8ZQ?e=cBjk5t)
 
+- Compulsory Unit 2: Economic and Social - Review Session.
+
+  [Handout_v2504](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/EdOEKOdkTxxOv8DjibaQq4QB7RN-hlq4kfRmCg_AJ7ozEw?e=ZX8TLk)
+
+
 ## Teacher Certification Training Program
 
 - Module 1: Holistic Teacher Qualities
