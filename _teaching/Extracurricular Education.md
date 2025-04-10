@@ -84,7 +84,7 @@ From 2021 to the present.
 
 - Compulsory Unit 2: Economic and Social - Review Session.
 
-  [Handout_v2504](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/EdOEKOdkTxxOv8DjibaQq4QB7RN-hlq4kfRmCg_AJ7ozEw?e=ZX8TLk)
+  [Course](https://youtu.be/P7SIBD39KFI) [Handout_v2504](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/EdOEKOdkTxxOv8DjibaQq4QB7RN-hlq4kfRmCg_AJ7ozEw?e=ZX8TLk)
 
 
 ## Teacher Certification Training Program
