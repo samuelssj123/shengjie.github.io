@@ -78,14 +78,17 @@ From 2021 to the present.
   
   [Course](https://www.bilibili.com/video/BV1fWRJY8EL8/) [Handout_v2503](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/ES9eVeBPetRMh8CrccvbF4MBsTTT4HUCDvZGnVGsZTzwTA?e=0ah5em)
 
-- Compulsory Unit 1: Socialism with Chinese Characteristics - Review Session.
+- Compulsory Unit Ⅰ: Socialism with Chinese Characteristics - Review Session.
 
   [Handout_v2503](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/EXd8HyHzGd5AkV8RzVL7aBkBT7AQ98SA_W3vZ4kvcMD8ZQ?e=cBjk5t)
 
-- Compulsory Unit 2: Economic and Social - Review Session.
+- Compulsory Unit Ⅱ: Economic and Social - Review Session.
 
   [Course](https://youtu.be/P7SIBD39KFI) [Handout_v2504](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/EdOEKOdkTxxOv8DjibaQq4QB7RN-hlq4kfRmCg_AJ7ozEw?e=ZX8TLk)
 
+- Compulsory Unit IV: Philosophy and Culture
+
+  [Handout_v2504](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/Ef1XBYbPAjBLt4RTAg_BCnkBgmYwes01NL52-RW0mxYmKQ?e=5pttqM)
 
 ## Teacher Certification Training Program
 
