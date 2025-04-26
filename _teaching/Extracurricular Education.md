@@ -64,7 +64,7 @@ From 2021 to the present.
 
 - 2024 National College Entrance Exam: Problem-Solving Workshop.
 
-  [Course](https://www.bilibili.com/video/BV1pDfJY2Ejf/)
+  [Course](https://www.bilibili.com/video/BV1pDfJY2Ejf/) [Handout_v2504](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/EQg_VgClG8FEgYJc-CA3u9oBc5gndEnWFdTFifGRI7SbHg?e=PpdBCI)
 
 - Selective Compulsory Unit 1: Contemporary International Politics and Economics – Review Session.
   
@@ -86,7 +86,11 @@ From 2021 to the present.
 
   [Course](https://youtu.be/P7SIBD39KFI) [Handout_v2504](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/EdOEKOdkTxxOv8DjibaQq4QB7RN-hlq4kfRmCg_AJ7ozEw?e=ZX8TLk)
 
-- Compulsory Unit IV: Philosophy and Culture
+- Compulsory Unit III: Politics and the Rule of Law - Review Session.
+
+  [Handout_v2504](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/EdWU_aCbU_ZHkTti1A7gzCwBYC1zwNGdDEXesHJU4NEy-A?e=DchQdw)
+
+- Compulsory Unit IV: Philosophy and Culture - Review Session.
 
   [Handout_v2504](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/Ef1XBYbPAjBLt4RTAg_BCnkBgmYwes01NL52-RW0mxYmKQ?e=5pttqM)
 
