@@ -32,6 +32,8 @@ From 2021 to the present.
   
   [[Reading Handout](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/EXoJu019KaNEiFw5C63TvXUB1v-Bkotv_Kh6h3oudNAbow?e=bPerkE)]
 
+  [[Word List](https://mailbnueducn-my.sharepoint.com/:x:/g/personal/sjs_mail_bnu_edu_cn/EenMmwKCMTZIu209iqpw2NgBj2HjFmAiaf67ms3Xn56zTg?e=xK8Ir4)]
+
  - NEW CONCEPT ENGLISH 4.
  
    [Handout](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/EQJRwyYCpohNok6a1VVruqkB7NLE9JOyadEcDGvDFVhE4w?e=DMrG5j)
