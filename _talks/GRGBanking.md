@@ -14,7 +14,7 @@ He interned at the Research Institute of [GRGBanking](https://global.grgbanking.
 
 ## Privacy Computing × Healthcare  
 
-Addressed the issue of medical data silos by designing a deployment scheme for federated learning in biomedical imaging. The work included:  
+Addressed the issue of medical data silos by designing a deployment scheme for federated learning in biomedical imaging. The work included below and [Output](https://mailbnueducn-my.sharepoint.com/:f:/g/personal/sjs_mail_bnu_edu_cn/EqTgQo1_j6lBhtCUP8fWFLUB8V8oGC0RGahZgyzrtc1XMw?e=gqtXCp):  
 
 - Technical Comparisons: Analyzed federated learning, secure multi-party computation, and trusted execution environment to identify suitable privacy-preserving approaches for medical data collaboration.  
 
@@ -26,4 +26,4 @@ Addressed the issue of medical data silos by designing a deployment scheme for f
 
 - User Testing: Conducted testing to validate the platform’s usability, model performance, and privacy protection mechanisms in real-world healthcare scenarios.
 
-[Output](https://mailbnueducn-my.sharepoint.com/:f:/g/personal/sjs_mail_bnu_edu_cn/EqTgQo1_j6lBhtCUP8fWFLUB8V8oGC0RGahZgyzrtc1XMw?e=gqtXCp)
+
