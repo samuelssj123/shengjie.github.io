@@ -12,18 +12,6 @@ He interned at the Research Institute of [GRGBanking](https://global.grgbanking.
 
 **Project Description**: Developed a privacy computing platform for data spaces, enabling each node to train a global model through federated learning by sharing parameters rather than raw data.  
 
-## Privacy Computing × Healthcare  
-
-Addressed the issue of medical data silos by designing a deployment scheme for federated learning in biomedical imaging. The work included below and [Output](https://mailbnueducn-my.sharepoint.com/:f:/g/personal/sjs_mail_bnu_edu_cn/EqTgQo1_j6lBhtCUP8fWFLUB8V8oGC0RGahZgyzrtc1XMw?e=gqtXCp):  
-
-- Technical Comparisons: Analyzed federated learning, secure multi-party computation, and trusted execution environment to identify suitable privacy-preserving approaches for medical data collaboration.  
-
-- Algorithm Research: Conducted in-depth studies on mainstream algorithms such as Densenet201, ViT, and ResNet50 for biomedical image classification, optimizing their application in medical scenarios.  
-
-- Tool Integration: Introduced open-source annotation and segmentation tools (e.g., CVAT) to streamline data preprocessing and labeling for medical images.  
-
-- Cross-Modal Capability: Leveraged the dual-tower architecture of MedImageInsight to implement image-text cross-modal retrieval and automated report generation.  
-
-- User Testing: Conducted testing to validate the platform’s usability, model performance, and privacy protection mechanisms in real-world healthcare scenarios.
+- Privacy Computing × Healthcare : Addressed the issue of medical data silos by designing a deployment scheme for federated learning in biomedical imaging. The work included technical comparisons, algorithm research, tool integration, cross-modal capability, user testing et al. 
 
 
