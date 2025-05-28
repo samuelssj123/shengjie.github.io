@@ -9,7 +9,7 @@ date: 2023-12-31
 
 Core Curriculum: *Microeconomics, Macroeconomics, Econometrics, Industrial Organization, International Trade*
 
-From 2022 to 2023.
+From 2022 to 2024. Update in Spring 2025.
 
 Macroeconomics
 ---
