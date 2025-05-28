@@ -18,12 +18,6 @@ From 2021 to the present.
 
 ## English
 
-### Related Work
-
-  - [学科网](https://www.zxxk.com/)签约作者Contracted author of the XuekeWang (see [contract](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/EXbsn14TbTlBipUg0yyYVNQBdZjd8ezMB8tvZA9MopJYGg?e=NVpIzs))
-    
-  - [饥饿英语](http://www.hungry-english.com/)Hungry English Teaching Assistant (see [contract](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/EbbarmeTCzFGmXJreMgzMAsBPgzfIooOen7tUg8Aax52QA?e=c9pA4l))
-
 ### Cources and Handouts
 
 - Writing in English for GRE & IELTS.
@@ -38,11 +32,13 @@ From 2021 to the present.
  
    [Handout](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/EQJRwyYCpohNok6a1VVruqkB7NLE9JOyadEcDGvDFVhE4w?e=DMrG5j)
 
+### Related Intern Work
+
+  - Contracted author of the [XuekeWang]((https://www.zxxk.com/)) 
+    
+  - [Hungry English]((http://www.hungry-english.com/)) Teaching Assistant 
+    
 ## Chinese
-
-### Related Work
-
-- 乘风语文 Teaching Assistant & Media Operations (see [Certification](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/EUrrSPj-ZL9CkN2ds_Q_O8cBbBdhyHGchxdsFV7vSSG-rQ?e=tqhznB))
 
 ### Cources and Handouts
 
@@ -50,18 +46,22 @@ From 2021 to the present.
 
   [[Handout](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/Ecl6-bY7m-9LnSoBZDrvheAB9b2vQ2_clGUe7JXeWjCoXA?e=LBQW8e)]
 
+### Related Work
+
+- [Chengfeng Chinese](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/EUrrSPj-ZL9CkN2ds_Q_O8cBbBdhyHGchxdsFV7vSSG-rQ?e=tqhznB) Teaching Assistant & Media Operations
+
 ## Citizenship and Society
 
 ### Related Work
 
-- [学而思](https://www.xueersi.com/) Teacher (see [Certification](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/EUeZxpzK2H1KsdYR8KB-bIMBLt1N9AvRZg1UaEa54rOFmw?e=ac9amv))
+- [XUEERSI](https://www.xueersi.com/) Teacher (see [Certification](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/EUeZxpzK2H1KsdYR8KB-bIMBLt1N9AvRZg1UaEa54rOFmw?e=ac9amv))
   
-- 开明治学 Teaching Assistant (see [Certification](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/EeLG9Jtsb_JLjnBCEIajUkkBi2-gKGwP2EHaOlDBrnfmBQ?e=WF0qQD))
+- Kaimingzhixue Teaching Assistant (see [Certification](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/EeLG9Jtsb_JLjnBCEIajUkkBi2-gKGwP2EHaOlDBrnfmBQ?e=WF0qQD))
 
 
 ### Cources and Handouts
 
-- Customized Coursebook: [《高考思想政治修炼手册》](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/EaYSwN-QNZ9Lqy_QzeLg4MoBaKeOt1e_EY3NdLxun5ih5Q?e=UbNHWD), used in educational institutions and selected for publication (Related Publication [《解题觉醒（2026）》](https://book.yunzhan365.com/bookcase/zzon/index.html)). 
+- Customized Coursebook: [Citizenship and Society](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/EaYSwN-QNZ9Lqy_QzeLg4MoBaKeOt1e_EY3NdLxun5ih5Q?e=UbNHWD), used in educational institutions and selected for publication (Related Publication [Jietijuexing(2026)》](https://book.yunzhan365.com/bookcase/zzon/index.html)). 
   > *I have put together a handy guide for high school students who are struggling with the liberal arts. We know that some concepts can be tricky, and exams can be tough. That's why we've created this helpful resource to make things easier. It's been well-received by students at many different schools, and we're so happy to see it helping them succeed!*
 
 - 2024 National College Entrance Exam: Problem-Solving Workshop.
