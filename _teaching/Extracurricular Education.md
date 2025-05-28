@@ -54,7 +54,7 @@ From 2021 to the present.
 
 ### Related Work
 
-- [XUEERSI](https://www.xueersi.com/) Teacher (see [Certification](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/EUeZxpzK2H1KsdYR8KB-bIMBLt1N9AvRZg1UaEa54rOFmw?e=ac9amv))
+- [XUEERSI](https://www.xueersi.com/) Teacher 
   
 - Kaimingzhixue Teaching Assistant (see [Certification](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/EeLG9Jtsb_JLjnBCEIajUkkBi2-gKGwP2EHaOlDBrnfmBQ?e=WF0qQD))
 
@@ -66,19 +66,27 @@ From 2021 to the present.
 
 - 2024 National College Entrance Exam: Problem-Solving Workshop.
 
-  [Course](https://www.bilibili.com/video/BV1pDfJY2Ejf/) [Handout_v2504](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/EQg_VgClG8FEgYJc-CA3u9oBc5gndEnWFdTFifGRI7SbHg?e=PpdBCI)
+  [Handout_v2504](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/EQg_VgClG8FEgYJc-CA3u9oBc5gndEnWFdTFifGRI7SbHg?e=PpdBCI)
+
+  [Level 1](https://www.bilibili.com/video/BV1pDfJY2Ejf/)
+
+  [Level 2](https://www.bilibili.com/video/BV1r593YrEM1/)
+
+  [Level 3](https://www.bilibili.com/video/BV1fWRJY8EL8/)
+
+  [Level 4](https://www.bilibili.com/video/BV1aXZAY7EJH/)  
 
 - Selective Compulsory Unit 1: Contemporary International Politics and Economics – Review Session.
   
-  [Course](https://www.bilibili.com/video/BV1aXZAY7EJH/)  [Handout_v2504](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/EYe0UW0TiApLsu605ovuCLYBQo2JeqerhWD6lOD2UzdhMw?e=7yRuM8)
+  [Handout_v2504](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/EYe0UW0TiApLsu605ovuCLYBQo2JeqerhWD6lOD2UzdhMw?e=7yRuM8)
   
 - Selective Compulsory Unit 2: Legal Studies and Daily Life – Review Session.
 
-  [Course](https://www.bilibili.com/video/BV1r593YrEM1/)  [Handout_v2503](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/EYTP38U2vHNCgxOrEMjVDAMBseyBLb9cpqlZDXgKW4GWVQ?e=ahzuii)
+  [Handout_v2503](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/EYTP38U2vHNCgxOrEMjVDAMBseyBLb9cpqlZDXgKW4GWVQ?e=ahzuii)
 
 - Selective Compulsory Unit 3: Logic and Reasoning – Review Session.
   
-  [Course](https://www.bilibili.com/video/BV1fWRJY8EL8/) [Handout_v2503](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/ES9eVeBPetRMh8CrccvbF4MBsTTT4HUCDvZGnVGsZTzwTA?e=0ah5em)
+  [Handout_v2503](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/ES9eVeBPetRMh8CrccvbF4MBsTTT4HUCDvZGnVGsZTzwTA?e=0ah5em)
 
 - Compulsory Unit Ⅰ: Socialism with Chinese Characteristics - Review Session.
 
