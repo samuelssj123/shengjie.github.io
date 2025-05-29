@@ -21,4 +21,4 @@ This project contains abundant resources, primarily including:
 
 - Deep learning materials with notes and code based on classic courses
 
-- Interview preparation FAQs and classic project examples
+- Classic project examples and other exploration...
