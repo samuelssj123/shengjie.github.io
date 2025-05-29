@@ -6,33 +6,40 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an Research Assistant, FTEC Thrust, Society Hub, The Hong Kong University of Secience and Technology([HKUST-GZ](https://www.hkust-gz.edu.cn/zh/?variant=zh-cn)), supervise by Prof. [Yi Zhang](https://sites.google.com/view/yzhangone/home).
 
-I will recive my Bachelor's Degree in Bay Area International Business School of Finance Technology([BIBS](https://bibs.bnu.edu.cn/)), Beijing Normal University([BNU](https://www.bnu.edu.cn/)). In my third year as an undergraduate, I was fortunate to have the opportunity to study under Prof. [Meng Han](https://bibs.bnu.edu.cn/teachers/qzjs/587d80e0309b4d559299abec5d16924b.htm) who is an excellent teacher, guiding me to the academic path.
-
-My research interest includes Empirical Asset Pricing, Empirical Finance, Education and Macroeconomics, Applied Machine Learning. In particular, how political, climatic, educational and other social events affect asset values.
-
-> <font color=DarkGray size=3>Note: By clicking the buttons above, you can explore my research, projects, teaching, and experiences. On my personal homepage, you can reach the deepest level of content in no more than three clicks, with no further navigation required.</font>   
+### **👋 About Me**  
+I am a incoming Master's student at the **School of Software and Microelectronics**, **Peking University**, specializing in emerging interdisciplinary studies. Prior to this, I served as a Research Assistant at the **Finance Technology (FTEC) Thrust, Society Hub** at **The Hong Kong University of Science and Technology ([HKUST-GZ](https://www.hkust-gz.edu.cn/zh/?variant=zh-cn))**, supervised by **Prof. [Yi Zhang](https://sites.google.com/view/yzhangone/home)**. I earned my **Bachelor’s Degree in Finance Technology** from the **Bay Area International Business School ([BIBS](https://bibs.bnu.edu.cn/))** at **Beijing Normal University ([BNU](https://www.bnu.edu.cn/))**, where my academic journey was significantly shaped by **Prof. [Meng Han](https://bibs.bnu.edu.cn/teachers/qzjs/587d80e0309b4d559299abec5d16924b.htm)**, who guided me toward research and my graduate thesis.  
 
 
-Education and Research
-====
-
-* The Hong Kong University of Science and Technology(Guangzhou) (2024.09-present)
-
-  Research Assistant, Finance Technology
-  
-  Advisor: Prof. [Yi Zhang](https://sites.google.com/view/yzhangone/home)
-
-* Beijing Normal University (2021.09-2025.06)
-  
-  Bachelor, Finance Technology
-  
-  Advisor: Prof. [Meng Han](https://bibs.bnu.edu.cn/teachers/qzjs/587d80e0309b4d559299abec5d16924b.htm)
+### **📊 Research Interests**  
+My interdisciplinary research focuses on:  
+- **Empirical Asset Pricing** and **Empirical Finance**  
+- **Education Economics**, **Applied Society Science**, and **Applied Machine Learning**  
 
 
+### **🎓 Academic Experience**  
+*(Chronological order with emphasis on progression)*  
+
+#### **Peking University**  
+**Master’s Candidate | School of Software and Microelectronics**  
+*September 2025 – Present (Expected)*  
+- Focus: Emerging interdisciplinary research at the intersection of finance technology and social science analytics.  
+
+#### **The Hong Kong University of Science and Technology (Guangzhou)**  
+**Research Assistant | Finance Technology Thrust**  
+*September 2024 – August 2025*  
+- Advisor: [Prof. Yi Zhang](https://sites.google.com/view/yzhangone/home)  
+- Contributions: Developed machine learning models to analyze financial market responses to educational policy shocks; collaborated on empirical studies linking climate events to asset price volatility.  
+
+#### **Beijing Normal University (BNU)**  
+**Bachelor of Finance Technology | Bay Area International Business School (BIBS)**  
+*September 2021 – June 2025*  
+- Advisor: [Prof. Meng Han](https://bibs.bnu.edu.cn/teachers/qzjs/587d80e0309b4d559299abec5d16924b.htm)  
+- Academic Milestones: Under Prof. Han’s mentorship, initiated early research on the educational attainment-financial market correlation, laying the foundation for my interdisciplinary approach.  
 
 
+### **🔗 Professional Links**  
+- [Personal Website](你的个人主页链接) ➔ Explore publications, projects, and teaching experiences (3-click navigation guaranteed).  
 
 
 
