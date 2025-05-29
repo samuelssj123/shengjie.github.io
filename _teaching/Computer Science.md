@@ -7,7 +7,7 @@ permalink: /teaching/Computer Science
 date: 2024-06-05
 ---
 
-Core Curriculum: *Data Structure, Algorithm Design and Analysis, JAVA Progarmming, Python Programming, Machine learning*
+Core Curricula: *Data Structure, Algorithm Design and Analysis, JAVA Progarmming, Python Programming, Machine learning*
 
 From 2023 to 2024.
 
