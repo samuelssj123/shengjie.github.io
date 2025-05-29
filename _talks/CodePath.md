@@ -4,10 +4,10 @@ collection: talks
 type: "Field Research"
 permalink: /talks/CodePath
 venue: "Online"
-date: 2025-05-01
+date: 2025-08-01
 ---
 
-[CodePath](https://samuelssj123.github.io/#page-top) is a meticulously crafted self-guided learning program designed to help individuals master algorithms and their advanced applications. Update on May 1st.
+[CodePath](https://samuelssj123.github.io/#page-top) is a meticulously crafted self-guided learning program designed to help individuals master algorithms and their advanced applications. Updating...
 
 Drawing inspiration from the proven methodologies of [Code Caprice](https://space.bilibili.com/525438321?spm_id_from=333.337.0.0) and [Learning Deep Learning with Mu Li](https://space.bilibili.com/1567748478?spm_id_from=333.337.0.0), the program is enriched with my personal contributions, including detailed handwritten notes, high-quality lecture recordings, and thoughtful reflections. 
 
