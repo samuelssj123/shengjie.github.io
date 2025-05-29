@@ -26,15 +26,15 @@ My interdisciplinary research focuses on:
 **Research Assistant | Finance Technology Thrust**  
 *September 2024 – April 2025*   
 
-## **Beijing Normal University (BNU)**  
-**Bachelor of Finance Technology | Bay Area International Business School (BIBS)**  
+## **Beijing Normal University**  
+**Bachelor of Finance Technology | Bay Area International Business School**  
 *September 2021 – June 2025*  
 
 
 # **🔗 Professional Links**  
-- [Personal Website](你的个人主页链接) ➔ Explore publications, projects, and teaching experiences (3-click navigation guaranteed).  
-
-
-
+- [Research](https://samuelssj123.github.io/shengjie.github.io//publications/) ➔ Explore *Representative Papers and Research Projects*.  
+- [Professional Projects](https://samuelssj123.github.io/shengjie.github.io//talks/) ➔ Explore *Professional Internships and Social Research*.  
+- [Teaching](https://samuelssj123.github.io/shengjie.github.io//publications/) ➔ Explore *Curricula*.  
+- [Experience](https://samuelssj123.github.io/shengjie.github.io//publications/) ➔ Explore *Diversity*. 
 
 
