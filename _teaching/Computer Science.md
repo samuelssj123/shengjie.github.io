@@ -4,7 +4,7 @@ type: Online Course
 collection: teaching
 venue: Bilibili
 permalink: /teaching/Computer Science
-date: 2024-06-05
+date: 2023-06-01
 ---
 
 Core Curricula: *Data Structure, Algorithm Design and Analysis, JAVA Progarmming, Python Programming, Machine learning*
