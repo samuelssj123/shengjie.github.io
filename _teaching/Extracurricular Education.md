@@ -114,5 +114,5 @@ From 2021 to the present.
 
 - [*XUEERSI*](https://www.xueersi.com/), Guangzhou, Lecturer(Citizenship and Society) 
   
-- *Kaimingzhixue*, Beijing, Teaching Assistant(Liberal Arts Subjects, e.g. Geography)
+- *Kaimingzhixue*, Beijing, Teaching Assistant(Geography et al)
 
