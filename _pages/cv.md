@@ -11,6 +11,8 @@ redirect_from:
 
 # Graduate / Master's stage
 
+Updating...
+
 # Undergraduate / Bachelor's stage
 
 ## Academic: Leading and Exceeding
@@ -24,32 +26,22 @@ redirect_from:
 **Research Assistant, 2024-2025**
 - Contribution: Developed financial research tools to analyze event impacts on stock prices & conducted quantitative finance projects on climate policy risks and portfolio hedging(e.g. text mining, AR/CAR, DID).
 
+## Social Service: Cross-cultural and Inclusion
 
-<a id="section2"></a>
-## <font face="Comic Sans MS">Education: Spreading and Equality</font>
+- *Influencer*: Travelled around China and shared personal experience in [REDNote](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/ESffpL5B8ZxPtPmyqECPK88BZgzbhJgPDfms2cRgewUqHw?e=QcTBDU) and [Bilibili](https://b23.tv/i9vvzLJ) with many followers.
+- *Aid Education*: Volunteer Teaching in a Middle School in a National Poverty-stricken County, Henan Province.
+- *Large-scale Events*: Volunteering in The Third Conference of the lnternational Science, Technology and innovation Forum of Boao Forum for Asia([ISTIF](https://www.boaoforum.org/themed/istif/2023/index_1.html)), [THE SIXTH CHINA EDUCATION INNOVATION EXPO](https://news.bnu.edu.cn/zx/ttgz/2091c3219be24fb8b3ad5fdab16d93ce.htm) et al.
+- *Social Survey*: Explored Ancestral Civilisation in Chengdu, Sichuan. Researched on Baoan Waist Knives in Gansu. Promoted Daozhen culture in Guizhou.
 
-|Experience | Description  <br>
-|Lecturers and Teaching Assistants for [Chinese](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/EUrrSPj-ZL9CkN2ds_Q_O8cBbBdhyHGchxdsFV7vSSG-rQ?e=tqhznB), [Geography & Citizenship and Society](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/EeLG9Jtsb_JLjnBCEIajUkkBi2-gKGwP2EHaOlDBrnfmBQ?e=WF0qQD), [IELTS English](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/EbbarmeTCzFGmXJreMgzMAsBPgzfIooOen7tUg8Aax52QA?e=c9pA4l) | Helping students with insufficient teachers, educational resources and unequal access to education in educational training institutions <br>
-|Aid Education in [Henan Province](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/Ef8wK8BYUu1MqBzQDk2z6xoBWB_LEcopZTMndpTCtXeqzw?e=fUhE5v)| Volunteer Teaching in a Middle School in a National Poverty-stricken County
 |Teacher Qualification Certificate ([Maths](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/ETq9T5irmYhAoT_j4WJfT4cBQCmC39GN7GPZr3zvyIApBA?e=KC1ybX) & [English](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/EeI5W2kjeFRDkTf9VqkdCxwBnKcpvdrUFNTkA35uEPUMPA?e=JoTNVF)) of High School| Demonstrate that the applicant has passed the examinations on teacher ethics, basic qualities, educational and pedagogical competencies, and potential for professional development of teachers.  <br>
 |[SDG Olympiad Competition](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/ESffpL5B8ZxPtPmyqECPK88BZgzbhJgPDfms2cRgewUqHw?e=QcTBDU) at Tsinghua University | The workshop was centred around the theme of ‘Planetary Health’, which encouraged campers to explore practical issues and propose potentially viable solutions to accelerate society's progress towards the SDG goals. <br> <br>
 
 
 
-<a id="section3"></a>
-## <font face="Comic Sans MS">Volunteering: Cross-cultural and Inclusion</font>
 
-|Experience | Description <br>
-|Little Red Book | **Influencer:** Travelled around China and shared personal experience on social platform called Little Red Book and obtain over 10,000 fans (following him by clicking [here](https://www.xiaohongshu.com/user/profile/619e2dd9000000001000afa2?xhsshare=CopyLink&appuid=619e2dd9000000001000afa2&apptime=1718706118&share_id=94e7a172ea274f2d8a05a0a083ca32af)).   <br>
-|The Third Conference of the lnternational Science, Technology and innovation Forum of Boao Forum for Asia([ISTIF](https://www.boaoforum.org/themed/istif/2023/index_1.html)) | **Volunteering:** [Best Volunteer](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/EXnBczhu7xNAo_bH20TqWWQBCJLQooNjAlGGTbLKFjmY3Q?e=0gXRdI) <br>
-|Voluntary Service Time Certifcate of Guangdong Province |**Volunteering:** [Voluntary more than 138 hours](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/EUQYC6qPfepEmjh-I_6K5XMB6ykeqOweV-xrfTD5qMoMjg?e=wWIqiu)  until I leave my university. <br>
-|[THE SIXTH CHINA EDUCATION INNOVATION EXPO](https://news.bnu.edu.cn/zx/ttgz/2091c3219be24fb8b3ad5fdab16d93ce.htm) | **Volunteering:** [Best Volunteer](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/EQM8fklh8sFPg1xnm1OXWn0Bj_wZ5hh6M08OlfNMdPjiBA?e=SHgOtb) <br>
-|Student Union’s General Affairs Minister |**Leadership:** Student Work and [Head of Department](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/Eb-9A7dfd0VMpkXOSdfG2rQBY81re4on186FqRfp5hfw7w?e=ADNPja) <br> <br>
+|Student Union’s General Affairs Minister |**Leadership:** Student Work and [Head of Department]() <br> <br>
 
-|Activity | Location |Topic <br>
-|[Research on Baoan Waist Knives](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/Ed_yYAA6ymhOvja6xkJxMPEBAFo0TyFUVSEmwITyP0j-JA?e=s9QfY9)|Jieshishan County, Gansu Province |Protection of Ethnic Minority Cultural Heritage <br>
-|[Entering Ancient Shu Culture&Exploring Ancestral Civilisation](https://mp.weixin.qq.com/s/PefKn-BtHiRaCo-bHN69mQ)(or [PDF](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/EZylCQUHJSlCr8ACZCRLTWoBVM1Gc0vQDmLGuJJQZvl0Gw?e=zaBaTc) version)|Chengdu, Sichuan Province |Exploring Ancient Civilisation and Modern Urban Governance  <br>
-|College Students' View of Daochen |Daochen County, Guizhou Province |Cultural Tourism Poverty Alleviation <br>
+
 |[Excellence Camp](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/ERrPcLCcdr9CvqRGT4VasrcBryqirDq6nZA3gRFEJvNcNQ?e=QKj8o9) in BNU |Beijing, Zhuhai |'Obsession for Excellence', aiming to cultivate excellent talents with comprehensive abilities
 
 
