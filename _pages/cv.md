@@ -9,6 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
+# Graduate / Master's stage
+
+# Undergraduate / Bachelor's stage
+
+## Academic: Leading and Exceeding
+
+**Beijing Normal University [北京師範大學](https://www.bnu.edu.cn/)  <br>**
+**Finance Techonology, 2021-2025**
+- GPA:3.9/4.0
 
 ## <font face="ABeeZee">Contents</font>
 * [Academic: Leading and Exceeding](#section1)
@@ -19,8 +28,7 @@ redirect_from:
 <a id="section1"></a>
 ## <font face="Comic Sans MS">Academic: Leading and Exceeding</font>
 
-**Beijing Normal University [北京師範大學](https://www.bnu.edu.cn/)  <br>**
-**Bachelor, 2021-2025**
+
 
 | Transcript & Ranking | Description   <br>
 | [Transcript](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/ETGp9byAMUtJnh-J46GhGPcB0GRVO62r6N_F7GbTrWicgA?e=NlyKWq)  | **Exceeding Expectations:** Transcript of Bachelor from Sep 2021 to  June 2025  <br>
