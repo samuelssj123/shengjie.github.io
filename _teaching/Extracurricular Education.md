@@ -7,18 +7,13 @@ permalink: /teaching/Extracurricular Education
 date: 2021-06-07
 ---
 
-This section contains the work he has done in high school extracurricular education and in-service vocational education.
+This section contains the work he has done in high school and vocational education.
 
 From 2021 to the present.
 
-## Working Handout Manuscripts
-
-> The following is a manuscript of handouts that I developed during my internship that are available to teachers and students.
-> I will update ...
+# Representative Cources
 
 ## English
-
-### Cources and Handouts
 
 - Writing in English for GRE & IELTS.
   
@@ -32,37 +27,7 @@ From 2021 to the present.
  
    [Handout](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/EQJRwyYCpohNok6a1VVruqkB7NLE9JOyadEcDGvDFVhE4w?e=DMrG5j)
 
-### Related Intern Work
-
-  - Contracted author of the [XuekeWang]((https://www.zxxk.com/)) 
-    
-  - [Hungry English]((http://www.hungry-english.com/)) Teaching Assistant 
-    
-## Chinese
-
-### Cources and Handouts
-
-- Advanced Chinese and Literature.
-
-  [[Handout](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/Ecl6-bY7m-9LnSoBZDrvheAB9b2vQ2_clGUe7JXeWjCoXA?e=LBQW8e)]
-
-### Related Work
-
-- [Chengfeng Chinese](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/EUrrSPj-ZL9CkN2ds_Q_O8cBbBdhyHGchxdsFV7vSSG-rQ?e=tqhznB) Teaching Assistant & Media Operations
-
 ## Citizenship and Society
-
-### Related Work
-
-- [XUEERSI](https://www.xueersi.com/) Teacher 
-  
-- Kaimingzhixue Teaching Assistant (see [Certification](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/EeLG9Jtsb_JLjnBCEIajUkkBi2-gKGwP2EHaOlDBrnfmBQ?e=WF0qQD))
-
-
-### Cources and Handouts
-
-- Customized Coursebook: [Citizenship and Society](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/EaYSwN-QNZ9Lqy_QzeLg4MoBaKeOt1e_EY3NdLxun5ih5Q?e=UbNHWD), used in educational institutions and selected for publication (Related Publication [Jietijuexing(2026)》](https://book.yunzhan365.com/bookcase/zzon/index.html)). 
-  > *I have put together a handy guide for high school students who are struggling with the liberal arts. We know that some concepts can be tricky, and exams can be tough. That's why we've created this helpful resource to make things easier. It's been well-received by students at many different schools, and we're so happy to see it helping them succeed!*
 
 - 2024 National College Entrance Exam: Problem-Solving Workshop.
 
@@ -75,6 +40,8 @@ From 2021 to the present.
   [Level 3](https://www.bilibili.com/video/BV1fWRJY8EL8/)
 
   [Level 4](https://www.bilibili.com/video/BV1aXZAY7EJH/)  
+
+- Customized Coursebook: [Citizenship and Society](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/EaYSwN-QNZ9Lqy_QzeLg4MoBaKeOt1e_EY3NdLxun5ih5Q?e=UbNHWD), used in educational institutions and selected for publication (Related Publication [Jietijuexing(2026)》](https://book.yunzhan365.com/bookcase/zzon/index.html)). 
 
 - Selective Compulsory Unit 1: Contemporary International Politics and Economics – Review Session.
   
@@ -125,9 +92,27 @@ From 2021 to the present.
 - Senior Middle School Teacher Qualification Certificate Citizenship and Society
 
   [Course](https://www.bilibili.com/video/BV1ar421M7Es/)
-  
-  
+
+- Senior Middle School Teacher Qualification Certificate Information Technology
+
+  [Course](https://b23.tv/wvPRwGR)
+
+## Chinese
+
+- Advanced Chinese and Literature.
+
+  [[Handout](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/Ecl6-bY7m-9LnSoBZDrvheAB9b2vQ2_clGUe7JXeWjCoXA?e=LBQW8e)]
 
 
+# Related Work Experience
 
+- *Chengfeng Chinese*, Teaching Assistant(Chinese) & Media Operations
+
+- [*XuekeWang*]((https://www.zxxk.com/)), Contracted author(for English subject)
   
+- [*Hungry English*]((http://www.hungry-english.com/)), Teaching Assistant(English)
+
+- [*XUEERSI*](https://www.xueersi.com/), Guangzhou, Lecturer(Citizenship and Society) 
+  
+- [*Kaimingzhixue*], Beijing, Teaching Assistant(Citizenship and Society, Geography)
+
