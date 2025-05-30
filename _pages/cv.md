@@ -17,34 +17,12 @@ redirect_from:
 
 **Beijing Normal University [北京師範大學](https://www.bnu.edu.cn/)  <br>**
 **Finance Techonology, 2021-2025**
-- GPA:3.9/4.0
-
-## <font face="ABeeZee">Contents</font>
-* [Academic: Leading and Exceeding](#section1)
-* [Education: Spreading and Equality](#section2)
-* [Volunteering: Cross-cultural and Inclusion](#section3)
-* [Skills & Interests: Diversified Learning and Purpose](#section4)
-
-<a id="section1"></a>
-## <font face="Comic Sans MS">Academic: Leading and Exceeding</font>
-
-
-
-| Transcript & Ranking | Description   <br>
-| [Transcript](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/ETGp9byAMUtJnh-J46GhGPcB0GRVO62r6N_F7GbTrWicgA?e=NlyKWq)  | **Exceeding Expectations:** Transcript of Bachelor from Sep 2021 to  June 2025  <br>
-|[ GPA Ranking](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/EW07T-Hf3rRKgYSebS_1n8kBA1NBcPGeRu0QxFrwoqAd8Q?e=C3R9qx) | **Leading by 6 points:** GPA:3.9/4.0, 93.8065/100. Ranking of GPA of all major courses in the training programme (major courses must be completed in the first three academic years)
-
-| Scholarship                  | Description             <br>
-| [National Scholarship](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/EckLbKJtaW1AqhNQKcXKiAsBvpx-pyqEfV0kGz6Yuytf4g?e=9qUoog)          | **Highest** scholarship from Ministry of Education of China        <br>
-| [The First Prize Scholarship](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/EVwLImBjD1hIoCEHZ83UsssBB-pszOmocLK2PmIa_HLrvw?e=T4YobQ)    | **Highest** academic honor at BNU (Top 10%)    
+- GPA: 3.9/4.0, with 93.8/100 in major courses (6 points higher than the second place).
+- Honors: National Scholarship(from Ministry of Education of China, Top 1%), Jingshi First-Class Scholarship (3 times, from BNU, Top 10%)
 
 **The Hong Kong Universtiy of Science and Technology (GUANGZHOU) [香港科技大學（廣州）](https://ugadmissions.hkust-gz.edu.cn/en/)  <br>**
-**Research Assistant, 2024-2025, [Contract](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/EbH7RyL2AB1Npez2MToYU0IBRB0PPbDvJoZKtXb3souTjw?e=cJnuBW)**
-
-| Contributions and Samples   
-| *Topic 1: How Trump and Paris Agreement shock Climate Change Exposure in stock market, [Report PDF](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/ESVv-E_tvshDrpWlcLc6r_gBR4WfN-UsGkRUldqoB3nrBQ?e=5n87ep).* <br> 
-| *Topic 2: Measuring China Climate Policy Risk, [Report PDF](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/EWCN-qKj4G5ElwYdZYEA_hcB4cVZ4fzGjvYc3M-1vG2Czw?e=K4DVyO).* <br>
-| *Topic 3: Mimicking Portfolio Construction to Hedge Green Policy Risks, China Securities Association, [File Attachment](https://mailbnueducn-my.sharepoint.com/:f:/g/personal/sjs_mail_bnu_edu_cn/ErLLs83RNS9EgkQdp4HrzWIBVlo1xcD05i5GzfE4n0wA0w?e=fMc9nP), [Report PDF]({{site.url}}/file/hkustgz_Green_Industrial_Policy.pdf).*
+**Research Assistant, 2024-2025**
+- Contribution: Developed financial research tools to analyze event impacts on stock prices & conducted quantitative finance projects on climate policy risks and portfolio hedging(e.g. text mining, AR/CAR, DID).
 
 
 <a id="section2"></a>
