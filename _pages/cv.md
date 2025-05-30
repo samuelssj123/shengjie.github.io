@@ -35,9 +35,9 @@ Updating...
 
 ## Activities & Interests
 
-- *Language*: 中文(Mandarin)一级乙等(Highest level of qualification examination) (Native speaker), English(IELTS 6.5), 日本語／にほんご(Japanese) (Beginner)
-- *Qualification*: Accounting Professional and Technical Qualification Certificate (Junior), Teacher Qualification of High School(English, Maths, Citizenship and Society, Information Technology), Insurance Intermediary in Hong Kong.
 - *Skills*: R, Stata, Python, GIS, C/C++, Java, Matlab. Machine Learning, Deep Learning, Algorithm Design.
+- *Qualification*: Accounting Professional and Technical Qualification Certificate (Junior), Teacher Qualification of High School(English, Maths, Citizenship and Society, Information Technology), Insurance Intermediary in Hong Kong.
+- *Language*: 中文(Mandarin)一级乙等(Highest level of qualification examination) (Native speaker), English(IELTS 6.5), 日本語／にほんご(Japanese) (Beginner)
   
 ---
 
