@@ -42,7 +42,7 @@ Updating...
 ---
 
 - *Frontiers of Education Economics and Chinese Practice* Summer School at Peking University(Beijing), 2024.6.
-- Maths Lecture Summer School: Introduction to Mathematical Theory on Fluids(Score: 98/100), Modes and Approximate Standard Types(Score: 95/100)
+- Maths Lecture Summer School: Introduction to Mathematical Theory on Fluids(Score: 98/100), Modes and Approximate Standard Types(Score: 95/100), 2023.6
 - *Student Work*: Served as Student Union’s General Affairs Minister
 - Outstanding Undergraduate Summer Camp for Systems Science, Beijing Normal University(Beijing), 2024.7.
 - Society Hub Summer Camp for PhD Admission workshop at The Hongkong University of Science and Technology(Guangzhou), 2024.7.
