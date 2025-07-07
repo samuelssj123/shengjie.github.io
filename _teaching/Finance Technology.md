@@ -11,21 +11,32 @@ Core Curriculum: *Financial Big Data Analysis, Blockchain and Digital Assets, Fi
 
 From 2023 to 2024. Update in Spring 2025.
 
-Basic Finance 
----
-
-Monetary Banking, International Finance, Corporate Finance, and Investments are the four core courses of finance, and I have provided a condensed summary and detailed explanation of these four courses. [[link](https://www.bilibili.com/video/BV1UJHke1EcU/?share_source=copy_web&vd_source=e8fa1855f6f86b783664c47a8acea625)] [[Handouts](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/Eae2msAbo3lIuiZKVO6b_zABkGUrpp25_pkKP-dNWD0WUw?e=PIKXNe)]
-
-Financial Big Data Analysis
----
-
-Please click [here](https://www.bilibili.com/video/BV1uT421S7UA/) to see the online course videos, including how to use EXCEL to build portfolio and test CAPM or index model, how to use Python to perform web crawling, text analysis, data cleansing.
-
 Blockchain and Digital Assets
 ---
 Online Course Videos: Click [here](https://www.bilibili.com/video/BV16r421u7PG/)
 
 Course Handouts: Click [here]({{site.url}}/file/Handout_of_Block_Chain.pdf)
+
+Financial Technology Fundamentals 
+---
+
+[Corporate Finance 公司金融](https://www.bilibili.com/video/BV1XN411C75G/)
+
+[Fintech Theory and Practice 金融科技理论与实践](https://www.bilibili.com/video/BV1Po4y1W7W3/)
+
+[International Finance 国际金融](https://www.bilibili.com/video/BV12P411D7wK/)
+
+[Money and Banking 货币银行学](https://b23.tv/ENWg8tX)
+
+Summary of Basic Finance [[link](https://www.bilibili.com/video/BV1UJHke1EcU/?share_source=copy_web&vd_source=e8fa1855f6f86b783664c47a8acea625)] [[Handouts](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/Eae2msAbo3lIuiZKVO6b_zABkGUrpp25_pkKP-dNWD0WUw?e=PIKXNe)]
+
+Investment
+---
+[Section 1](https://www.bilibili.com/video/BV1Ng4y197zk/)
+
+[Section 2](https://www.bilibili.com/video/BV1xa4y1r71Y/)
+
+[Review](https://www.bilibili.com/video/BV1pC4y1T75V/)
 
 Financial Engineering
 ---
@@ -37,22 +48,10 @@ Financial Engineering
 
 [Review](https://www.bilibili.com/video/BV1yQ4y1u78P/)
 
-Investment
+Financial Big Data Analysis
 ---
-[Section 1](https://www.bilibili.com/video/BV1Ng4y197zk/)
 
-[Section 2](https://www.bilibili.com/video/BV1xa4y1r71Y/)
-
-[Review](https://www.bilibili.com/video/BV1pC4y1T75V/)
-
-Financial Technology Fundamentals 
----
-[Corporate Finance](https://www.bilibili.com/video/BV1XN411C75G/)
-
-[Fintech Theory and Practice](https://www.bilibili.com/video/BV1Po4y1W7W3/)
-
-[International Finance](https://www.bilibili.com/video/BV12P411D7wK/)
-
+Please click [here](https://www.bilibili.com/video/BV1uT421S7UA/) to see the online course videos, including how to use EXCEL to build portfolio and test CAPM or index model, how to use Python to perform web crawling, text analysis, data cleansing.
 
 Notes: Advanced Learning for Finance Technology
 ---
