@@ -11,7 +11,7 @@ author_profile: true
 
 - **S. Song**, M. Han, Is Buffett indicator priced in Chinese stock markets, Working Paper
 
-- **S. Song**, C. Chen, M. Lin, [Kong Yiji's Long Gown Empirical Insights into the Impact of Educational Mismatch on Labor Force, Working Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5207978), Working Paper
+
 
 
 **Research Projects**
@@ -23,8 +23,9 @@ author_profile: true
 -  Project Leader, Bay Area Top Innovative Youth Cultivation Fund Project, Awarded First Prize, 2023-2024 
 
 - Project Leader, Bay Area Top Innovative Youth Cultivation Fund Project (the 2nd), Awarded Third Prize, 2024-2025
-
+  ***S. Song**, Kong Yiji's Long Gown: Empirical Insights into the Impact of Educational Mismatch on Labor Force (4/2025). Available at SSRN: [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5207978)*
+  
 -  Project Leader, "Jingshi Cup" Technological Innovation Competition, 2024 <br>
-   ***S. Song**, Is social capital the secret weapon of happiness? (October 10, 2024). Available at SSRN: [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4994129)*
+   ***S. Song**, Is social capital the secret weapon of happiness? (10/2024). Available at SSRN: [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4994129)*
   
   
