@@ -22,14 +22,13 @@ My interdisciplinary research focuses on:
 **Master’s Candidate | School of Software and Microelectronics**  
 *September 2025 – June 2028 (Expected)*  
 
-## **The Hong Kong University of Science and Technology (Guangzhou)**  
-**Research Assistant | Finance Technology Thrust**  
-*September 2024 – April 2025*   
-
 ## **Beijing Normal University**  
 **Bachelor of Finance Technology | Bay Area International Business School**  
 *September 2021 – June 2025*  
 
+## **The Hong Kong University of Science and Technology (Guangzhou)**  
+**Research Assistant | Finance Technology Thrust**  
+*September 2024 – April 2025*   
 
 # **🔗 Professional Links**  
 - [Research](https://samuelssj123.github.io/shengjie.github.io//publications/) ➔ Explore *Representative Papers and Research Projects*.  
