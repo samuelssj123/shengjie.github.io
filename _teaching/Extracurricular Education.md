@@ -43,28 +43,28 @@ From 2021 to the present.
 
 - Customized Coursebook: [Citizenship and Society](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/EaYSwN-QNZ9Lqy_QzeLg4MoBaKeOt1e_EY3NdLxun5ih5Q?e=UbNHWD), used in educational institutions and selected for publication (Related Publication [Jietijuexing(2026)》](https://book.yunzhan365.com/bookcase/zzon/index.html)). 
 
-- Selective Compulsory Unit 1: Contemporary International Politics and Economics – Review Session. 
+  Selective Compulsory Unit 1: Contemporary International Politics and Economics – Review Session. 
   [Handout_v2504](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/EYe0UW0TiApLsu605ovuCLYBQo2JeqerhWD6lOD2UzdhMw?e=7yRuM8)
   
-- Selective Compulsory Unit 2: Legal Studies and Daily Life – Review Session.
+  Selective Compulsory Unit 2: Legal Studies and Daily Life – Review Session.
   [Handout_v2503](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/EYTP38U2vHNCgxOrEMjVDAMBseyBLb9cpqlZDXgKW4GWVQ?e=ahzuii)
 
-- Selective Compulsory Unit 3: Logic and Reasoning – Review Session. 
+  Selective Compulsory Unit 3: Logic and Reasoning – Review Session. 
   [Handout_v2503](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/ES9eVeBPetRMh8CrccvbF4MBsTTT4HUCDvZGnVGsZTzwTA?e=0ah5em)
 
-- Compulsory Unit Ⅰ: Socialism with Chinese Characteristics - Review Session.
+  Compulsory Unit Ⅰ: Socialism with Chinese Characteristics - Review Session.
   [Handout_v2503](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/EXd8HyHzGd5AkV8RzVL7aBkBT7AQ98SA_W3vZ4kvcMD8ZQ?e=cBjk5t)
 
 - Compulsory Unit Ⅱ: Economic and Social - Review Session.
   [Handout_v2504](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/EdOEKOdkTxxOv8DjibaQq4QB7RN-hlq4kfRmCg_AJ7ozEw?e=ZX8TLk)
 
-- Compulsory Unit III: Politics and the Rule of Law - Review Session.
+  Compulsory Unit III: Politics and the Rule of Law - Review Session.
   [Handout_v2504](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/EdWU_aCbU_ZHkTti1A7gzCwBYC1zwNGdDEXesHJU4NEy-A?e=DchQdw)
 
-- Compulsory Unit IV: Philosophy and Culture - Review Session.
+  Compulsory Unit IV: Philosophy and Culture - Review Session.
   [Handout_v2504](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/Ef1XBYbPAjBLt4RTAg_BCnkBgmYwes01NL52-RW0mxYmKQ?e=5pttqM)
 
-- Senior High School Entrance Examination Comprehensive Review.
+  Senior High School Entrance Examination Comprehensive Review.
   [Lecture](https://b23.tv/6c0TBDL)
 
 ## Teacher Certification Training Program
