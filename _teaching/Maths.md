@@ -4,12 +4,10 @@ collection: teaching
 type: Both online and offline
 permalink: /teaching/Maths
 venue: Beijing Normal University, Bilibili
-date: 2024-04-28
 ---
 
 Core Curriculum: *Calculus, Linear Algebra, Probability Theory and Mathematical Statistics, Real Variable Function, Operations Research(OR)* Note: I was hired to teach maths to undergraduates as a government-paid teaching students' [partner](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/ETC-iBdXiD9ApNWRpXRWE58BUaI8qZSbdt-MbQ2Xp0xjvw?e=RDzHih) at Beijing Normal University.
 
-From 2022 to 2025.
 
 Basic Core Course
 ======
