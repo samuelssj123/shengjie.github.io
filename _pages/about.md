@@ -34,7 +34,7 @@ My interdisciplinary research focuses on:
 # **🔗 Professional Links**  
 - [Research](https://samuelssj123.github.io/shengjie.github.io//publications/) ➔ Explore *Representative Papers and Research Projects*.  
 - [Professional Projects](https://samuelssj123.github.io/shengjie.github.io//talks/) ➔ Explore *Professional Internships and Social Practice*.  
-- [Teaching](https://samuelssj123.github.io/shengjie.github.io//publications/) ➔ Explore *Curricula*.  
-- [Experience](https://samuelssj123.github.io/shengjie.github.io//publications/) ➔ Explore *Diversity*. 
+- [Teaching](https://samuelssj123.github.io/shengjie.github.io//teaching/) ➔ Explore *Curricula*.  
+- [Experience](https://samuelssj123.github.io/shengjie.github.io//cv/) ➔ Explore *Diversity*. 
 
 
