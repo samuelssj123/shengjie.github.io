@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "China"
-title                    : "Shengjie Song(宋圣洁)"
+title                    : "Shengjie SONG(宋圣洁)"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -22,10 +22,10 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "songshengjie.png"
-  name             : "Shengjie Song"
+  name             : "Shengjie SONG"
   pronouns         : # example: "she/her"  
-  bio              : "Beijing Normal University"
-  location         : "Guangdong, China"
+  bio              : "Peking University"
+  location         : "Beijing, China"
   employer         : #"Red Brick University"
   uri              : # URL
   email            : "sjs@mail.bnu.edu.cn" 
