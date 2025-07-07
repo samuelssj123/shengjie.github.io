@@ -4,12 +4,10 @@ type: Online Course
 collection: teaching
 venue: Bilibili
 permalink: /teaching/Finance Technology
-date: 2023-06-01
 ---
 
 Core Curriculum: *Financial Big Data Analysis, Blockchain and Digital Assets, Financial Engineering, Corporate Finance, Fintech Theory and Practice, Investment, International Finance*
 
-From 2023 to 2024. Update in Spring 2025.
 
 Blockchain and Digital Assets
 ---
