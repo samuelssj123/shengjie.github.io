@@ -4,12 +4,10 @@ type: Tutor and Teaching Researcher
 collection: teaching
 venue: China Mainland
 permalink: /teaching/Extracurricular Education
-date: 2021-06-07
 ---
 
 This section contains the work he has done in high school and vocational education.
 
-From 2021 to the present.
 
 # Representative Cources
 
