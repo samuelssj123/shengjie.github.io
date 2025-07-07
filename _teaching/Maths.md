@@ -16,28 +16,28 @@ Basic Core Course
 
 * Lecture Courses
 
-[Calculus](https://www.bilibili.com/video/BV1Q7421f7jn/)
+[Calculus](https://www.bilibili.com/video/BV1Q7421f7jn/) , Spring 2024
 
-[Linear Algebra](https://www.bilibili.com/video/BV1ar42177QF/)
+[Linear Algebra](https://www.bilibili.com/video/BV1ar42177QF/) , Spring 2024
 
-[Probability Theory and Mathematical Statistics](https://www.bilibili.com/video/BV1rm421p7y8/)
+[Probability Theory and Mathematical Statistics](https://www.bilibili.com/video/BV1rm421p7y8/) , Spring 2024
 
-[Statistics](https://b23.tv/5rKszlr)
+[Statistics](https://b23.tv/5rKszlr) , Spring 2025
 
 * Handout
 
-[Contents](https://github.com/samuelssj123/WareHouse/raw/refs/heads/master/math_mulu.pdf)
+[Contents](https://github.com/samuelssj123/WareHouse/raw/refs/heads/master/math_mulu.pdf) , Spring 2024
 
-[Calculus](https://github.com/samuelssj123/WareHouse/raw/refs/heads/master/math_Calculus.pdf)
+[Calculus](https://github.com/samuelssj123/WareHouse/raw/refs/heads/master/math_Calculus.pdf) , Spring 2024
 
-[Linear Algebra](https://github.com/samuelssj123/WareHouse/raw/refs/heads/master/math_linear_algebra.pdf)
+[Linear Algebra](https://github.com/samuelssj123/WareHouse/raw/refs/heads/master/math_linear_algebra.pdf) , Spring 2024
 
-[Probability Theory and Mathematical Statistics](https://github.com/samuelssj123/WareHouse/raw/refs/heads/master/math_pro_sta.pdf)
+[Probability Theory and Mathematical Statistics](https://github.com/samuelssj123/WareHouse/raw/refs/heads/master/math_pro_sta.pdf) , Spring 2024
 
 Advanced Courses
 ======
 
-[Real Variable Function](https://www.bilibili.com/video/BV1nu411Y77F/)
+[Real Variable Function](https://www.bilibili.com/video/BV1nu411Y77F/) , Spring 2023
 
-Operations Research(OR), including [Linear Programming](https://www.bilibili.com/video/BV1bF4m1T7nF/), [Nonlinear Programming](https://www.bilibili.com/video/BV1Ct421T7Fm/), [Graph Theory](https://www.bilibili.com/video/BV1sJ4m1K76Z/)
+Operations Research(OR), including [Linear Programming](https://www.bilibili.com/video/BV1bF4m1T7nF/), [Nonlinear Programming](https://www.bilibili.com/video/BV1Ct421T7Fm/), [Graph Theory](https://www.bilibili.com/video/BV1sJ4m1K76Z/) , Spring 2024
 
