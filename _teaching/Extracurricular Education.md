@@ -64,6 +64,9 @@ From 2021 to the present.
 - Compulsory Unit IV: Philosophy and Culture - Review Session.
   [Handout_v2504](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/Ef1XBYbPAjBLt4RTAg_BCnkBgmYwes01NL52-RW0mxYmKQ?e=5pttqM)
 
+- Senior High School Entrance Examination Comprehensive Review.
+  [Lecture](https://b23.tv/6c0TBDL)
+
 ## Teacher Certification Training Program
 
 - Module 1: Holistic Teacher Qualities
