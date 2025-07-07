@@ -11,13 +11,20 @@ Core Curriculum: *Microeconomics, Macroeconomics, Econometrics, Industrial Organ
 
 From 2022 to 2024. Update in Spring 2025.
 
-Macroeconomics
+Macroeconomics 宏观经济学
 ---
 Videos: Please click [here](https://www.bilibili.com/video/BV1b1421o7Yp/)
 
 Handout: Download [here]({{site.url}}/file/宏观经济学讲义by宋圣洁.pdf)
 
-Industrial Organization
+Microeconomics 微观经济学
+---
+
+[Microeconomics](https://www.bilibili.com/video/BV1nw4m117Bb/)
+
+[International Trade](https://www.bilibili.com/video/BV1wR4y1q7Wu/)
+
+Industrial Organization 产业组织理论
 ---
 [The model of Lemon Cars](https://www.bilibili.com/video/BV1bD4y1w7AX/)
 
@@ -27,12 +34,7 @@ Industrial Organization
 
 [Proxy](https://www.bilibili.com/video/BV19P4y1X7PY/)
 
-Microeconomics
+Econometrics 计量经济学
 ---
-[International Trade](https://www.bilibili.com/video/BV1wR4y1q7Wu/)
 
-[Microeconomics](https://www.bilibili.com/video/BV1nw4m117Bb/)
-
-Econometrics
----
 [Review](https://www.bilibili.com/video/BV15o4y137KW/)
