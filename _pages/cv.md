@@ -51,12 +51,16 @@ Updating...
 
 - *Frontiers of Education Economics and Chinese Practice* Summer School at Peking University(Beijing), 2024.6.
 - Maths Lecture Summer School: Introduction to Mathematical Theory on Fluids(Score: 98/100), Modes and Approximate Standard Types(Score: 95/100), 2023.6
-  
+
+---
+
 - Outstanding Undergraduate Summer Camp for Systems Science, Beijing Normal University(Beijing), 2024.7.
 - Society Hub Summer Camp for PhD Admission workshop at The Hongkong University of Science and Technology(Guangzhou), 2024.7.
 - Cultural Spread and Change Workshop at University of Macau(Macau), speaker, 2024.4.
 - SDG Olympiad Competition at Tsinghua University(Shenzhen), a summer camp workshop around the theme of *Planetary Health*, 2024.6.
-  
+
+---
+
 - Excellence Camp to cultivate excellent talents with comprehensive abilities at Beijing Normal University(Zhuhai), 2023.11-2024.4.
 - JuliaCN 2024 Meetup at The Hongkong University of Science and Technology(Guangzhou), 2024.10.
 - ABBA Elite Internship Camp at Prudential Insurance(Hongkong), 2025.2.
