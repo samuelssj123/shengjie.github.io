@@ -4,7 +4,6 @@ type: Online Course
 collection: teaching
 venue: Bilibili
 permalink: /teaching/Economy
-date: 2022-12-25
 ---
 
 Core Curriculum: *Microeconomics, Macroeconomics, Econometrics, Industrial Organization, International Trade*
