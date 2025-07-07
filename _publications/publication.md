@@ -9,10 +9,9 @@ author_profile: true
 
 **Representative Papers**
 
-- **S. Song**, M. Han, Is Buffett indicator priced in Chinese stock markets, Working Paper
+- *The Source of Buffett-Style Alpha: Risk or Mispricing? Empirical Evidence from China’s Stock Market* (with Meng Han, Liang Wu)
 
-
-
+- *Research on Risk Premium of Carbon Market-related Risks in Stocks of Regulated and Non-regulated Firms* (with Meng Han)
 
 **Research Projects**
 
