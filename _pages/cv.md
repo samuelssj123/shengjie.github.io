@@ -37,6 +37,7 @@ Updating...
 - Second-class Competition Scholarship 二等竞赛类奖学金
 - College-level Advanced Individual in Labor Service 院级劳动服务先进个人
 - College-level Advanced Individual in Social Practice 院级社会实践先进个人
+- Third Prize of the 13th "CP Group Cup" National College Students Market Research and Analysis Competition “正大杯”第十三届全国大学生市场调查与分析大赛校级三等奖
 
 ## Social Service
 
