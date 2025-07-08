@@ -18,7 +18,7 @@ Basic Core Course
 
 [Linear Algebra](https://www.bilibili.com/video/BV1ar42177QF/) , Spring 2024
 
-[Probability Theory and Mathematical Statistics](https://www.bilibili.com/video/BV1rm421p7y8/) , Spring 2024
+[Probability Theory and Mathematical Statistics](https://www.bilibili.com/video/BV1rm421p7y8/) , Spring 2024 (Updated in Spring 2025)
 
 [Statistics](https://b23.tv/5rKszlr) , Spring 2025
 
