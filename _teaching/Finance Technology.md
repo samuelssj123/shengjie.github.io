@@ -20,6 +20,8 @@ Financial Technology Fundamentals
 
 [Corporate Finance 公司金融](https://www.bilibili.com/video/BV1XN411C75G/) , Spring 2024 (Updated Spring 2025)
 
+[Corporate Finance 公司金融 (Formal)](https://youtube.com/playlist?list=PLdoOoWEoCLviNUw57ZqYTQQ4HzzUYK0yw&si=HU5-Fly5bY6PrOpR) , Spring 2025 for Youtube, [Notes for Lecture](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/EdrLm6fKJMJDrvQMzeKv28sBKsqOllgyXuOvvaNCJuXdRw?e=JDpfLo)
+
 [Fintech Theory and Practice 金融科技理论与实践](https://www.bilibili.com/video/BV1Po4y1W7W3/), Spring 2023
 
 [International Finance 国际金融](https://www.bilibili.com/video/BV12P411D7wK/) , Spring 2023 (Updated Spring 2025)
