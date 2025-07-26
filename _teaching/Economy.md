@@ -19,6 +19,8 @@ Microeconomics 微观经济学
 
 [Microeconomics](https://www.bilibili.com/video/BV1nw4m117Bb/) , Spring 2024 (Updated Spring 2025)
 
+[Microeconomics 中级微观经济学 (Formal)](https://youtube.com/playlist?list=PLdoOoWEoCLvjMMwmCZFqvJQmwYp-lNjzM&si=2JgLxwnWMgVPSTwz) , Spring 2025 for Youtube, [Notes for Lecture](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/EW9jMxmomFdOjlo6rfD7u0YBupFKFoDS8sP-GzAnuWDU6w?e=ygvmBt)
+
 [International Trade](https://www.bilibili.com/video/BV1wR4y1q7Wu/) , Fall 2022
 
 Industrial Organization 产业组织理论
