@@ -12,6 +12,8 @@ Macroeconomics 宏观经济学
 ---
 Videos: Please click [here](https://www.bilibili.com/video/BV1b1421o7Yp/) , Spring 2024 
 
+[Macroeconomics 中级宏观经济学 (Formal)](https://youtube.com/playlist?list=PLdoOoWEoCLvgm9hWxU75wpGQ3dE_OHDAH&si=ks8TtSewrpNkAhZB) , Spring 2025 for Youtube, [Notes for Lecture](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/EfJblxoZuJJKojORo-DF0xcBB2lJt9QbPcovB1NYSI0b3A?e=dvCXPKt)
+
 Handout: Download [here]({{site.url}}/file/宏观经济学讲义by宋圣洁.pdf) , Spring 2024 (Updated Spring 2025)
 
 Microeconomics 微观经济学
