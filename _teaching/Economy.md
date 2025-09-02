@@ -10,11 +10,19 @@ Core Curriculum: *Microeconomics, Macroeconomics, Econometrics, Industrial Organ
 
 Macroeconomics 宏观经济学
 ---
-Videos: Please click [here](https://www.bilibili.com/video/BV1b1421o7Yp/) , Spring 2024 
+Videos: 
+
+[Advanced Macroeconomics 高级宏观经济学] [here](https://www.bilibili.com/video/BV1vAtgzuE82/) , Spring 2025 
+
+[Macroeconomics 中级宏观经济学] [here](https://www.bilibili.com/video/BV1b1421o7Yp/) , Spring 2024 
 
 [Macroeconomics 中级宏观经济学 (Formal)](https://youtube.com/playlist?list=PLdoOoWEoCLvgm9hWxU75wpGQ3dE_OHDAH&si=ks8TtSewrpNkAhZB) , Spring 2025 for Youtube, [Notes for Lecture](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/EfJblxoZuJJKojORo-DF0xcBB2lJt9QbPcovB1NYSI0b3A?e=dvCXPKt)
 
-Handout: Download [here]({{site.url}}/file/宏观经济学讲义by宋圣洁.pdf) , Spring 2024 (Updated Spring 2025)
+Handout: Download here, 
+
+[高级宏观经济学](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/ESBlERRn6DFCnXxQppRkfMsBnDamd7NxYQs2W1P3ZiGyGA?e=h6U3Z1), Spring 2025
+
+[宏观经济学]({{site.url}}/file/宏观经济学讲义by宋圣洁.pdf) , Spring 2024 (Updated Spring 2025)
 
 Microeconomics 微观经济学
 ---
