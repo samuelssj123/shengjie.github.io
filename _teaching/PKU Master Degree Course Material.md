@@ -14,7 +14,9 @@ permalink: /teaching/PKUstudy
 金融产品创新
 --
 
-- Lecture 1(0912)：金融产品创新的典型案例 [notes](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/EaHtDYT-y6lMkYH5FnzzGlsBOR_Qb-zxLz4hLYmGxNiw_w?e=uQmDZj)
+- Lecture 1(250912)：金融产品创新经典案例 [notes](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/EaHtDYT-y6lMkYH5FnzzGlsBOR_Qb-zxLz4hLYmGxNiw_w?e=uQmDZj)
+
+- Lecture 2(250919): 金融产品创新经典案例、投研素养 [notes](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/Efv7ow2xrkNCvAe59r0jasMBj1l7CV_DaJ-O4cjAP3GxDg?e=JKL2wo)
 
 自然辩证法
 --
