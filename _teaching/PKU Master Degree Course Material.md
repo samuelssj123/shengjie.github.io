@@ -11,6 +11,14 @@ permalink: /teaching/PKUstudy
 主干课程
 -
 
+算法分析与设计
+--
+
+- 课件汇总：[download](https://chinapku-my.sharepoint.com/:u:/g/personal/2501210682_stu_pku_edu_cn/EZ3WWZPTfq1DooHl48TMvN4BTSu39PEhlaX24-AxAEd6Ow?e=sC3p4G)
+
+- 教材：[download](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/EUeN4YnIAzNOjgG6bOtAGHkBntS_PEX1LAri2DwXpD-z_A?e=mfAwwZ) 习题解答：[download](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/EUJlJi9iHXVFmPLnCUCdPkABIo9_lc00FRbQIz3P52QH9A?e=cHrIDB)
+
+
 金融产品创新
 --
 
