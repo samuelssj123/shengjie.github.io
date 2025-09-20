@@ -45,3 +45,6 @@ Handout:
 
 [高级宏观经济学](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/ESBlERRn6DFCnXxQppRkfMsBnDamd7NxYQs2W1P3ZiGyGA?e=h6U3Z1), Spring 2025
 
+Reference Material:
+
+[Text Mining Code](https://mailbnueducn-my.sharepoint.com/:u:/g/personal/sjs_mail_bnu_edu_cn/EWYQk7OOK5RIqwTos659OzwBCOh9ypui1iNU9PrV5-Iamg?e=zt34eh)
