@@ -23,6 +23,12 @@ permalink: /teaching/PKUstudy
 
 - 阅读书目：[Download](https://chinapku-my.sharepoint.com/:f:/g/personal/2501210682_stu_pku_edu_cn/EkJAJqaESLFNh3BYFbUClY4BPhkzyUoRc62xtfqJRzxIGg?e=5jIqno)
 
+职业道德与素养&素质教育与前沿技术
+--
+
+> 课程报告主题1：通过辩证思考进行分析，体现工程师选取某一工程伦理案例作为研究对象的职业责任感（字数在1500字左右）
+> 课程报告主题2: 选取自我成长过程中经历的一个或多个实践活动，从背景（时间、地点、人物、事件等）、问题、选择、结果、反思等展开叙述。 阐述其对个人成长影响（字数在1500字左右）
+
 自学课程
 -
 Videos: 
