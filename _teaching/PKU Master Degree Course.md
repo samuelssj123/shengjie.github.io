@@ -1,5 +1,5 @@
 ---
-title: "PKU Master Degree Course Material"
+title: "PKU Master Degree Course"
 type: Study material
 collection: teaching
 venue: PKU, Beijing
