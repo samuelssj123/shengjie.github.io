@@ -39,7 +39,7 @@ permalink: /teaching/PKUstudy
 - 课件：[download](https://chinapku-my.sharepoint.com/:f:/g/personal/2501210682_stu_pku_edu_cn/EsD5vfXC3MlJkEfUOYOMrQkB5z--fWetdE6ubK9Bau06PA?e=oxuuoV)
 
 - 笔记：
-  - Lecture1:导论[download]()
+  - Lecture1:导论 [download](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/EXxRVAQTo2hJkl05Mb-kBSUBGztCD_3-0s7TGtW1Xp5fqQ?e=vPjVsG)
 
 ## 金融理论与实务Ⅰ
 
