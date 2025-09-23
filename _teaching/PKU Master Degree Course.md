@@ -22,11 +22,11 @@ permalink: /teaching/PKUstudy
 
 ## 面向对象技术
 
-
 - 周一晚上，蒋严冰，3学分
 
-## 金融营销学
+- 课程资料：[download](https://chinapku-my.sharepoint.com/:f:/g/personal/2501210682_stu_pku_edu_cn/Eljl9HKSgaFFgF0gngJobLIBo3JsuQJ0kF-bJ_aS08f-3Q?e=lRN08k)
 
+## 金融营销学
 
 - 周一上午，赵占波，3学分
   
@@ -35,6 +35,11 @@ permalink: /teaching/PKUstudy
 ## 金融科技理论与实践
 
 - 周二上午，黄嵩，2学分
+
+- 课件：[download](https://chinapku-my.sharepoint.com/:f:/g/personal/2501210682_stu_pku_edu_cn/EsD5vfXC3MlJkEfUOYOMrQkB5z--fWetdE6ubK9Bau06PA?e=oxuuoV)
+
+- 笔记：
+  - Lecture1:导论[download]()
 
 ## 金融理论与实务Ⅰ
 
