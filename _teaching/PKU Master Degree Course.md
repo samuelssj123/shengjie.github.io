@@ -42,6 +42,8 @@ permalink: /teaching/PKUstudy
   
   - Lecture1:导论 [download](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/EXxRVAQTo2hJkl05Mb-kBSUBGztCD_3-0s7TGtW1Xp5fqQ?e=vPjVsG)
 
+- 考核：
+  
 > 选取一个中国金融科技的产品、业务、应用程序、流程或事件进行案例分析，要有一定的典型性和代表性，并必须明确说明案例对应的知识点。案例名称以不带暗示性的中性标题为宜（产品名+主题）。内容要聚焦，背景性的内容尽量不要。自由分组，每组最多3人。会选部分案例在课堂分享，内容至少能够讲20分钟，上不封顶。
 
 ## 金融理论与实务Ⅰ
