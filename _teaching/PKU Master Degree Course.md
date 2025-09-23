@@ -10,27 +10,17 @@ permalink: /teaching/PKUstudy
 
 # 主干课程
 
+## 金融营销学
 
-## 算法分析与设计
-
-
-- 周五上午，郁莲，3学分
-
-- 课件汇总：[download](https://chinapku-my.sharepoint.com/:u:/g/personal/2501210682_stu_pku_edu_cn/EZ3WWZPTfq1DooHl48TMvN4BTSu39PEhlaX24-AxAEd6Ow?e=sC3p4G)
-
-- 教材：[download](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/EUeN4YnIAzNOjgG6bOtAGHkBntS_PEX1LAri2DwXpD-z_A?e=mfAwwZ) 习题解答：[download](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/EUJlJi9iHXVFmPLnCUCdPkABIo9_lc00FRbQIz3P52QH9A?e=cHrIDB)
+- 周一上午，赵占波，3学分
+  
+- 教材：《金融营销学》（第三版），赵占波，北京大学出版社
 
 ## 面向对象技术
 
 - 周一晚上，蒋严冰，3学分
 
 - 课程资料：[download](https://chinapku-my.sharepoint.com/:f:/g/personal/2501210682_stu_pku_edu_cn/Eljl9HKSgaFFgF0gngJobLIBo3JsuQJ0kF-bJ_aS08f-3Q?e=lRN08k)
-
-## 金融营销学
-
-- 周一上午，赵占波，3学分
-  
-- 教材：《金融营销学》（第三版），赵占波，北京大学出版社
 
 ## 金融科技理论与实践
 
@@ -54,13 +44,6 @@ permalink: /teaching/PKUstudy
 
 - 课件：[download](https://chinapku-my.sharepoint.com/:f:/g/personal/2501210682_stu_pku_edu_cn/EoghrId6o8BHn2IX_KBW7VIBptQ3O7cVBJdIZmVU09luhQ?e=lnMcG1)
 
-## 金融产品创新
-
-- 周五下午，王德全，3学分
-
-- Lecture 1(250912)：金融产品创新经典案例 [notes](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/EaHtDYT-y6lMkYH5FnzzGlsBOR_Qb-zxLz4hLYmGxNiw_w?e=uQmDZj)
-
-- Lecture 2(250919): 金融产品创新经典案例、投研素养 [notes](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/Efv7ow2xrkNCvAe59r0jasMBj1l7CV_DaJ-O4cjAP3GxDg?e=JKL2wo)
 
 ## 自然辩证法
 
@@ -75,6 +58,25 @@ permalink: /teaching/PKUstudy
 ## 面向金融的R语言
 
 - 周四下午，李素科，2学分
+  
+
+## 算法分析与设计
+
+- 周五上午，郁莲，3学分
+
+- 课件汇总：[download](https://chinapku-my.sharepoint.com/:u:/g/personal/2501210682_stu_pku_edu_cn/EZ3WWZPTfq1DooHl48TMvN4BTSu39PEhlaX24-AxAEd6Ow?e=sC3p4G)
+
+- 教材：[download](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/EUeN4YnIAzNOjgG6bOtAGHkBntS_PEX1LAri2DwXpD-z_A?e=mfAwwZ) 习题解答：[download](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/EUJlJi9iHXVFmPLnCUCdPkABIo9_lc00FRbQIz3P52QH9A?e=cHrIDB)
+
+
+## 金融产品创新
+
+- 周五下午，王德全，3学分
+
+- Lecture 1(250912)：金融产品创新经典案例 [notes](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/EaHtDYT-y6lMkYH5FnzzGlsBOR_Qb-zxLz4hLYmGxNiw_w?e=uQmDZj)
+
+- Lecture 2(250919): 金融产品创新经典案例、投研素养 [notes](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/Efv7ow2xrkNCvAe59r0jasMBj1l7CV_DaJ-O4cjAP3GxDg?e=JKL2wo)
+
 
 ## 职业道德与素养&素质教育与前沿技术
 
