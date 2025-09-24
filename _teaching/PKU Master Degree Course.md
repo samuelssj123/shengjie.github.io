@@ -6,7 +6,7 @@ venue: PKU, Beijing
 permalink: /teaching/PKUstudy
 ---
 
-主干课程：面向对象技术、金融科技理论与实践、金融理论与实务Ⅰ、新中特、自然辩证法、面向金融R语言、算法分析与设计、金融产品创新、综合素质。自学课程：高级宏观经济学、高级计量经济学、金融理论与实务
+学习课程：面向对象技术、金融科技理论与实践、金融理论与实务Ⅰ、新中特、自然辩证法、面向金融R语言、算法分析与设计、金融产品创新、综合素质。自学与讲授课程：高级宏观经济学、高级计量经济学、金融理论与实务
 
 # 主干课程
 
@@ -44,6 +44,11 @@ permalink: /teaching/PKUstudy
 
 - 课件：[download](https://chinapku-my.sharepoint.com/:f:/g/personal/2501210682_stu_pku_edu_cn/EoghrId6o8BHn2IX_KBW7VIBptQ3O7cVBJdIZmVU09luhQ?e=lnMcG1)
 
+- 笔记：
+
+    - Lecture 1-2：经济、金融与资本市场 [download](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/EUwWCjeA-RZMkoRWaTyJINQBnD8nkAN5AS2_6iAeQF8tdA?e=ffFvMX)
+ 
+    - Lecture 3：融资（1） [download](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/EfpXmgjYCm5LjES8RhyS7PwB3d9UqNSD07owuu04LZqe6A?e=0yw6sF)
 
 ## 自然辩证法
 
