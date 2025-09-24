@@ -6,7 +6,7 @@ venue: PKU, Beijing
 permalink: /teaching/PKUstudy
 ---
 
-学习课程：面向对象技术、金融科技理论与实践、金融理论与实务Ⅰ、新中特、自然辩证法、面向金融R语言、算法分析与设计、金融产品创新、综合素质。自学与讲授课程：高级宏观经济学、高级计量经济学、金融理论与实务
+学习课程：面向对象技术、金融科技理论与实践、金融理论与实务Ⅰ、新中特、自然辩证法、面向金融R语言、算法分析与设计、金融产品创新、综合素质。自学与讲授课程：高级宏观经济学、高级计量经济学、金融理论与实务。冯柯老师组会。
 
 # 主干课程
 
@@ -55,6 +55,14 @@ permalink: /teaching/PKUstudy
 - 周二晚上，朱效民，1学分
   
 - 阅读书目：[Download](https://chinapku-my.sharepoint.com/:f:/g/personal/2501210682_stu_pku_edu_cn/EkJAJqaESLFNh3BYFbUClY4BPhkzyUoRc62xtfqJRzxIGg?e=5jIqno)
+
+- 笔记：（基于前辈文稿整理）
+
+  - 世界科技体制的形成和中国科技体制的变革 [download](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/ETuPzlLJIjlBhjFt0FqlnLYB9djY7JAagsykuO4nuIEWsw?e=YWc6Pq)
+
+  - 科普的定位和职业化问题 [download](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/ERtYwmrfyahPiyy-dmjdoc8BpVNWGREpq21KcPKh1G9R4A?e=MCOVbb)
+
+  - 科学共同体：分层与奖励 [download](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/EWes1nZsChRLo4C8m-QliNoBh60Z4w4CformX9qKH_Jfmw?e=aV8yz7)
 
 ## 新时代中国特色社会主义理论与实践
 
@@ -109,3 +117,7 @@ Handout:
 Reference Material:
 
 [Text Mining Code](https://mailbnueducn-my.sharepoint.com/:u:/g/personal/sjs_mail_bnu_edu_cn/EWYQk7OOK5RIqwTos659OzwBCOh9ypui1iNU9PrV5-Iamg?e=zt34eh)
+
+# 冯科老师组会笔记
+
+- 0922：对“十五五”宏观经济形势的全面分析 [download](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/EXfW_4SXYVlFgnIUTSxdLhkBphYGhFtsRgL_x6rpTN16Cw?e=3k9Lqv)
