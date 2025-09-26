@@ -71,7 +71,8 @@ permalink: /teaching/PKUstudy
 ## 面向金融的R语言
 
 - 周四下午，李素科，2学分
-  
+
+- 参考及教学讲义：[download](https://chinapku-my.sharepoint.com/:f:/g/personal/2501210682_stu_pku_edu_cn/Ek5lwN2vMdFKtcMS1AvpTm4BaDo1Uy6MYWoNKxKGV-V1mw?e=kSvhFq)
 
 ## 算法分析与设计
 
