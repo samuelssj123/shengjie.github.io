@@ -91,6 +91,7 @@ permalink: /teaching/PKUstudy
 
 - Lecture 2(250919): 金融产品创新经典案例、投研素养 [notes](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/Efv7ow2xrkNCvAe59r0jasMBj1l7CV_DaJ-O4cjAP3GxDg?e=JKL2wo)
 
+- Leture 3(250906)：资管新规详解 [notes](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/EQn9tWojYPVHiQkcfdT_omgB30kYdYe3NXTBOshwXLKFdQ?e=VL3KUi)
 
 ## 职业道德与素养&素质教育与前沿技术
 
