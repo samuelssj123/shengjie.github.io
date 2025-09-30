@@ -32,7 +32,9 @@ permalink: /teaching/PKUstudy
   
   - Lecture1:导论 [download](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/EXxRVAQTo2hJkl05Mb-kBSUBGztCD_3-0s7TGtW1Xp5fqQ?e=vPjVsG)
 
-  - Lecture2:导论（2） [download](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/ETo4g-hhrptAumadx6japwkB8wNg7-qCThX1eHmLQL0NIQ?e=BVYTqM)
+  - Lecture2:导论(2) [download](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/ETo4g-hhrptAumadx6japwkB8wNg7-qCThX1eHmLQL0NIQ?e=BVYTqM)
+
+  - Lecture3:货币与支付(1) [download](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/EaVe9wGm1bBJm74dyClJtyoB7GUtQ8qq8T0SUaGQo0wtRQ?e=t2dHzQ)
 
 - 考核：
   
