@@ -66,6 +66,10 @@ permalink: /teaching/PKUstudy
 
   - 科学共同体：分层与奖励 [download](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/EWes1nZsChRLo4C8m-QliNoBh60Z4w4CformX9qKH_Jfmw?e=aV8yz7)
 
+  - 科技政策与创新 [download](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/EUM35pqkcwlBoerhHfKDCuYBmjWvqhen7ehF-za4XICzAg?e=oECGN6)
+ 
+  - 科学家角色、行为规范与不端行为 [download](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/EV5n3N7UNLlHq5nXU9nzgbwB-CeyKlmRXb9uGMVWlF01Eg?e=NJicSS)
+
 ## 新时代中国特色社会主义理论与实践
 
 - 周三下午，2学分
@@ -125,3 +129,5 @@ Reference Material:
 # 冯科老师组会笔记
 
 - 0922：对“十五五”宏观经济形势的全面分析 [download](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/EXfW_4SXYVlFgnIUTSxdLhkBphYGhFtsRgL_x6rpTN16Cw?e=3k9Lqv)
+
+- 0915稳定币的分析+0929低空经济分析 [download](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/EW_IMT-oKW1DpnynEvTF0XkBfjMSWJnOi583OQPBQZ1mEw?e=bJzUfw)
