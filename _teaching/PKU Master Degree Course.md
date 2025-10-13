@@ -18,7 +18,7 @@ permalink: /teaching/PKUstudy
 
 > 作业A：选择一章节进行课堂展示，限时45分钟.
 
-- Ch6 金融营销产品策略[slides：三人组PPT，实际展示约50分钟](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/Ees1U9-3GHNHs4hzyBqJASUBSj4xs5PVZaGnAUrM6sy_Sg?e=5P2v3X) [videos：香港保险业介绍](https://chinapku-my.sharepoint.com/:v:/g/personal/2501210682_stu_pku_edu_cn/EctaQAu2x81FuFtDif4Sg2oBBGBOVxTmy7NYbHeJJrPnog?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=XybWhK)
+- 章节选择：Ch6 金融营销产品策略，展示素材：[slides](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/Ees1U9-3GHNHs4hzyBqJASUBSj4xs5PVZaGnAUrM6sy_Sg?e=5P2v3X) ，[videos：香港保险业介绍](https://chinapku-my.sharepoint.com/:v:/g/personal/2501210682_stu_pku_edu_cn/EctaQAu2x81FuFtDif4Sg2oBBGBOVxTmy7NYbHeJJrPnog?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=XybWhK)
 
 ## 面向对象技术
 
