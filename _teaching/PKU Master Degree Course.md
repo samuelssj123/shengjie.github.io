@@ -16,6 +16,10 @@ permalink: /teaching/PKUstudy
   
 - 教材：《金融营销学》（第三版），赵占波，北京大学出版社
 
+> 作业A：选择一章节进行课堂展示，限时45分钟.
+
+- Ch6 金融营销产品策略[slides：三人组PPT，实际展示约50分钟](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/Ees1U9-3GHNHs4hzyBqJASUBSj4xs5PVZaGnAUrM6sy_Sg?e=5P2v3X) [videos：香港保险业介绍](https://chinapku-my.sharepoint.com/:v:/g/personal/2501210682_stu_pku_edu_cn/EctaQAu2x81FuFtDif4Sg2oBBGBOVxTmy7NYbHeJJrPnog?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=XybWhK)
+
 ## 面向对象技术
 
 - 周一晚上，蒋严冰，3学分
