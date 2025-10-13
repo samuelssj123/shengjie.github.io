@@ -105,6 +105,8 @@ permalink: /teaching/PKUstudy
 
 - Lecture 4(251010): 金融产品设计 [notes](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/EQ-gfNTGR0pEq-OK4tECvmkBq7unlfLMrxigDfXTLTxhAQ?e=idDPyE)
 
+  [金融机构概览](https://chinapku-my.sharepoint.com/:x:/g/personal/2501210682_stu_pku_edu_cn/EWGADq5VMPpIlm0kEBSRSJkBzk_-_0Vs6UgDILNdl0Z86g?e=tqNJ4X)
+
 ## 职业道德与素养&素质教育与前沿技术
 
 - 周六上午，3学分
