@@ -78,6 +78,10 @@ permalink: /teaching/PKUstudy
  
   - 科学家角色、行为规范与不端行为 [download](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/EV5n3N7UNLlHq5nXU9nzgbwB-CeyKlmRXb9uGMVWlF01Eg?e=NJicSS)
 
+  - 科技的社会应用与社会预见 [download](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/EZ7-WtaqNaBFtG3VRfr9s68BU6SSDfLtTDketi0RTVdLcg?e=Ngioe8)
+
+  - 课程讲义 [download](https://chinapku-my.sharepoint.com/:w:/g/personal/2501210682_stu_pku_edu_cn/ESsxT5gKGp1OkNqs8xwO2oQBGb4NacdfyLQP0o3zuo57sA?e=nAoF7t)
+
 ## 新时代中国特色社会主义理论与实践
 
 - 周三下午，2学分
@@ -111,6 +115,8 @@ permalink: /teaching/PKUstudy
 
   [金融机构概览](https://chinapku-my.sharepoint.com/:x:/g/personal/2501210682_stu_pku_edu_cn/EWGADq5VMPpIlm0kEBSRSJkBzk_-_0Vs6UgDILNdl0Z86g?e=tqNJ4X)
 
+- Lecture 5(251017)：银行财富与公募基金 [download](https://chinapku-my.sharepoint.com/:x:/g/personal/2501210682_stu_pku_edu_cn/EX3t-ZWut_FOhWloXyvYIZkBWZVhOkF0iN2a666MfGCDzg?e=7tgCcB)
+  
 ## 职业道德与素养&素质教育与前沿技术
 
 - 周六上午，3学分
