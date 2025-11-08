@@ -116,6 +116,16 @@ permalink: /teaching/PKUstudy
   [金融机构概览](https://chinapku-my.sharepoint.com/:x:/g/personal/2501210682_stu_pku_edu_cn/EWGADq5VMPpIlm0kEBSRSJkBzk_-_0Vs6UgDILNdl0Z86g?e=tqNJ4X)
 
 - Lecture 5(251017)：银行财富与公募基金 [download](https://chinapku-my.sharepoint.com/:x:/g/personal/2501210682_stu_pku_edu_cn/EX3t-ZWut_FOhWloXyvYIZkBWZVhOkF0iN2a666MfGCDzg?e=7tgCcB)
+
+- Lecture 6(251024)：行业主题基金与行业分析 [download](https://chinapku-my.sharepoint.com/:x:/g/personal/2501210682_stu_pku_edu_cn/EV4Bokz3XQ1NvZFp9eruMooBGAxVjMkT-Wx2LXFtU7knBg?e=Gsoy1y)
+
+- Lecture 7(251031)：基于行业视角 [download](https://chinapku-my.sharepoint.com/:p:/g/personal/2501210682_stu_pku_edu_cn/EbwbxhY_gwNPm3j8LElnOhEB6fWaOysEY2Tt_o1UqOT8qA?e=fZ8w9E)
+
+  申万宏源：私募 [download](https://chinapku-my.sharepoint.com/:p:/g/personal/2501210682_stu_pku_edu_cn/ER9GaSST205GjF7t3JkLOp0B4YosxzT5UTxZlazgAVkKmQ?e=gVCqYV)
+
+- Lecture 8(251107)： 资产证券化 [download](https://chinapku-my.sharepoint.com/:p:/g/personal/2501210682_stu_pku_edu_cn/EYm01p3jqJxAl2GF4gn7uc4BFYqyTWbrVQeW4mlPG5H7MA?e=01Oe6q)
+
+  量化投资 [download](https://chinapku-my.sharepoint.com/:p:/g/personal/2501210682_stu_pku_edu_cn/EWP5o4fWy-JGngzAyjUE5JMBP9t7_eXatyZwfoS9jBK0dQ?e=jbUEkE)
   
 ## 职业道德与素养&素质教育与前沿技术
 
