@@ -98,8 +98,23 @@ permalink: /teaching/PKUstudy
 
 - 课件汇总：[download](https://chinapku-my.sharepoint.com/:u:/g/personal/2501210682_stu_pku_edu_cn/EZ3WWZPTfq1DooHl48TMvN4BTSu39PEhlaX24-AxAEd6Ow?e=sC3p4G)
 
+  强化学习 [1](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/EazPraf3cLZFn9bFQDCrHpoB7O6CMQ4ppCwC7tIMoVRJAQ?e=nqia5F) [2](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/ETfYOjoQmKFHgPEZcauIUbgBs3WMrpfFhUY1JUb991270A?e=2uyVcG) [3](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/EfCQE3uNNeVIo7tDP73_lloBJYrjWNMPF8lFgTRbio6zrw?e=ArrXPN)
+
 - 教材：[download](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/EUeN4YnIAzNOjgG6bOtAGHkBntS_PEX1LAri2DwXpD-z_A?e=mfAwwZ) 习题解答：[download](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/EUJlJi9iHXVFmPLnCUCdPkABIo9_lc00FRbQIz3P52QH9A?e=cHrIDB)
 
+- 作业：
+
+  - [第一次作业（算法基础）：课本习题1.2、1.14(2)、1.14(3)、1.14(4)、1.17、1.21](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/EbYEUQTQOxJAis1YeqUu4aMBNsYy7c7h5ypL1mhlF9-Y8g?e=GqvHj4)
+
+  - [第二次作业（分治算法）：课本习题2.24、2.28](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/ERbnC7qmc-9Opr_PYHql4PsBPXcdRkmpmJ-y1QXk7fccMw?e=84HWHZ)
+
+  - [第三次作业（动态规划）：课本习题3.7、3.9](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/EZIGchEIjr5CgqEV5sMUMuUBcToHKYjZWglGiicNyTaY5w?e=EexezI)
+    
+  - [第四次作业：贝尔曼方程的程序实现](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/EWOPs7tMM_BLmEg1KMn0zGoBtSNtgbKzckTQPK5o36GH_A?e=1Og0TB)
+      - [算法思想与求解描述](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/EUmVhx-Q6btIm-a7ONvTk-IBwozmnB7rYS6ToWzIjo78XA?e=ohu0bz)
+      - [代码](https://chinapku-my.sharepoint.com/:u:/g/personal/2501210682_stu_pku_edu_cn/EWuYlMIrsJZDqdLmUmNvMlMBlRcBeHxpK7MU0hLe8N7puQ?e=EI7IUl)
+
+  - 
 
 ## 金融产品创新
 
