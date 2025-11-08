@@ -11,7 +11,13 @@ redirect_from:
 
 # Graduate / Master's stage
 
-Updating...
+## Academic
+
+- “智能计算与人机共生的传播新图景”智能与计算传播学2025年年会，入围论文2篇
+
+## Activities & Interests
+
+- 2025秋季运动会：分体魔方（团体一等奖）、飞盘高尔夫掷准（团体二等奖）、同心鼓（团体第七名）、蛟龙出海（团体第四名）
 
 # Undergraduate / Bachelor's stage
 
