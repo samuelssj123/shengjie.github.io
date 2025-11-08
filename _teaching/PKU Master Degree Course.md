@@ -42,9 +42,13 @@ permalink: /teaching/PKUstudy
 
   - Lecture3:货币与支付(2) [download](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/EUXR3C5hRLZPuffacP7RYZ0BxJ0Oks0KmzisSAJiFBxtuA?e=pYavYv)
 
+  - Lecture5-6：加密货币 [download](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/EeJGaP5Yg9RArRwDVWNHQJoBX8m0XwBkNCyoBMgJIKa-sw?e=M1yiYv)
+
 - 考核：
   
 > 选取一个中国金融科技的产品、业务、应用程序、流程或事件进行案例分析，要有一定的典型性和代表性，并必须明确说明案例对应的知识点。案例名称以不带暗示性的中性标题为宜（产品名+主题）。内容要聚焦，背景性的内容尽量不要。自由分组，每组最多3人。会选部分案例在课堂分享，内容至少能够讲20分钟，上不封顶。
+
+  - 作业PPT [download](https://chinapku-my.sharepoint.com/:p:/g/personal/2501210682_stu_pku_edu_cn/EWmPBmYjg4lKuPGW72OlY6wBWZWJ8Mqx22ELHVup7b1qxA?e=fQf3no)
 
 ## 金融理论与实务Ⅰ
 
@@ -59,6 +63,10 @@ permalink: /teaching/PKUstudy
     - Lecture 3：融资（1） [download](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/EfpXmgjYCm5LjES8RhyS7PwB3d9UqNSD07owuu04LZqe6A?e=0yw6sF)
 
     - Lecture 4：融资（2） [download](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/ESskUwPSJcxKovUv7f2lkakBT_ynewEvoeq-spY5ETDfhQ?e=yYkOJr)
+
+    - Lecutre 5: 融资（3） [download](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/EebIyoVMkEFOpd4f9CSJnJIBTH_IPRG4zW_3F2ofiR3jWg?e=anVoye)
+ 
+    - Lecture 6：资产证券化 [download](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/EU5Wa6Vv6V9DnPgHBclLSDcBaQtIZWtAzbHg6vsPojHxdg?e=dp6qkv)
 
 ## 自然辩证法
 
@@ -85,6 +93,12 @@ permalink: /teaching/PKUstudy
 ## 新时代中国特色社会主义理论与实践
 
 - 周三下午，2学分
+
+> 任务一：任选一个主题，分组课堂展示
+
+- 课堂展示《面向十五五的经济分析》 [PPT](https://chinapku-my.sharepoint.com/:p:/g/personal/2501210682_stu_pku_edu_cn/EXTrT6NpbA1OsCD9gFZM7lQBYQuf_LFIJYZ1fj5kNLv64w?e=ECqoNj) [vedio](https://chinapku-my.sharepoint.com/:v:/g/personal/2501210682_stu_pku_edu_cn/EVADxZMU1oBGnaxtivL5ozoBiGOdV2h5amwI7LythNxuZg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=hCeZSh)
+
+> 任务二：从八个专题中选择至少一个，字数不少于2500字，查重率<20%
 
 ## 面向金融的R语言
 
