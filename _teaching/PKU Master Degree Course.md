@@ -6,7 +6,7 @@ venue: PKU, Beijing
 permalink: /teaching/PKUstudy
 ---
 
-学习课程：面向对象技术、金融科技理论与实践、金融理论与实务Ⅰ、新中特、自然辩证法、面向金融R语言、算法分析与设计、金融产品创新、综合素质。自学与讲授课程：高级宏观经济学、高级计量经济学、金融理论与实务。冯柯老师组会。
+学习课程：面向对象技术、金融科技理论与实践、金融理论与实务Ⅰ、新中特、自然辩证法、面向金融R语言、算法分析与设计、金融产品创新、综合素质。自学与讲授课程：高级微观经济学、高级宏观经济学、高级计量经济学、金融理论与实务、数理基础与算法。冯柯老师组会。
 
 # 主干课程
 
@@ -170,10 +170,13 @@ Videos:
 
 [Advanced Macroeconomics 高级宏观经济学](https://www.bilibili.com/video/BV1vAtgzuE82/) , Spring 2025 
 
+[Advanced Microeconomics 高级微观经济学](https://www.bilibili.com/video/BV1SZsqzvEZD/) , Fall 2025 
+
 [Advanced Econometrics 高级计量经济学](https://www.bilibili.com/video/BV1gTYDz4E4F/), Fall 2025
 
 [Financial Theory and Practice 金融理论与实务](https://www.bilibili.com/video/BV1czpLzHEu9/), Fall 2025
 
+[Algorithm and Maths 数理基础与算法](https://www.bilibili.com/video/BV1A2xMz5E6x/) , Fall 2025 
 
 Handout: 
 
@@ -192,3 +195,5 @@ Reference Material:
 - 1013 论文汇报 [download](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/ER-6JbD2KVZKqL410wVA754BawWV39YoJXEGkLXj6LtKSg?e=wa89EP)
 
 - 1020 论文汇报 [download](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/EciPXSIxloNBnhyRmGrMU4MBY4s5P2eohtV-6_4LCGauyQ?e=l0dc0e)
+
+- 1110 诺贝尔经济学奖思想 [download](https://chinapku-my.sharepoint.com/:w:/g/personal/2501210682_stu_pku_edu_cn/IQB-QYQtrs4JRZ_fklWjzz4WAYoH0DQ4ZRpDI9ZmWzZPAj0?e=6jDtMb)
