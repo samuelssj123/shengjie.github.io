@@ -44,6 +44,8 @@ permalink: /teaching/PKUstudy
 
   - Lecture5-6：加密货币 [download](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/EeJGaP5Yg9RArRwDVWNHQJoBX8m0XwBkNCyoBMgJIKa-sw?e=M1yiYv)
 
+  - Lecture 7：银行与信贷 [download](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/IQBTF4zDL1y-SJfvr_7Eiz0iAdAymhQGJYeyrY_v3c7Z2V4?e=sSktQP)
+    
 - 考核：
   
 > 选取一个中国金融科技的产品、业务、应用程序、流程或事件进行案例分析，要有一定的典型性和代表性，并必须明确说明案例对应的知识点。案例名称以不带暗示性的中性标题为宜（产品名+主题）。内容要聚焦，背景性的内容尽量不要。自由分组，每组最多3人。会选部分案例在课堂分享，内容至少能够讲20分钟，上不封顶。
@@ -67,6 +69,8 @@ permalink: /teaching/PKUstudy
     - Lecutre 5: 融资（3） [download](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/EebIyoVMkEFOpd4f9CSJnJIBTH_IPRG4zW_3F2ofiR3jWg?e=anVoye)
  
     - Lecture 6：资产证券化 [download](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/EU5Wa6Vv6V9DnPgHBclLSDcBaQtIZWtAzbHg6vsPojHxdg?e=dp6qkv)
+
+    - Lecture 7-8：价值与价格 [download](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/IQAFMnDhSSrWTZVRT3IKK2PeAX9rYUcwRoIAnZwAAEl4pwY?e=9q72Z0)
 
 ## 自然辩证法
 
