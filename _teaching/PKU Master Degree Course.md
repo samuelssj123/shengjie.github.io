@@ -116,7 +116,7 @@ permalink: /teaching/PKUstudy
 
 - 课件汇总：[download](https://chinapku-my.sharepoint.com/:u:/g/personal/2501210682_stu_pku_edu_cn/EZ3WWZPTfq1DooHl48TMvN4BTSu39PEhlaX24-AxAEd6Ow?e=sC3p4G)
 
-  强化学习 [1](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/EazPraf3cLZFn9bFQDCrHpoB7O6CMQ4ppCwC7tIMoVRJAQ?e=nqia5F) [2](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/ETfYOjoQmKFHgPEZcauIUbgBs3WMrpfFhUY1JUb991270A?e=2uyVcG) [3](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/EfCQE3uNNeVIo7tDP73_lloBJYrjWNMPF8lFgTRbio6zrw?e=ArrXPN)
+  强化学习 [1](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/EazPraf3cLZFn9bFQDCrHpoB7O6CMQ4ppCwC7tIMoVRJAQ?e=nqia5F) [2](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/ETfYOjoQmKFHgPEZcauIUbgBs3WMrpfFhUY1JUb991270A?e=2uyVcG) [3](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/EfCQE3uNNeVIo7tDP73_lloBJYrjWNMPF8lFgTRbio6zrw?e=ArrXPN) [4](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/IQB3FrGOvPDiRrGZONrqsKrHAcSo2njDN0pIHzzbDa98vus?e=6i3Kkc) [5](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/IQCuGUraHja4ToboQ3koaI72AR9nfg7odk4j-sFAR2vDy38?e=HLhLiC)
 
 - 教材：[download](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/EUeN4YnIAzNOjgG6bOtAGHkBntS_PEX1LAri2DwXpD-z_A?e=mfAwwZ) 习题解答：[download](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/EUJlJi9iHXVFmPLnCUCdPkABIo9_lc00FRbQIz3P52QH9A?e=cHrIDB)
 
@@ -128,12 +128,21 @@ permalink: /teaching/PKUstudy
 
   - [第三次作业（动态规划）：课本习题3.7、3.9](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/EZIGchEIjr5CgqEV5sMUMuUBcToHKYjZWglGiicNyTaY5w?e=EexezI)
     
-  - [第四次作业：贝尔曼方程的程序实现](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/EWOPs7tMM_BLmEg1KMn0zGoBtSNtgbKzckTQPK5o36GH_A?e=1Og0TB)
+  - [强化学习1：贝尔曼方程的程序实现](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/EWOPs7tMM_BLmEg1KMn0zGoBtSNtgbKzckTQPK5o36GH_A?e=1Og0TB)
       - [算法思想与求解描述](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/EUmVhx-Q6btIm-a7ONvTk-IBwozmnB7rYS6ToWzIjo78XA?e=ohu0bz)
       - [代码](https://chinapku-my.sharepoint.com/:u:/g/personal/2501210682_stu_pku_edu_cn/EWuYlMIrsJZDqdLmUmNvMlMBlRcBeHxpK7MU0hLe8N7puQ?e=EI7IUl)
 
-  - 
+  - [强化学习2：贝尔曼最优方程值迭代、策略迭代、截断式策略迭代](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/IQBUtyjSrk1fSagRpuWP_jaXAaOqbiMDzXL6WKcD-wmDCsE?e=cHeeIh)
+      - [算法思想与求解描述](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/IQCYD8C9UYYPSIo20303VGntAQJAo7yfTPEm5wGlGlJzNuc?e=smVEae)
+      - [代码](https://chinapku-my.sharepoint.com/:u:/g/personal/2501210682_stu_pku_edu_cn/IQA4tjphm5DGSrB8FhBpHjLeATYrVRi_LqAIBX_lwnZLAW8?e=CaSqug)
 
+  - [强化学习3：蒙特卡洛模拟与epsilon-贪心策略](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/IQDInyO_qE89QqMYG92DknAYATIOAbeYN1rMLW4SE_tmgEs?e=KoxmjQ)
+      - [算法思想与求解描述](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/IQA18zzuh3_3T4xFwjhCbuqdAVIEs1Jlmkdc41e_K150m7Y?e=oZb7KB)
+      - [代码](https://chinapku-my.sharepoint.com/:u:/g/personal/2501210682_stu_pku_edu_cn/IQBThIwkfWaDSYqdz2CX7PCzAYI8vucbpmJqgIydNcFPckA?e=B0VlqN)
+ 
+  - [强化学习4：随机梯度下降算法]()
+      - [算法思想与求解描述]()
+      - [代码]() 
 ## 金融产品创新
 
 - 周五下午，王德全，3学分
@@ -186,7 +195,11 @@ permalink: /teaching/PKUstudy
 
 - 周六上午，3学分
 
-> 工程伦理-课程报告主题1：通过辩证思考进行分析，体现工程师选取某一工程伦理案例作为研究对象的职业责任感（字数在1500字左右） [download](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/IQChF_AdwE4BSoDFQOTw9SWFAbcMXf8UcJta2ZU1fFgBBuo?e=ZmgUSJ)
+> 工程伦理-课程报告主题1：通过辩证思考进行分析，体现工程师选取某一工程伦理案例作为研究对象的职业责任感（字数在1500字左右）。
+> 素质教育课程包括：“素质教育与前沿技术(2学分)”、“职业道德与素养（1学分）”。内容涵盖人文素养、职业素养以及前沿技术三个模块，以及读书分享、志愿者活动、比赛竞赛等实践活动。注重学思结合、知行统一，增强学生勇于探索的创新精神、善于解决问题的实践能力。创新创业教育方面，注重让学生“敢闯会创”，在亲身参与中增强创新精神、创造意识和创业能力。注重教育和引导学生弘扬劳动精神，将“读万卷书”与“行万里路”相结合，扎根中国大地了解国情民情，在实践中增长智慧才干，在艰苦奋斗中锤炼意志品质。年度一共交课程报告2篇，2025年秋季学期职业道德与素养课程提交课程报告主题1内容如下：报告内容：参考课堂展示，选取某一工程伦理案例作为研究对象，通过辩证思考展开分析，体现工程师的职业责任感。报告需包含前言、工程伦理案例介绍、工程伦理问题分析、工程伦理问题应对、工程师的伦理责任五部分，字数控制在1500字左右。​
+
+
+[download](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/IQChF_AdwE4BSoDFQOTw9SWFAbcMXf8UcJta2ZU1fFgBBuo?e=ZmgUSJ)
 
 > 工程伦理-课堂展示 [download](https://chinapku-my.sharepoint.com/:p:/g/personal/2501210682_stu_pku_edu_cn/IQCBVYc-g9X8TITEOVTrTAMoAe05u0icLRciugEPb8aDVQs?e=DhobYU)
 
