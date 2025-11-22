@@ -186,12 +186,14 @@ permalink: /teaching/PKUstudy
 
 - 周六上午，3学分
 
-> 课程报告主题1：通过辩证思考进行分析，体现工程师选取某一工程伦理案例作为研究对象的职业责任感（字数在1500字左右）
+> 工程伦理-课程报告主题1：通过辩证思考进行分析，体现工程师选取某一工程伦理案例作为研究对象的职业责任感（字数在1500字左右） [download](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/IQChF_AdwE4BSoDFQOTw9SWFAbcMXf8UcJta2ZU1fFgBBuo?e=ZmgUSJ)
 
-> 课程报告主题2: 选取自我成长过程中经历的一个或多个实践活动，从背景（时间、地点、人物、事件等）、问题、选择、结果、反思等展开叙述。 阐述其对个人成长影响（字数在1500字左右）
+> 工程伦理-课堂展示 [download](https://chinapku-my.sharepoint.com/:p:/g/personal/2501210682_stu_pku_edu_cn/IQCBVYc-g9X8TITEOVTrTAMoAe05u0icLRciugEPb8aDVQs?e=DhobYU)
+
+> 素质教育-课程报告主题2: 选取自我成长过程中经历的一个或多个实践活动，从背景（时间、地点、人物、事件等）、问题、选择、结果、反思等展开叙述。 阐述其对个人成长影响（字数在1500字左右）
 
 # 自学课程
-=
+
 Videos: 
 
 [Advanced Macroeconomics 高级宏观经济学](https://www.bilibili.com/video/BV1vAtgzuE82/) , Spring 2025 
