@@ -158,7 +158,29 @@ permalink: /teaching/PKUstudy
 
 - Lecture 8(251107)： 资产证券化 [download](https://chinapku-my.sharepoint.com/:p:/g/personal/2501210682_stu_pku_edu_cn/EYm01p3jqJxAl2GF4gn7uc4BFYqyTWbrVQeW4mlPG5H7MA?e=01Oe6q)
 
-  量化投资 [download](https://chinapku-my.sharepoint.com/:p:/g/personal/2501210682_stu_pku_edu_cn/EWP5o4fWy-JGngzAyjUE5JMBP9t7_eXatyZwfoS9jBK0dQ?e=jbUEkE)
+- Lecture 8-10（251107、251114、251121）
+
+  - L1 量化投资 [download](https://chinapku-my.sharepoint.com/:p:/g/personal/2501210682_stu_pku_edu_cn/EWP5o4fWy-JGngzAyjUE5JMBP9t7_eXatyZwfoS9jBK0dQ?e=jbUEkE)
+ 
+  - L2 量化择时 [download](https://chinapku-my.sharepoint.com/:p:/g/personal/2501210682_stu_pku_edu_cn/IQC4V2yIj-GtT5wwHVkcFrgXAeWd4zTELi5Kx5OKR4q5mQk?e=PDYBbU)
+ 
+  - L3 量化选股 [download](https://chinapku-my.sharepoint.com/:p:/g/personal/2501210682_stu_pku_edu_cn/IQDE4Su0X1JASow4HOuSlW7OAcswjr3IW1iNaKe6Psv-hoY?e=LcStzw)
+ 
+  - L4 股指期货套利 [download](https://chinapku-my.sharepoint.com/:p:/g/personal/2501210682_stu_pku_edu_cn/IQCK_kNlm7q2TLjqXPMlbXD4AeWTlRKitiTXU010-h_FbJc?e=dnMAI3)
+ 
+  - L5 商品期货套利 [download](https://chinapku-my.sharepoint.com/:p:/g/personal/2501210682_stu_pku_edu_cn/IQDriOuFVuKgT7iIQIUSJ7BSAUr8ueOTX9bApaHOpD88Axg?e=QYdweP)
+ 
+  - L6 统计套利 [download](https://chinapku-my.sharepoint.com/:p:/g/personal/2501210682_stu_pku_edu_cn/IQBkcnIUJKxFT6EgAkbZLcxWAdo1RQj_e5SXwnVmu90tlGw?e=KdVpXf)
+ 
+  - L7 期权套利 [download](https://chinapku-my.sharepoint.com/:p:/g/personal/2501210682_stu_pku_edu_cn/IQBpppNvlYYHTruts2aAu6S0AZAEFtwsMY7hoSDFBWgCdJY?e=GvvrQc)
+ 
+  - L8 ETF套利策略 [download](https://chinapku-my.sharepoint.com/:p:/g/personal/2501210682_stu_pku_edu_cn/IQA0WXAVlgMWSqEUg33LWenBAUss2038CLB-Vgf_K204_uc?e=GwziE2)
+ 
+> 任务一：面谈及相应准备：模拟面试两个小组成员同时进入会议室与老师沟通交流，每一轮进行25min以内，结束后自行离场，并叫等候区下一组同学入场。进入会议室后每个人进行一分钟自我介绍、向老师提交自己的纸质简历（可选）、根据介绍和简历沟通交流、群面提问，可以提前准备想与老师交流的话题。每个小组的同学提前10-15min在等候区等候，不在当天模拟面试的其他同学自习。注意：模拟面试不计入成绩，但当天模拟面试的同学需提前在等候区准备，不要迟到，否则扣考勤分数。每一组必须全员全部本人到场，未到场同学不仅影响本人考勤，也会影响小组整体分数。
+
+> 任务二：小组汇报：本次汇报即期末作业展示。通过小组充分研讨，设计一款金融产品、或分析一款金融创新案例，要体现出金融产品（业务）的创新性和现实性。每个小组展示时间不超过15分钟，根据PPT的内容和质量、现场展示以及回答问题等情况，综合确定课程成绩（务必把控好汇报时间）。汇报结束后会进行2个问题左右的提问与回答，每个问题回答不超过2分钟。汇报每个小组的同学提前10-15min在等候区等候，每个小组汇报结束后自行离场，并叫等候区下一小组入场。由于各小组汇报时间不同，为了保证公平，所有小组均将最终版本PDF在ddl前提交至北大网盘，不再修改。
+
+
   
 ## 职业道德与素养&素质教育与前沿技术
 
