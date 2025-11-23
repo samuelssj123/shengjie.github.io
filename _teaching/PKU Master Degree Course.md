@@ -140,9 +140,11 @@ permalink: /teaching/PKUstudy
       - [算法思想与求解描述](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/IQA18zzuh3_3T4xFwjhCbuqdAVIEs1Jlmkdc41e_K150m7Y?e=oZb7KB)
       - [代码](https://chinapku-my.sharepoint.com/:u:/g/personal/2501210682_stu_pku_edu_cn/IQBThIwkfWaDSYqdz2CX7PCzAYI8vucbpmJqgIydNcFPckA?e=B0VlqN)
  
-  - [强化学习4：随机梯度下降算法]()
-      - [算法思想与求解描述]()
-      - [代码]() 
+  - [强化学习4：随机梯度下降算法](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/IQDwr-H2wJwRQZIXPi0oKHooAYkBlmyu-_6RHkfhsk0FGtM?e=2eSX2j)
+      - [算法思想与求解描述](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/IQCYTR53wCuHTZv5In-FxOeKAQR9Vfalu3pc-7tRw3aBTeE?e=c6gOt2)
+      - [代码](https://chinapku-my.sharepoint.com/:u:/g/personal/2501210682_stu_pku_edu_cn/IQCGeHVlC7xFSq9NBWEjwbtoAZaK1Wc-zX1YOFr9GGbXtgE?e=WZXh3t)
+   
+        
 ## 金融产品创新
 
 - 周五下午，王德全，3学分
@@ -197,7 +199,6 @@ permalink: /teaching/PKUstudy
 
 > 工程伦理-课程报告主题1：通过辩证思考进行分析，体现工程师选取某一工程伦理案例作为研究对象的职业责任感（字数在1500字左右）。
 > 素质教育课程包括：“素质教育与前沿技术(2学分)”、“职业道德与素养（1学分）”。内容涵盖人文素养、职业素养以及前沿技术三个模块，以及读书分享、志愿者活动、比赛竞赛等实践活动。注重学思结合、知行统一，增强学生勇于探索的创新精神、善于解决问题的实践能力。创新创业教育方面，注重让学生“敢闯会创”，在亲身参与中增强创新精神、创造意识和创业能力。注重教育和引导学生弘扬劳动精神，将“读万卷书”与“行万里路”相结合，扎根中国大地了解国情民情，在实践中增长智慧才干，在艰苦奋斗中锤炼意志品质。年度一共交课程报告2篇，2025年秋季学期职业道德与素养课程提交课程报告主题1内容如下：报告内容：参考课堂展示，选取某一工程伦理案例作为研究对象，通过辩证思考展开分析，体现工程师的职业责任感。报告需包含前言、工程伦理案例介绍、工程伦理问题分析、工程伦理问题应对、工程师的伦理责任五部分，字数控制在1500字左右。​
-
 
 [download](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/IQChF_AdwE4BSoDFQOTw9SWFAbcMXf8UcJta2ZU1fFgBBuo?e=ZmgUSJ)
 
