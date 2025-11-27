@@ -104,9 +104,9 @@ permalink: /teaching/PKUstudy
 
 > 任务二：从八个专题中选择至少一个，字数不少于2500字，查重率<20%
 
-- [小论文作业]()
+- [小论文作业](https://chinapku-my.sharepoint.com/:w:/g/personal/2501210682_stu_pku_edu_cn/IQBKunnWL9duR4UlI_--DzPQAVRtyPYTOm9yEkF3PXf5sek?e=fMC0Qd)
 
-> 期末考试：开卷考试，20251126试题：
+> 期末考试：开卷考试，20251126试题：①论述以经济建设为中心和以人民为中心的关系；②《十五五规划》指出了几大原则，谈谈你对“有效市场和有为政府”的理解；③《十五五规划》指出十五五是关键时期，结合社会主义现代化的发展特点，谈谈为什么十五五是关键时期。
 
 ## 面向金融的R语言
 
