@@ -20,6 +20,9 @@ permalink: /teaching/PKUstudy
 
 - 章节选择：Ch6 金融营销产品策略，展示素材：[slides](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/Ees1U9-3GHNHs4hzyBqJASUBSj4xs5PVZaGnAUrM6sy_Sg?e=5P2v3X) ，[videos：香港保险业介绍](https://chinapku-my.sharepoint.com/:v:/g/personal/2501210682_stu_pku_edu_cn/EctaQAu2x81FuFtDif4Sg2oBBGBOVxTmy7NYbHeJJrPnog?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=XybWhK)
 
+- 思考一个消费金融的创新产品，[PPT](https://chinapku-my.sharepoint.com/:p:/g/personal/2501210682_stu_pku_edu_cn/IQAPVUyQmYIiSJz5CYeLEJ6jATnOOdLNKVDXmRoFE2LcsCk?e=pv1aCC)
+
+
 ## 面向对象技术
 
 - 周一晚上，蒋严冰，3学分
@@ -113,6 +116,10 @@ permalink: /teaching/PKUstudy
 - 周四下午，李素科，2学分
 
 - 参考及教学讲义：[download](https://chinapku-my.sharepoint.com/:f:/g/personal/2501210682_stu_pku_edu_cn/Ek5lwN2vMdFKtcMS1AvpTm4BaDo1Uy6MYWoNKxKGV-V1mw?e=kSvhFq)
+
+- 期末报告：[期权隐含波动率的非参数解法](https://chinapku-my.sharepoint.com/:f:/g/personal/2501210682_stu_pku_edu_cn/IgB_p6kPskH3SqK1p5xkOateAZ0bTNucoDFdqo5s8WDKUKg?e=fSwzAE)
+
+
 
 ## 算法分析与设计
 
