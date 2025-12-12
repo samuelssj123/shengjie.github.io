@@ -1,12 +1,41 @@
 ---
-title: "PKU Master Degree Course"
+title: "PKU Master's Degree"
 type: Study material
 collection: teaching
 venue: PKU, Beijing
 permalink: /teaching/PKUstudy
 ---
 
-学习课程：面向对象技术、金融科技理论与实践、金融理论与实务Ⅰ、新中特、自然辩证法、面向金融R语言、算法分析与设计、金融产品创新、综合素质。自学与讲授课程：高级微观经济学、高级宏观经济学、高级计量经济学、金融理论与实务、数理基础与算法。冯柯老师组会。
+学习课程：面向对象技术、金融科技理论与实践、金融理论与实务Ⅰ、新中特、自然辩证法、面向金融R语言、算法分析与设计、金融产品创新、综合素质。自学与讲授课程：高级微观经济学、高级宏观经济学、高级计量经济学、金融理论与实务、数理基础与算法。冯科老师组会。
+
+
+# 自学课程
+
+Videos: 
+
+[Advanced Macroeconomics 高级宏观经济学](https://www.bilibili.com/video/BV1vAtgzuE82/) , Spring 2025 
+
+[Advanced Microeconomics 高级微观经济学](https://www.bilibili.com/video/BV1SZsqzvEZD/) , Fall 2025 
+
+[Advanced Econometrics 高级计量经济学](https://www.bilibili.com/video/BV1gTYDz4E4F/), Fall 2025
+
+[Financial Theory and Practice 金融理论与实务](https://www.bilibili.com/video/BV1czpLzHEu9/), Fall 2025
+
+[Algorithm and Maths 数理基础与算法](https://www.bilibili.com/video/BV1A2xMz5E6x/) , Fall 2025 
+
+讲义和课件编写：
+
+[stablecoins](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/IQDhqqbNkSRLSINdYZmmujWiAXlLw8Rliz6xE46dDtl6kd4?e=jz3JqF),PPT:[CH1](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/IQCWlZ-oHBfnT6CgGEKsX89uAbg44veQLwqvH-TVczEvKWw?e=v3oeI3),[CH2](https://chinapku-my.sharepoint.com/:p:/g/personal/2501210682_stu_pku_edu_cn/IQDuaqjqsqIGSarC2Q0sCWKaARzJ_xvDZ0VvFKt0QMCR-Qc?e=uAa6tg),[CH3](https://chinapku-my.sharepoint.com/:p:/g/personal/2501210682_stu_pku_edu_cn/IQDG4e4B2WWNTqtDZwuHGZVeAVsDHvaZLLsmNzKixe78EmQ?e=axG276),[CH4](https://chinapku-my.sharepoint.com/:p:/g/personal/2501210682_stu_pku_edu_cn/IQCokzZDT3C9S7kyyxhZ9XxdAQbdQSQkGBK_MT7HvvZ9huk?e=5iiwZJ)
+
+Handout: 
+
+[高级宏观经济学](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/ESBlERRn6DFCnXxQppRkfMsBnDamd7NxYQs2W1P3ZiGyGA?e=h6U3Z1), Spring 2025
+
+
+Reference Material:
+
+[Text Mining Code](https://mailbnueducn-my.sharepoint.com/:u:/g/personal/sjs_mail_bnu_edu_cn/EWYQk7OOK5RIqwTos659OzwBCOh9ypui1iNU9PrV5-Iamg?e=zt34eh)
+
 
 # 主干课程
 
@@ -20,7 +49,9 @@ permalink: /teaching/PKUstudy
 
 - 章节选择：Ch6 金融营销产品策略，展示素材：[slides](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/Ees1U9-3GHNHs4hzyBqJASUBSj4xs5PVZaGnAUrM6sy_Sg?e=5P2v3X) ，[videos：香港保险业介绍](https://chinapku-my.sharepoint.com/:v:/g/personal/2501210682_stu_pku_edu_cn/EctaQAu2x81FuFtDif4Sg2oBBGBOVxTmy7NYbHeJJrPnog?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=XybWhK)
 
-- 思考一个消费金融的创新产品，[PPT](https://chinapku-my.sharepoint.com/:p:/g/personal/2501210682_stu_pku_edu_cn/IQAPVUyQmYIiSJz5CYeLEJ6jATnOOdLNKVDXmRoFE2LcsCk?e=pv1aCC)
+> 作业B：思考一个消费金融的创新产品.
+
+- [PPT](https://chinapku-my.sharepoint.com/:p:/g/personal/2501210682_stu_pku_edu_cn/IQAPVUyQmYIiSJz5CYeLEJ6jATnOOdLNKVDXmRoFE2LcsCk?e=pv1aCC)
 
 
 ## 面向对象技术
@@ -29,7 +60,7 @@ permalink: /teaching/PKUstudy
 
 - 课程资料：[download](https://chinapku-my.sharepoint.com/:f:/g/personal/2501210682_stu_pku_edu_cn/Eljl9HKSgaFFgF0gngJobLIBo3JsuQJ0kF-bJ_aS08f-3Q?e=lRN08k)
 
-## 金融科技理论与实践
+## 金融科技理论与实践（考试结课）
 
 - 周二上午，黄嵩，2学分
 
@@ -48,12 +79,18 @@ permalink: /teaching/PKUstudy
   - Lecture5-6：加密货币 [download](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/EeJGaP5Yg9RArRwDVWNHQJoBX8m0XwBkNCyoBMgJIKa-sw?e=M1yiYv)
 
   - Lecture 7：银行与信贷 [download](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/IQBTF4zDL1y-SJfvr_7Eiz0iAdAymhQGJYeyrY_v3c7Z2V4?e=sSktQP)
+
+  - L8-10：笔记略。
     
 - 考核：
   
 > 选取一个中国金融科技的产品、业务、应用程序、流程或事件进行案例分析，要有一定的典型性和代表性，并必须明确说明案例对应的知识点。案例名称以不带暗示性的中性标题为宜（产品名+主题）。内容要聚焦，背景性的内容尽量不要。自由分组，每组最多3人。会选部分案例在课堂分享，内容至少能够讲20分钟，上不封顶。
 
   - 作业PPT [download](https://chinapku-my.sharepoint.com/:p:/g/personal/2501210682_stu_pku_edu_cn/EWmPBmYjg4lKuPGW72OlY6wBWZWJ8Mqx22ELHVup7b1qxA?e=fQf3no)
+
+> 考试题目：1.从信任机制出发，稳定币监管和立法应该关注哪些方面？我国是否应该发行人民币稳定币，为什么？2.加密货币依靠三大技术，区块链、智能合约、分布式账本，简述其技术原理、在加密货币中解决的主要问题、作用。3.简述智能风控建模的主要步骤，建模的难点在哪里？4.什么是RWA？什么是STO？为什么说STO是RWA的主流？5.谈谈你对互联网、云计算、人工智能如何推动金融创新的理解。
+
+  - 复习笔记 [notes](https://chinapku-my.sharepoint.com/:w:/g/personal/2501210682_stu_pku_edu_cn/IQB_nCm9w3sZSo2S0yqGFdguAc3d0MmUT21136DOh-lgaCI?e=MBaOjW)
 
 ## 金融理论与实务Ⅰ
 
@@ -75,7 +112,7 @@ permalink: /teaching/PKUstudy
 
     - Lecture 7-8：价值与价格 [download](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/IQAFMnDhSSrWTZVRT3IKK2PeAX9rYUcwRoIAnZwAAEl4pwY?e=9q72Z0)
 
-## 自然辩证法
+## 自然辩证法（论文结课）
 
 - 周二晚上，朱效民，1学分
   
@@ -97,7 +134,11 @@ permalink: /teaching/PKUstudy
 
   - 课程讲义 [download](https://chinapku-my.sharepoint.com/:w:/g/personal/2501210682_stu_pku_edu_cn/ESsxT5gKGp1OkNqs8xwO2oQBGb4NacdfyLQP0o3zuo57sA?e=nAoF7t)
 
-## 新时代中国特色社会主义理论与实践
+> 任务：读书报告。1，关于符合学术规范一事，我们上课时反复说明，依据科学社会学的发现和发展，科学是集体、共有的事业，科研工作要建立在共同探索、勇于创新的基础上，因而在写作的基本要求上必须有文献的综述、了解别人工作的基础上推进创新、同时不得重复别人的工作和发现。2，文献综述并不妨碍自己的表达空间，仍然可以充分地表达个人的观点（尤其如下面第3篇文献）。3，至于论述格式没有统一要求，文献可以视情况列出3-5篇主要参考文献即可。4，前面3讲主要内容分别是科技体制、科学传播、科技政策和科学社会学等，这里给大家提供5篇相关文献参考如下以及附件（附件中科院历史一文的文献中还有我十几年前发表的相关文章，可见作者查搜文献的功夫）：1）朱效民，科技体制改革的“体”与“用”，自然辩证法研究，2012年第7期链接如下：http://zhwhdx.ustc.edu.cn/zhwhdx/news/detail_197014.htm 或者：https://fh.pku.edu.cn/docs/2018-12/20181206090555934861.pdf 2）朱效民，科学素质与科学普及的孰是孰非，科学与社会，2016年第1期Zhu Xiaomin, A review on relationship between scientific literacy and science popularization in China , Science and Society, NO. 1, 2016，链接如下：http://chuansong.me/n/312436951554 or或者：https://fh.pku.edu.cn/dbxlwk/zxzjxx/kxjzzxjys/z39/88325.htm or或者：http://www.3023.com/2/328974354.html 3）朱效民, 徙科学傅播到知識實践：一位參與專家的觀察與反思, 傅播研究舆實践, 第10卷第2期2020年7月, 第59-83页&gt;&gt;https://phil.pku.edu.cn/docs/2020-08/20200818211426950674.pdf 这是我在台湾的一个一级学刊上发表的徒步健身科学传播方面的专业论文，也是我发表的最长的一篇论文（22000字）之一，主要谈徒步的理念，以及对一些中西研究方法、运动文化差异的思考。
+
+  - 期末报告：[download](https://chinapku-my.sharepoint.com/:w:/g/personal/2501210682_stu_pku_edu_cn/IQC6h278ARlgRJSe3gBRkIbnAT_GTVIZJy9EyoGWecVe0gc?e=Z79yd3)
+
+## 新时代中国特色社会主义理论与实践（论文、考试结课）
 
 - 周三下午，2学分
 
@@ -111,14 +152,13 @@ permalink: /teaching/PKUstudy
 
 > 期末考试：开卷考试，20251126试题：①论述以经济建设为中心和以人民为中心的关系；②《十五五规划》指出了几大原则，谈谈你对“有效市场和有为政府”的理解；③《十五五规划》指出十五五是关键时期，结合社会主义现代化的发展特点，谈谈为什么十五五是关键时期。
 
-## 面向金融的R语言
+## 面向金融的R语言（汇报结课）
 
 - 周四下午，李素科，2学分
 
 - 参考及教学讲义：[download](https://chinapku-my.sharepoint.com/:f:/g/personal/2501210682_stu_pku_edu_cn/Ek5lwN2vMdFKtcMS1AvpTm4BaDo1Uy6MYWoNKxKGV-V1mw?e=kSvhFq)
 
 - 期末报告：[期权隐含波动率的非参数解法](https://chinapku-my.sharepoint.com/:f:/g/personal/2501210682_stu_pku_edu_cn/IgB_p6kPskH3SqK1p5xkOateAZ0bTNucoDFdqo5s8WDKUKg?e=fSwzAE)
-
 
 
 ## 算法分析与设计
@@ -156,7 +196,7 @@ permalink: /teaching/PKUstudy
       - [代码](https://chinapku-my.sharepoint.com/:u:/g/personal/2501210682_stu_pku_edu_cn/IQCGeHVlC7xFSq9NBWEjwbtoAZaK1Wc-zX1YOFr9GGbXtgE?e=WZXh3t)
    
         
-## 金融产品创新
+## 金融产品创新（面试、汇报结课）
 
 - 周五下午，王德全，3学分
 
@@ -205,7 +245,6 @@ permalink: /teaching/PKUstudy
 > 任务二：小组汇报：本次汇报即期末作业展示。通过小组充分研讨，设计一款金融产品、或分析一款金融创新案例，要体现出金融产品（业务）的创新性和现实性。每个小组展示时间不超过15分钟，根据PPT的内容和质量、现场展示以及回答问题等情况，综合确定课程成绩（务必把控好汇报时间）。汇报结束后会进行2个问题左右的提问与回答，每个问题回答不超过2分钟。汇报每个小组的同学提前10-15min在等候区等候，每个小组汇报结束后自行离场，并叫等候区下一小组入场。由于各小组汇报时间不同，为了保证公平，所有小组均将最终版本PDF在ddl前提交至北大网盘，不再修改。
 
 
-  
 ## 职业道德与素养&素质教育与前沿技术
 
 - 周六上午，3学分
@@ -218,28 +257,6 @@ permalink: /teaching/PKUstudy
 > 工程伦理-课堂展示 [download](https://chinapku-my.sharepoint.com/:p:/g/personal/2501210682_stu_pku_edu_cn/IQCBVYc-g9X8TITEOVTrTAMoAe05u0icLRciugEPb8aDVQs?e=DhobYU)
 
 > 素质教育-课程报告主题2: 选取自我成长过程中经历的一个或多个实践活动，从背景（时间、地点、人物、事件等）、问题、选择、结果、反思等展开叙述。 阐述其对个人成长影响（字数在1500字左右）
-
-# 自学课程
-
-Videos: 
-
-[Advanced Macroeconomics 高级宏观经济学](https://www.bilibili.com/video/BV1vAtgzuE82/) , Spring 2025 
-
-[Advanced Microeconomics 高级微观经济学](https://www.bilibili.com/video/BV1SZsqzvEZD/) , Fall 2025 
-
-[Advanced Econometrics 高级计量经济学](https://www.bilibili.com/video/BV1gTYDz4E4F/), Fall 2025
-
-[Financial Theory and Practice 金融理论与实务](https://www.bilibili.com/video/BV1czpLzHEu9/), Fall 2025
-
-[Algorithm and Maths 数理基础与算法](https://www.bilibili.com/video/BV1A2xMz5E6x/) , Fall 2025 
-
-Handout: 
-
-[高级宏观经济学](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/ESBlERRn6DFCnXxQppRkfMsBnDamd7NxYQs2W1P3ZiGyGA?e=h6U3Z1), Spring 2025
-
-Reference Material:
-
-[Text Mining Code](https://mailbnueducn-my.sharepoint.com/:u:/g/personal/sjs_mail_bnu_edu_cn/EWYQk7OOK5RIqwTos659OzwBCOh9ypui1iNU9PrV5-Iamg?e=zt34eh)
 
 # 冯科老师组会笔记
 
