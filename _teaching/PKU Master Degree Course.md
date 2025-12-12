@@ -167,7 +167,7 @@ Reference Material:
 
 - 课件汇总：[download](https://chinapku-my.sharepoint.com/:u:/g/personal/2501210682_stu_pku_edu_cn/EZ3WWZPTfq1DooHl48TMvN4BTSu39PEhlaX24-AxAEd6Ow?e=sC3p4G)
 
-  强化学习 [1](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/EazPraf3cLZFn9bFQDCrHpoB7O6CMQ4ppCwC7tIMoVRJAQ?e=nqia5F) [2](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/ETfYOjoQmKFHgPEZcauIUbgBs3WMrpfFhUY1JUb991270A?e=2uyVcG) [3](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/EfCQE3uNNeVIo7tDP73_lloBJYrjWNMPF8lFgTRbio6zrw?e=ArrXPN) [4](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/IQB3FrGOvPDiRrGZONrqsKrHAcSo2njDN0pIHzzbDa98vus?e=6i3Kkc) [5](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/IQCuGUraHja4ToboQ3koaI72AR9nfg7odk4j-sFAR2vDy38?e=HLhLiC)
+  强化学习 [1](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/EazPraf3cLZFn9bFQDCrHpoB7O6CMQ4ppCwC7tIMoVRJAQ?e=nqia5F) [2](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/ETfYOjoQmKFHgPEZcauIUbgBs3WMrpfFhUY1JUb991270A?e=2uyVcG) [3](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/EfCQE3uNNeVIo7tDP73_lloBJYrjWNMPF8lFgTRbio6zrw?e=ArrXPN) [4](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/IQB3FrGOvPDiRrGZONrqsKrHAcSo2njDN0pIHzzbDa98vus?e=6i3Kkc) [5](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/IQCuGUraHja4ToboQ3koaI72AR9nfg7odk4j-sFAR2vDy38?e=HLhLiC) [6](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/IQCuGUraHja4ToboQ3koaI72AR9nfg7odk4j-sFAR2vDy38?e=kOm7kf) [7](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/IQBfOlsZGZOdSIaIAv9ORSgTAXVp0RodhXI3IqAMyhSNu6c?e=4nfPGo) [8:策略梯度近似、Actor-Critic算法](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/IQD4Yxc4jRobSbmGgYe4sfspAUhzP1UZWTxCE3e7ElP3xcQ?e=efXQHp)
 
 - 教材：[download](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/EUeN4YnIAzNOjgG6bOtAGHkBntS_PEX1LAri2DwXpD-z_A?e=mfAwwZ) 习题解答：[download](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/EUJlJi9iHXVFmPLnCUCdPkABIo9_lc00FRbQIz3P52QH9A?e=cHrIDB)
 
@@ -195,6 +195,16 @@ Reference Material:
       - [算法思想与求解描述](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/IQCYTR53wCuHTZv5In-FxOeKAQR9Vfalu3pc-7tRw3aBTeE?e=c6gOt2)
       - [代码](https://chinapku-my.sharepoint.com/:u:/g/personal/2501210682_stu_pku_edu_cn/IQCGeHVlC7xFSq9NBWEjwbtoAZaK1Wc-zX1YOFr9GGbXtgE?e=WZXh3t)
    
+  - [强化学习5：时序差分算法](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/IQCBKJPXKpikQL38Wf3NCnKWAb7LdlCoE0cVVDdW0nItrqs?e=aGNXgk)
+      - [算法思想与求解描述](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/IQBnG7jCY1oiQI6dZFfWxHy2AWM43tq2HQYxNjfqdA72ZFM?e=lpH2lj)
+      - [代码](https://chinapku-my.sharepoint.com/:f:/g/personal/2501210682_stu_pku_edu_cn/IgCPkxkGoiGNRIFHevq-7sUiAUbvO2AEyJgm1N1gBbAtyg4?e=RPFMmK)
+    
+  - [强化学习6：值函数算法](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/IQDIla6-PdW2RoiVN07S3WVYAZrialIukM8YDdaUDxBdjDQ?e=4UGfyw)
+      - [算法思想与求解描述](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/IQDtpIabSuZ6Tr_U5L6fX1i0AZ5bA787L1o4YtD3bLHrKb0?e=LvhpTn)
+      - [代码](https://chinapku-my.sharepoint.com/:u:/g/personal/2501210682_stu_pku_edu_cn/IQAftG0hyimJTqSU-Fh1qM8lAbbBKJnkK6QH1ckMCqr-n38?e=j6qj2o)
+
+  - 大作业：
+
         
 ## 金融产品创新（面试、汇报结课）
 
