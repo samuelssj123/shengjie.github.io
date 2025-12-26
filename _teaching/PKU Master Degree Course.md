@@ -23,6 +23,8 @@ Videos:
 
 [Algorithm and Maths 数理基础与算法](https://www.bilibili.com/video/BV1A2xMz5E6x/) , Fall 2025 
 
+[政治经济学](https://www.bilibili.com/video/BV1GfxszgEQg/) , Fall 2025
+
 讲义和课件编写：
 
 [stablecoins](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/IQDhqqbNkSRLSINdYZmmujWiAXlLw8Rliz6xE46dDtl6kd4?e=jz3JqF),PPT:[CH1](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/IQCWlZ-oHBfnT6CgGEKsX89uAbg44veQLwqvH-TVczEvKWw?e=v3oeI3),[CH2](https://chinapku-my.sharepoint.com/:p:/g/personal/2501210682_stu_pku_edu_cn/IQDuaqjqsqIGSarC2Q0sCWKaARzJ_xvDZ0VvFKt0QMCR-Qc?e=uAa6tg),[CH3](https://chinapku-my.sharepoint.com/:p:/g/personal/2501210682_stu_pku_edu_cn/IQDG4e4B2WWNTqtDZwuHGZVeAVsDHvaZLLsmNzKixe78EmQ?e=axG276),[CH4](https://chinapku-my.sharepoint.com/:p:/g/personal/2501210682_stu_pku_edu_cn/IQCokzZDT3C9S7kyyxhZ9XxdAQbdQSQkGBK_MT7HvvZ9huk?e=5iiwZJ)
@@ -36,6 +38,7 @@ Reference Material:
 
 [Text Mining Code](https://mailbnueducn-my.sharepoint.com/:u:/g/personal/sjs_mail_bnu_edu_cn/EWYQk7OOK5RIqwTos659OzwBCOh9ypui1iNU9PrV5-Iamg?e=zt34eh)
 
+[金融理论经典论文](https://chinapku-my.sharepoint.com/:f:/g/personal/2501210682_stu_pku_edu_cn/IgCM1Ct2CUO5QZb6ABorW7HcAZHwjOLPeHze7godRb_ufI8?e=pAKL4W)
 
 # 主干课程
 
@@ -53,12 +56,22 @@ Reference Material:
 
 - [PPT](https://chinapku-my.sharepoint.com/:p:/g/personal/2501210682_stu_pku_edu_cn/IQAPVUyQmYIiSJz5CYeLEJ6jATnOOdLNKVDXmRoFE2LcsCk?e=pv1aCC)
 
+> 作业C：消费金融的创新产品并迭代为小组作业.
 
-## 面向对象技术
+- [PPT](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/IQDnF1_RfME1QZG-D60ksvO1AflirEjeTn09kCuQlLpr5pA?e=dDdtft)
+
+> 作业D：将金融营销实例进行研究分享，突出数据，使用AI短视频、数字人等技术，需同步提交纸质报告.
+
+- [PPT](https://chinapku-my.sharepoint.com/:p:/g/personal/2501210682_stu_pku_edu_cn/IQDaYZ4Mulr8T6xPPJio-tfPAa4fKqKvvfeMWSWAJelAme8?e=7isjbl) [课程报告](https://chinapku-my.sharepoint.com/:w:/g/personal/2501210682_stu_pku_edu_cn/IQDHkyS7308KSrKDW1udTJeXAWrBcgzA5rg3F7MaT4j-cU4?e=cn6NAU)
+
+## 面向对象技术（项目结课）
 
 - 周一晚上，蒋严冰，3学分
 
-- 课程资料：[download](https://chinapku-my.sharepoint.com/:f:/g/personal/2501210682_stu_pku_edu_cn/Eljl9HKSgaFFgF0gngJobLIBo3JsuQJ0kF-bJ_aS08f-3Q?e=lRN08k)
+- 课程资料：[download](https://chinapku-my.sharepoint.com/:f:/g/personal/2501210682_stu_pku_edu_cn/IgBlLBk8rB43SLQv6j2RH9HfAf_Aqtiy9u_yEXHFFZDq1wE?e=rGtdw5)
+
+- 课程考核：考核方式1.课程作业40%（分组）2.课程项目50%（分组）3.考勤10%（个人）；平时成绩（包括考勤、作业成绩或实验成绩）   50 % 考勤占比10%，课程基础考勤3次，缺勤一次扣3分 ，可选考勤3次，每一次加2分。自行申报全勤或接近全勤加3~5分（可自留证据，以备他人质询）。分组作业占比40%，一共四次平时作业，每次作业占比10% ，提交文档或PPT，必要的源代码等。源模型文件；期末考核成绩   50 %， 分组课程项目展示与报告，必须提交文档和PPT，可选提交源代码，源模型文件，讲解视频等 [作业要求](https://chinapku-my.sharepoint.com/:p:/g/personal/2501210682_stu_pku_edu_cn/IQA0mi4rbitASoO6u36dG9vaAVZMoSEl5Ymp-T-NDPVqLK0?e=jceItj) [小组作业](https://chinapku-my.sharepoint.com/:f:/g/personal/2501210682_stu_pku_edu_cn/IgBQ2li0gEvuSYprcEVpihHGAQZFSBfvMb2ibuwEEe7cZG0?e=AzIOie)
+
 
 ## 金融科技理论与实践（考试结课）
 
@@ -92,7 +105,7 @@ Reference Material:
 
   - 复习笔记 [notes](https://chinapku-my.sharepoint.com/:w:/g/personal/2501210682_stu_pku_edu_cn/IQB_nCm9w3sZSo2S0yqGFdguAc3d0MmUT21136DOh-lgaCI?e=MBaOjW)
 
-## 金融理论与实务Ⅰ
+## 金融理论与实务Ⅰ（考试结课）
 
 - 周二下午，黄嵩，3学分
 
@@ -111,6 +124,10 @@ Reference Material:
     - Lecture 6：资产证券化 [download](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/EU5Wa6Vv6V9DnPgHBclLSDcBaQtIZWtAzbHg6vsPojHxdg?e=dp6qkv)
 
     - Lecture 7-8：价值与价格 [download](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/IQAFMnDhSSrWTZVRT3IKK2PeAX9rYUcwRoIAnZwAAEl4pwY?e=9q72Z0)
+
+    - Lecture 9-15：金融理论专题 [download](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/IQCo8KhZlFa_TL9O3IhIf_phAfH8TL82Mz61SzjGY0PiZ74?e=6ikjRw)
+
+- 期末考试：1道封闭金融实务题，1道时政金融分析，2道课内金融理论，1道拔高金融理论
 
 ## 自然辩证法（论文结课）
 
@@ -160,7 +177,6 @@ Reference Material:
 
 - 期末报告：[期权隐含波动率的非参数解法](https://chinapku-my.sharepoint.com/:f:/g/personal/2501210682_stu_pku_edu_cn/IgB_p6kPskH3SqK1p5xkOateAZ0bTNucoDFdqo5s8WDKUKg?e=fSwzAE)
 
-
 ## 算法分析与设计
 
 - 周五上午，郁莲，3学分
@@ -203,7 +219,9 @@ Reference Material:
       - [算法思想与求解描述](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/IQDtpIabSuZ6Tr_U5L6fX1i0AZ5bA787L1o4YtD3bLHrKb0?e=LvhpTn)
       - [代码](https://chinapku-my.sharepoint.com/:u:/g/personal/2501210682_stu_pku_edu_cn/IQAftG0hyimJTqSU-Fh1qM8lAbbBKJnkK6QH1ckMCqr-n38?e=j6qj2o)
 
-  - 大作业：
+  - [大作业](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/IQDlsCqnPGStR5VhKRp0S5hUAQsJGAgAVzExILUTfLHqH0M?e=sfBieR)
+      - [Project1](https://chinapku-my.sharepoint.com/:f:/g/personal/2501210682_stu_pku_edu_cn/IgD-aQRkZ23aRrmUFG8qkql3ARhPj2gIfkr_bdVNYVHlbnU?e=KbZQoJ)
+      - [Project2](https://chinapku-my.sharepoint.com/:f:/g/personal/2501210682_stu_pku_edu_cn/IgAu9QlTe1XAT4L_V5VebOJSAUQfk-wzuFMPgYk7dgxUJjc?e=2rbiGf)
 
         
 ## 金融产品创新（面试、汇报结课）
@@ -253,6 +271,8 @@ Reference Material:
 面试：自我介绍1分钟+老师提问+学生提问。老师提问题目：1.企业估值的方法？2.摊余成本法和成本法的区别？3.合格投资者的标准？4.MM定理？5.一级债基金和二级债基金的区别？
 
 > 任务二：小组汇报：本次汇报即期末作业展示。通过小组充分研讨，设计一款金融产品、或分析一款金融创新案例，要体现出金融产品（业务）的创新性和现实性。每个小组展示时间不超过15分钟，根据PPT的内容和质量、现场展示以及回答问题等情况，综合确定课程成绩（务必把控好汇报时间）。汇报结束后会进行2个问题左右的提问与回答，每个问题回答不超过2分钟。汇报每个小组的同学提前10-15min在等候区等候，每个小组汇报结束后自行离场，并叫等候区下一小组入场。由于各小组汇报时间不同，为了保证公平，所有小组均将最终版本PDF在ddl前提交至北大网盘，不再修改。
+
+  - [汇报展示](https://chinapku-my.sharepoint.com/:p:/g/personal/2501210682_stu_pku_edu_cn/IQBDqmL5_0kUT4ZJr3qgupUIASEhmm1xZrbdjQYeTAUdO_U?e=PVaU9g)
 
 
 ## 职业道德与素养&素质教育与前沿技术
