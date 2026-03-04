@@ -33,7 +33,6 @@ Handout:
 
 [高级宏观经济学](https://mailbnueducn-my.sharepoint.com/:b:/g/personal/sjs_mail_bnu_edu_cn/ESBlERRn6DFCnXxQppRkfMsBnDamd7NxYQs2W1P3ZiGyGA?e=h6U3Z1), Spring 2025
 
-
 Reference Material:
 
 [Text Mining Code](https://mailbnueducn-my.sharepoint.com/:u:/g/personal/sjs_mail_bnu_edu_cn/EWYQk7OOK5RIqwTos659OzwBCOh9ypui1iNU9PrV5-Iamg?e=zt34eh)
@@ -41,6 +40,63 @@ Reference Material:
 [金融理论经典论文](https://chinapku-my.sharepoint.com/:f:/g/personal/2501210682_stu_pku_edu_cn/IgCM1Ct2CUO5QZb6ABorW7HcAZHwjOLPeHze7godRb_ufI8?e=pAKL4W)
 
 # 主干课程
+
+## 算法分析与设计
+
+- 周五上午，郁莲，3学分
+
+- 课件汇总：[download](https://chinapku-my.sharepoint.com/:u:/g/personal/2501210682_stu_pku_edu_cn/EZ3WWZPTfq1DooHl48TMvN4BTSu39PEhlaX24-AxAEd6Ow?e=sC3p4G)
+
+  强化学习 [1](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/EazPraf3cLZFn9bFQDCrHpoB7O6CMQ4ppCwC7tIMoVRJAQ?e=nqia5F) [2](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/ETfYOjoQmKFHgPEZcauIUbgBs3WMrpfFhUY1JUb991270A?e=2uyVcG) [3](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/EfCQE3uNNeVIo7tDP73_lloBJYrjWNMPF8lFgTRbio6zrw?e=ArrXPN) [4](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/IQB3FrGOvPDiRrGZONrqsKrHAcSo2njDN0pIHzzbDa98vus?e=6i3Kkc) [5](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/IQCuGUraHja4ToboQ3koaI72AR9nfg7odk4j-sFAR2vDy38?e=HLhLiC) [6](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/IQCuGUraHja4ToboQ3koaI72AR9nfg7odk4j-sFAR2vDy38?e=kOm7kf) [7](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/IQBfOlsZGZOdSIaIAv9ORSgTAXVp0RodhXI3IqAMyhSNu6c?e=4nfPGo) [8:策略梯度近似、Actor-Critic算法](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/IQD4Yxc4jRobSbmGgYe4sfspAUhzP1UZWTxCE3e7ElP3xcQ?e=efXQHp)
+
+- 教材：[download](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/EUeN4YnIAzNOjgG6bOtAGHkBntS_PEX1LAri2DwXpD-z_A?e=mfAwwZ) 习题解答：[download](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/EUJlJi9iHXVFmPLnCUCdPkABIo9_lc00FRbQIz3P52QH9A?e=cHrIDB)
+
+- 作业：
+
+  - [第一次作业（算法基础）：课本习题1.2、1.14(2)、1.14(3)、1.14(4)、1.17、1.21](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/EbYEUQTQOxJAis1YeqUu4aMBNsYy7c7h5ypL1mhlF9-Y8g?e=GqvHj4)
+
+  - [第二次作业（分治算法）：课本习题2.24、2.28](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/ERbnC7qmc-9Opr_PYHql4PsBPXcdRkmpmJ-y1QXk7fccMw?e=84HWHZ)
+
+  - [第三次作业（动态规划）：课本习题3.7、3.9](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/EZIGchEIjr5CgqEV5sMUMuUBcToHKYjZWglGiicNyTaY5w?e=EexezI)
+    
+  - [强化学习1：贝尔曼方程的程序实现](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/EWOPs7tMM_BLmEg1KMn0zGoBtSNtgbKzckTQPK5o36GH_A?e=1Og0TB)
+      - [算法思想与求解描述](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/EUmVhx-Q6btIm-a7ONvTk-IBwozmnB7rYS6ToWzIjo78XA?e=ohu0bz)
+      - [代码 Code](https://chinapku-my.sharepoint.com/:u:/g/personal/2501210682_stu_pku_edu_cn/EWuYlMIrsJZDqdLmUmNvMlMBlRcBeHxpK7MU0hLe8N7puQ?e=EI7IUl)
+
+  - [强化学习2：贝尔曼最优方程值迭代、策略迭代、截断式策略迭代](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/IQBUtyjSrk1fSagRpuWP_jaXAaOqbiMDzXL6WKcD-wmDCsE?e=cHeeIh)
+      - [算法思想与求解描述](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/IQCYD8C9UYYPSIo20303VGntAQJAo7yfTPEm5wGlGlJzNuc?e=smVEae)
+      - [代码 Code](https://chinapku-my.sharepoint.com/:u:/g/personal/2501210682_stu_pku_edu_cn/IQA4tjphm5DGSrB8FhBpHjLeATYrVRi_LqAIBX_lwnZLAW8?e=CaSqug)
+
+  - [强化学习3：蒙特卡洛模拟与epsilon-贪心策略](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/IQDInyO_qE89QqMYG92DknAYATIOAbeYN1rMLW4SE_tmgEs?e=KoxmjQ)
+      - [算法思想与求解描述](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/IQA18zzuh3_3T4xFwjhCbuqdAVIEs1Jlmkdc41e_K150m7Y?e=oZb7KB)
+      - [代码 Code](https://chinapku-my.sharepoint.com/:u:/g/personal/2501210682_stu_pku_edu_cn/IQBThIwkfWaDSYqdz2CX7PCzAYI8vucbpmJqgIydNcFPckA?e=B0VlqN)
+ 
+  - [强化学习4：随机梯度下降算法](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/IQDwr-H2wJwRQZIXPi0oKHooAYkBlmyu-_6RHkfhsk0FGtM?e=2eSX2j)
+      - [算法思想与求解描述](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/IQCYTR53wCuHTZv5In-FxOeKAQR9Vfalu3pc-7tRw3aBTeE?e=c6gOt2)
+      - [代码 Code](https://chinapku-my.sharepoint.com/:u:/g/personal/2501210682_stu_pku_edu_cn/IQCGeHVlC7xFSq9NBWEjwbtoAZaK1Wc-zX1YOFr9GGbXtgE?e=WZXh3t)
+   
+  - [强化学习5：时序差分算法](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/IQCBKJPXKpikQL38Wf3NCnKWAb7LdlCoE0cVVDdW0nItrqs?e=aGNXgk)
+      - [算法思想与求解描述](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/IQBnG7jCY1oiQI6dZFfWxHy2AWM43tq2HQYxNjfqdA72ZFM?e=lpH2lj)
+      - [代码 Code](https://chinapku-my.sharepoint.com/:f:/g/personal/2501210682_stu_pku_edu_cn/IgCPkxkGoiGNRIFHevq-7sUiAUbvO2AEyJgm1N1gBbAtyg4?e=RPFMmK)
+    
+  - [强化学习6：值函数算法](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/IQDIla6-PdW2RoiVN07S3WVYAZrialIukM8YDdaUDxBdjDQ?e=4UGfyw)
+      - [算法思想与求解描述](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/IQDtpIabSuZ6Tr_U5L6fX1i0AZ5bA787L1o4YtD3bLHrKb0?e=LvhpTn)
+      - [代码 Code](https://chinapku-my.sharepoint.com/:u:/g/personal/2501210682_stu_pku_edu_cn/IQAftG0hyimJTqSU-Fh1qM8lAbbBKJnkK6QH1ckMCqr-n38?e=j6qj2o)
+
+  - [大作业](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/IQDlsCqnPGStR5VhKRp0S5hUAQsJGAgAVzExILUTfLHqH0M?e=sfBieR)
+      - [Project1 Code](https://chinapku-my.sharepoint.com/:f:/g/personal/2501210682_stu_pku_edu_cn/IgD-aQRkZ23aRrmUFG8qkql3ARhPj2gIfkr_bdVNYVHlbnU?e=KbZQoJ)
+      - [Project2 Code](https://chinapku-my.sharepoint.com/:f:/g/personal/2501210682_stu_pku_edu_cn/IgAu9QlTe1XAT4L_V5VebOJSAUQfk-wzuFMPgYk7dgxUJjc?e=2rbiGf)
+
+- 期末考试真题：
+
+    - 题量非常大，6个题，每个题都很硬，需要把课件主要算法例子和作业题例子能够默写才行。考试题是课件和作业题变式，无需做额外新题，建议多默写课件和作业案例。
+    - 第一题。15分，计算时间复杂度并按从小到大排列，要求给出求最坏情况时间复杂度而非界。A算法，将规模为n的原问题划分为规模为n/2和n/4两个子问题，子问题在线性时间内综合为原问题的解。B算法，规模为n的问题每次递归减小为n-1，子问题在n^2 * logn时间内综合为原问题的解。C算法，递归处理原问题，每次规模减小一半，子问题在logn ^ logn时间内综合为原问题的解。
+    - 第二题，16分。算法设计思想8分，伪代码5分，时间复杂度3分。类似作业题。求解k逆序，计算k逆序数，k逆序指的是在排列中，i<j,ti>tj,j-t为k的逆序数。
+    - 第三题，18分。算法设计思想和算法适用条件10分，伪代码5分，时间复杂度3分。最长公共子序列问题，套了实际应用背景，在电商搜索中，用户浏览序列X，页面展示序列Y，序列记录的是店铺上架商品时间的时间戳。要求求最长公共子序列Z且满足Z中按照时间戳严格递增排序。
+    - 第四题，16分，强化学习。（1）简述策略梯度的主要思想，5分。（2）策略梯度值估计可以用哪两种方法表示？简述。（5分）（3）回溯算法、经典动态规划、强化学习算法有何相同和不同？说说你的理解。（6分）
+    - 第五题，17分，算法设计思想和算法正确性的证明9分，伪代码5分，时间复杂度3分。类似作业题。（贪心算法作业题4.4，4.5）。已知平面上紧靠x轴点集(x1,y1),(x2,y2),(x3,y3)...(xn,yn)，用边长为1的正方形去覆盖，最少需要多少个正方形，以及正方形的位置。
+    - 第六题，18分，算法设计思想和算法适用条件10分，伪代码5分，时间复杂度3分。实际应用题，要求使用回溯算法。M*N矩阵，机器人扫地机需要清洗，每个方格有两种可能，一种是需要清洗区域，一种是障碍区域。关键清洗区域是清洗区域的子集。每走一格耗电1，从(x0,y0)出发，总电量E，清洗不耗电。要求优先保证关键清洗区域清洁，否则无效路径；总路径最短；总耗电量最小。算法设计思想中，需要给出解定义、搜索空间、搜索策略、回溯条件，适用条件。（回溯算法作业题5.9、5.11）
+
 
 ## 金融营销学
 
@@ -185,62 +241,6 @@ Reference Material:
 - 参考及教学讲义：[download](https://chinapku-my.sharepoint.com/:f:/g/personal/2501210682_stu_pku_edu_cn/Ek5lwN2vMdFKtcMS1AvpTm4BaDo1Uy6MYWoNKxKGV-V1mw?e=kSvhFq)
 
 - 期末报告：[期权隐含波动率的非参数解法](https://chinapku-my.sharepoint.com/:f:/g/personal/2501210682_stu_pku_edu_cn/IgB_p6kPskH3SqK1p5xkOateAZ0bTNucoDFdqo5s8WDKUKg?e=fSwzAE)
-
-## 算法分析与设计
-
-- 周五上午，郁莲，3学分
-
-- 课件汇总：[download](https://chinapku-my.sharepoint.com/:u:/g/personal/2501210682_stu_pku_edu_cn/EZ3WWZPTfq1DooHl48TMvN4BTSu39PEhlaX24-AxAEd6Ow?e=sC3p4G)
-
-  强化学习 [1](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/EazPraf3cLZFn9bFQDCrHpoB7O6CMQ4ppCwC7tIMoVRJAQ?e=nqia5F) [2](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/ETfYOjoQmKFHgPEZcauIUbgBs3WMrpfFhUY1JUb991270A?e=2uyVcG) [3](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/EfCQE3uNNeVIo7tDP73_lloBJYrjWNMPF8lFgTRbio6zrw?e=ArrXPN) [4](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/IQB3FrGOvPDiRrGZONrqsKrHAcSo2njDN0pIHzzbDa98vus?e=6i3Kkc) [5](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/IQCuGUraHja4ToboQ3koaI72AR9nfg7odk4j-sFAR2vDy38?e=HLhLiC) [6](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/IQCuGUraHja4ToboQ3koaI72AR9nfg7odk4j-sFAR2vDy38?e=kOm7kf) [7](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/IQBfOlsZGZOdSIaIAv9ORSgTAXVp0RodhXI3IqAMyhSNu6c?e=4nfPGo) [8:策略梯度近似、Actor-Critic算法](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/IQD4Yxc4jRobSbmGgYe4sfspAUhzP1UZWTxCE3e7ElP3xcQ?e=efXQHp)
-
-- 教材：[download](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/EUeN4YnIAzNOjgG6bOtAGHkBntS_PEX1LAri2DwXpD-z_A?e=mfAwwZ) 习题解答：[download](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/EUJlJi9iHXVFmPLnCUCdPkABIo9_lc00FRbQIz3P52QH9A?e=cHrIDB)
-
-- 作业：
-
-  - [第一次作业（算法基础）：课本习题1.2、1.14(2)、1.14(3)、1.14(4)、1.17、1.21](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/EbYEUQTQOxJAis1YeqUu4aMBNsYy7c7h5ypL1mhlF9-Y8g?e=GqvHj4)
-
-  - [第二次作业（分治算法）：课本习题2.24、2.28](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/ERbnC7qmc-9Opr_PYHql4PsBPXcdRkmpmJ-y1QXk7fccMw?e=84HWHZ)
-
-  - [第三次作业（动态规划）：课本习题3.7、3.9](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/EZIGchEIjr5CgqEV5sMUMuUBcToHKYjZWglGiicNyTaY5w?e=EexezI)
-    
-  - [强化学习1：贝尔曼方程的程序实现](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/EWOPs7tMM_BLmEg1KMn0zGoBtSNtgbKzckTQPK5o36GH_A?e=1Og0TB)
-      - [算法思想与求解描述](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/EUmVhx-Q6btIm-a7ONvTk-IBwozmnB7rYS6ToWzIjo78XA?e=ohu0bz)
-      - [代码](https://chinapku-my.sharepoint.com/:u:/g/personal/2501210682_stu_pku_edu_cn/EWuYlMIrsJZDqdLmUmNvMlMBlRcBeHxpK7MU0hLe8N7puQ?e=EI7IUl)
-
-  - [强化学习2：贝尔曼最优方程值迭代、策略迭代、截断式策略迭代](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/IQBUtyjSrk1fSagRpuWP_jaXAaOqbiMDzXL6WKcD-wmDCsE?e=cHeeIh)
-      - [算法思想与求解描述](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/IQCYD8C9UYYPSIo20303VGntAQJAo7yfTPEm5wGlGlJzNuc?e=smVEae)
-      - [代码](https://chinapku-my.sharepoint.com/:u:/g/personal/2501210682_stu_pku_edu_cn/IQA4tjphm5DGSrB8FhBpHjLeATYrVRi_LqAIBX_lwnZLAW8?e=CaSqug)
-
-  - [强化学习3：蒙特卡洛模拟与epsilon-贪心策略](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/IQDInyO_qE89QqMYG92DknAYATIOAbeYN1rMLW4SE_tmgEs?e=KoxmjQ)
-      - [算法思想与求解描述](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/IQA18zzuh3_3T4xFwjhCbuqdAVIEs1Jlmkdc41e_K150m7Y?e=oZb7KB)
-      - [代码](https://chinapku-my.sharepoint.com/:u:/g/personal/2501210682_stu_pku_edu_cn/IQBThIwkfWaDSYqdz2CX7PCzAYI8vucbpmJqgIydNcFPckA?e=B0VlqN)
- 
-  - [强化学习4：随机梯度下降算法](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/IQDwr-H2wJwRQZIXPi0oKHooAYkBlmyu-_6RHkfhsk0FGtM?e=2eSX2j)
-      - [算法思想与求解描述](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/IQCYTR53wCuHTZv5In-FxOeKAQR9Vfalu3pc-7tRw3aBTeE?e=c6gOt2)
-      - [代码](https://chinapku-my.sharepoint.com/:u:/g/personal/2501210682_stu_pku_edu_cn/IQCGeHVlC7xFSq9NBWEjwbtoAZaK1Wc-zX1YOFr9GGbXtgE?e=WZXh3t)
-   
-  - [强化学习5：时序差分算法](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/IQCBKJPXKpikQL38Wf3NCnKWAb7LdlCoE0cVVDdW0nItrqs?e=aGNXgk)
-      - [算法思想与求解描述](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/IQBnG7jCY1oiQI6dZFfWxHy2AWM43tq2HQYxNjfqdA72ZFM?e=lpH2lj)
-      - [代码](https://chinapku-my.sharepoint.com/:f:/g/personal/2501210682_stu_pku_edu_cn/IgCPkxkGoiGNRIFHevq-7sUiAUbvO2AEyJgm1N1gBbAtyg4?e=RPFMmK)
-    
-  - [强化学习6：值函数算法](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/IQDIla6-PdW2RoiVN07S3WVYAZrialIukM8YDdaUDxBdjDQ?e=4UGfyw)
-      - [算法思想与求解描述](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/IQDtpIabSuZ6Tr_U5L6fX1i0AZ5bA787L1o4YtD3bLHrKb0?e=LvhpTn)
-      - [代码](https://chinapku-my.sharepoint.com/:u:/g/personal/2501210682_stu_pku_edu_cn/IQAftG0hyimJTqSU-Fh1qM8lAbbBKJnkK6QH1ckMCqr-n38?e=j6qj2o)
-
-  - [大作业](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/IQDlsCqnPGStR5VhKRp0S5hUAQsJGAgAVzExILUTfLHqH0M?e=sfBieR)
-      - [Project1](https://chinapku-my.sharepoint.com/:f:/g/personal/2501210682_stu_pku_edu_cn/IgD-aQRkZ23aRrmUFG8qkql3ARhPj2gIfkr_bdVNYVHlbnU?e=KbZQoJ)
-      - [Project2](https://chinapku-my.sharepoint.com/:f:/g/personal/2501210682_stu_pku_edu_cn/IgAu9QlTe1XAT4L_V5VebOJSAUQfk-wzuFMPgYk7dgxUJjc?e=2rbiGf)
-
-- 期末考试真题：
-
-    - 题量非常大，6个题，每个题都很硬，需要把课件主要算法例子和作业题例子能够默写才行。考试题是课件和作业题变式，无需做额外新题，建议多默写课件和作业案例。
-    - 第一题。15分，计算时间复杂度并按从小到大排列，要求给出求最坏情况时间复杂度而非界。A算法，将规模为n的原问题划分为规模为n/2和n/4两个子问题，子问题在线性时间内综合为原问题的解。B算法，规模为n的问题每次递归减小为n-1，子问题在n^2 * logn时间内综合为原问题的解。C算法，递归处理原问题，每次规模减小一半，子问题在logn ^ logn时间内综合为原问题的解。
-    - 第二题，16分。算法设计思想8分，伪代码5分，时间复杂度3分。类似作业题。求解k逆序，计算k逆序数，k逆序指的是在排列中，i<j,ti>tj,j-t为k的逆序数。
-    - 第三题，18分。算法设计思想和算法适用条件10分，伪代码5分，时间复杂度3分。最长公共子序列问题，套了实际应用背景，在电商搜索中，用户浏览序列X，页面展示序列Y，序列记录的是店铺上架商品时间的时间戳。要求求最长公共子序列Z且满足Z中按照时间戳严格递增排序。
-    - 第四题，16分，强化学习。（1）简述策略梯度的主要思想，5分。（2）策略梯度值估计可以用哪两种方法表示？简述。（5分）（3）回溯算法、经典动态规划、强化学习算法有何相同和不同？说说你的理解。（6分）
-    - 第五题，17分，算法设计思想和算法正确性的证明9分，伪代码5分，时间复杂度3分。类似作业题。（贪心算法作业题4.4，4.5）。已知平面上紧靠x轴点集(x1,y1),(x2,y2),(x3,y3)...(xn,yn)，用边长为1的正方形去覆盖，最少需要多少个正方形，以及正方形的位置。
-    - 第六题，18分，算法设计思想和算法适用条件10分，伪代码5分，时间复杂度3分。实际应用题，要求使用回溯算法。M*N矩阵，机器人扫地机需要清洗，每个方格有两种可能，一种是需要清洗区域，一种是障碍区域。关键清洗区域是清洗区域的子集。每走一格耗电1，从(x0,y0)出发，总电量E，清洗不耗电。要求优先保证关键清洗区域清洁，否则无效路径；总路径最短；总耗电量最小。算法设计思想中，需要给出解定义、搜索空间、搜索策略、回溯条件，适用条件。（回溯算法作业题5.9、5.11）
 
         
 ## 金融产品创新（面试、汇报结课）
