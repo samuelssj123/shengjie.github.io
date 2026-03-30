@@ -13,6 +13,8 @@ permalink: /teaching/PKUstudy
 
 Videos: 
 
+[Advanced Asset Pricing](https://www.bilibili.com/video/BV1Bi6pBtEEZ/), Spring 2026
+
 [Advanced Macroeconomics 高级宏观经济学](https://www.bilibili.com/video/BV1vAtgzuE82/) , Spring 2025 
 
 [Advanced Microeconomics 高级微观经济学](https://www.bilibili.com/video/BV1SZsqzvEZD/) , Fall 2025 
@@ -39,7 +41,7 @@ Reference Material:
 
 [金融理论经典论文](https://chinapku-my.sharepoint.com/:f:/g/personal/2501210682_stu_pku_edu_cn/IgCM1Ct2CUO5QZb6ABorW7HcAZHwjOLPeHze7godRb_ufI8?e=pAKL4W)
 
-# 主干课程
+# 主干课程(Fall 2025)
 
 ## 算法分析与设计
 
@@ -306,6 +308,15 @@ Reference Material:
 > 工程伦理-课堂展示 [download](https://chinapku-my.sharepoint.com/:p:/g/personal/2501210682_stu_pku_edu_cn/IQCBVYc-g9X8TITEOVTrTAMoAe05u0icLRciugEPb8aDVQs?e=DhobYU)
 
 > 素质教育-课程报告主题2: 选取自我成长过程中经历的一个或多个实践活动，从背景（时间、地点、人物、事件等）、问题、选择、结果、反思等展开叙述。 阐述其对个人成长影响（字数在1500字左右）
+
+
+# 主干课程(2026 Spring)
+
+## 数字经济
+
+- 课程讲义：[PPT和板书](https://chinapku-my.sharepoint.com/:f:/g/personal/2501210682_stu_pku_edu_cn/IgCm7tvu-Z_QTY27a4etKMP0AWICBE4Dzyqq87oIMuk7jhQ?e=tZcU3J)
+
+- 课程任务：课程报告（小组）和课程论文（个人）
 
 # 冯科老师组会笔记
 
