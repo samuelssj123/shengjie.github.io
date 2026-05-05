@@ -9,11 +9,27 @@ permalink: /teaching/PKUstudy
 学习课程：面向对象技术、金融科技理论与实践、金融理论与实务Ⅰ、新中特、自然辩证法、面向金融R语言、算法分析与设计、金融产品创新、综合素质。自学与讲授课程：高级微观经济学、高级宏观经济学、高级计量经济学、金融理论与实务、数理基础与算法。冯科老师组会。
 
 
-# 自学课程
+# 讲授课程
 
 Videos: 
 
-[Advanced Asset Pricing](https://www.bilibili.com/video/BV1Bi6pBtEEZ/), Spring 2026
+- Semester 2
+
+[Advanced Asset Pricing 高级资产定价](https://www.bilibili.com/video/BV1Bi6pBtEEZ/), Spring 2026
+
+[Advanced Corporate Finance 高级公司金融](https://www.bilibili.com/cheese/play/ss210484769), Spring 2026
+
+[Advanced Microeconomics 高级微观经济学](https://www.bilibili.com/cheese/play/ss403289235), Spring 2026
+
+[Real Analysis 实变函数](https://www.bilibili.com/video/BV1bHQgBBEev/?share_source=copy_web&vd_source=e8fa1855f6f86b783664c47a8acea625), Spring 2026
+
+[Machine Learning 机器学习](https://www.bilibili.com/video/BV1HRDZBbE61/?share_source=copy_web&vd_source=e8fa1855f6f86b783664c47a8acea625), Spring 2026
+
+[Complex Variables and Methods of Mathematical Physics (Undergraduate) 复变函数与数学物理方法](https://www.bilibili.com/video/BV1chcrzTE55/?share_source=copy_web&vd_source=e8fa1855f6f86b783664c47a8acea625), Spring 2026
+
+[Econometrics (Undergraduate) 计量经济学（本科）](https://www.bilibili.com/video/BV1yuDWBwEcB/?share_source=copy_web&vd_source=e8fa1855f6f86b783664c47a8acea625), Spring 2026
+
+- Semester 1
 
 [Advanced Macroeconomics 高级宏观经济学](https://www.bilibili.com/video/BV1vAtgzuE82/) , Spring 2025 
 
