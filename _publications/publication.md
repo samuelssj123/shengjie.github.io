@@ -27,6 +27,8 @@ author_profile: true
    *Cognitive Processing Differences in Sensational Headlines: Regulation of Intuitive and Rational Thinking Based on Eye-Tracking，Qi Wang, Yuxin Pei, Zhihan Xie, **Shengjie Song**, Jinxuan Li, Jia jue Han, Xiaoyu Zhou, Ye Wu, Xiaoke Xu， (10/2025)* <br>
    *High Proportion of Misinformation Exposure Reduces Human but Not GPT Truth Discernment，Qi Wang, Yuxin Pei, Zhihan Xie, **Shengjie Song**, Jinxuan Li, Jiajue Han, Xiaoyu Zhou, Ye Wu, Xiaoke Xu， (10/2025)*
 
+-  Participant, Golden Exam Paper Senior High School Teaching Material Proposition, 2025-2026
+
 -  Project Leader, Guangdong Science and Technology Innovation Strategy Special Funds (‘Climbing Program’) (广东省攀登计划, Project NO. pdjh2024b424), 2024-2026 
 
 -  Project Leader, Bay Area Top Innovative Youth Cultivation Fund Project (湾区拔尖创新青年培育基金), Awarded First Prize, 2023-2024 
