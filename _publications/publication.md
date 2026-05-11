@@ -17,7 +17,7 @@ author_profile: true
 
 **Research Projects and Conference**
 
--  The 2nd Wensi International Youth Forum & Business Undergraduate and Postgraduate Academic Forum(中国人民大学商学院第二届 “文思国际青年论坛” 暨商科本研学术论坛), School of Business, Renmin University of China, May 2026
+-  Presenter, *Outstanding Paper*, The 2nd Wensi International Youth Forum & Business Undergraduate and Postgraduate Academic Forum(中国人民大学商学院第二届 “文思国际青年论坛” 暨商科本研学术论坛), School of Business, Renmin University of China, May 2026
 
 -  Academic Forum of "Sagacious Mind & Steadfast Practice"(清华大学社会科学学院『斋明笃行』学术论坛), School of Social Sciences, Tsinghua University, May 2026
 
