@@ -57,6 +57,55 @@ Reference Material:
 
 [金融理论经典论文](https://chinapku-my.sharepoint.com/:f:/g/personal/2501210682_stu_pku_edu_cn/IgCM1Ct2CUO5QZb6ABorW7HcAZHwjOLPeHze7godRb_ufI8?e=pAKL4W)
 
+# 主干课程(2026 Spring)
+
+## 数字经济
+
+- 周一下午，倪宣明，1学分
+
+- 课程讲义：[PPT和板书](https://chinapku-my.sharepoint.com/:f:/g/personal/2501210682_stu_pku_edu_cn/IgCm7tvu-Z_QTY27a4etKMP0AWICBE4Dzyqq87oIMuk7jhQ?e=tZcU3J)
+
+- 课程任务：课程报告（小组）和课程论文（个人）
+
+## 机器学习
+
+- 周五上午，刘伟平，2学分
+
+- 作业和解答汇总： [download](https://chinapku-my.sharepoint.com/:f:/g/personal/2501210682_stu_pku_edu_cn/IgCf6wUkWRT8TK1JtrA2snJEAXnk5PbEx9M44mhA6oHcIbc?e=k8slb8)
+
+- 课件：[download](https://chinapku-my.sharepoint.com/:f:/g/personal/2501210682_stu_pku_edu_cn/IgBZFNiJl0VdTqLW6hxCefp4ASzz2bdVlKKHfUBVldFg3xg?e=bo14Ua)
+
+## 论文写作与指导（软件工程）
+
+- 周五下午，双周，1学分
+| 课次   | 授课老师 | 授课日期 | 备注                                   |
+|--------|----------|----------|----------------------------------------|
+| 第一次 | 沈晴霓   | 3月27日  | 时间：周五下午 14:00-17:00<br>地点：大兴校区教学楼3203 |
+| 第二次 | 马萌     | 4月10日  |                                        |
+| 第三次 | 叶蔚     | 4月24日  |                                        |
+| 第四次 | 李伟平   | 5月08日  |                                        |
+| 第五次 | 李聪     | 5月22日  |                                        |
+
+- 本课程结课需要各组提交考查报告，要求如下：1、报告内容（Word形式），包括：1）论文概述：介绍论文主要工作和贡献点。2）修改过程：修订时间+修订人员+参考了老师的什么观点+具体修订内容+修订理由说明等。3）本课程学习收获：毕业论文写作和小论文写作规范性、完整性和创新性等方面写作收获等。3）附件：论文初稿和最终修改后版本。
+
+- 课程实践与考查报告安排
+
+> 要求：以科研实践工作为基础，撰写论文并进行修改
+- 每堂课后，每组同学进行一次论文迭代（主要体现修改过程）
+- 根据选课97人，每6人一个小组，共分成16组（有一个组7人）
+- 后四堂课每次安排最后一小时现场指导小组讨论，每次指导4个组。
+
+> 小组讨论和指导形式
+- 每组自选1篇论文选题，正式的构思/准备/写作情况，集体讨论分析
+- 其他成员各自口头汇报自己的论文情况，集体讨论分析
+- 教师现场给予指导意见，形成论文的下一步改进方案
+
+> 考查报告
+- 课程完成后，大作业提交构思草案、初稿、每一次修改稿和修改说明，老师考察材料情况并给出评分
+- 每位老师初评现场指导的小组，所有老师共同讨论给出最后评分
+
+- 大作业报告：[download](https://chinapku-my.sharepoint.com/:f:/g/personal/2501210682_stu_pku_edu_cn/IgAxl8jmf8PjSpRz2Zwh2DNFAXLufoLmnpKAP67u2ZdL_FE?e=SxtcA9)
+
 # 主干课程(Fall 2025)
 
 ## 算法分析与设计
@@ -326,13 +375,6 @@ Reference Material:
 > 素质教育-课程报告主题2: 选取自我成长过程中经历的一个或多个实践活动，从背景（时间、地点、人物、事件等）、问题、选择、结果、反思等展开叙述。 阐述其对个人成长影响（字数在1500字左右）
 
 
-# 主干课程(2026 Spring)
-
-## 数字经济
-
-- 课程讲义：[PPT和板书](https://chinapku-my.sharepoint.com/:f:/g/personal/2501210682_stu_pku_edu_cn/IgCm7tvu-Z_QTY27a4etKMP0AWICBE4Dzyqq87oIMuk7jhQ?e=tZcU3J)
-
-- 课程任务：课程报告（小组）和课程论文（个人）
 
 # 冯科老师组会笔记
 
