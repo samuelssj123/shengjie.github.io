@@ -29,6 +29,12 @@ Videos:
 
 [Econometrics (Undergraduate) 计量经济学（本科）](https://www.bilibili.com/video/BV1yuDWBwEcB/?share_source=copy_web&vd_source=e8fa1855f6f86b783664c47a8acea625), Spring 2026
 
+[高等数学](https://www.bilibili.com/video/BV1LuLp68EJF/)
+
+[线性代数]()
+
+[概率论与数理统计]()
+
 - Semester 1
 
 [Advanced Macroeconomics 高级宏观经济学](https://www.bilibili.com/video/BV1vAtgzuE82/) , Spring 2025 
@@ -57,6 +63,8 @@ Reference Material:
 
 [金融理论经典论文](https://chinapku-my.sharepoint.com/:f:/g/personal/2501210682_stu_pku_edu_cn/IgCM1Ct2CUO5QZb6ABorW7HcAZHwjOLPeHze7godRb_ufI8?e=pAKL4W)
 
+
+
 # 主干课程(2026 Spring)
 
 ## 数字经济
@@ -69,6 +77,7 @@ Reference Material:
 
 > 考核方式:平时成绩（30%）：出勤10%，作业20%. 作业：每个小组完成一篇数字化转型的案例，PPT或pdf与课程论文一起提交. 期末成绩（70%）：课程论文70%(围绕课程某一相关专题，写一篇与数字经济相关的论文，题目不限;字数：3000字左右，不超过4000，格式为pdf
 
+- [课程报告](https://chinapku-my.sharepoint.com/:p:/g/personal/2501210682_stu_pku_edu_cn/IQC67RtO_VM4QrAJoNcVVSPtAbToLRBre7k_rORKcpjZ5KA?e=ezpYJM) [课程论文](https://chinapku-my.sharepoint.com/:b:/g/personal/2501210682_stu_pku_edu_cn/IQCkcZSRJKmGTJ44fGGPzhxcAThPBBDKL-iUYyDs2G6AGgU?e=mv1f5a)
 
 ## 机器学习
 
@@ -355,7 +364,7 @@ Reference Material:
 
 ## 职业道德与素养&素质教育与前沿技术
 
-- 周六上午，3学分
+- 周六上午，2+1学分
 
 > 工程伦理-课程报告主题1：通过辩证思考进行分析，体现工程师选取某一工程伦理案例作为研究对象的职业责任感（字数在1500字左右）。
 > 素质教育课程包括：“素质教育与前沿技术(2学分)”、“职业道德与素养（1学分）”。内容涵盖人文素养、职业素养以及前沿技术三个模块，以及读书分享、志愿者活动、比赛竞赛等实践活动。注重学思结合、知行统一，增强学生勇于探索的创新精神、善于解决问题的实践能力。创新创业教育方面，注重让学生“敢闯会创”，在亲身参与中增强创新精神、创造意识和创业能力。注重教育和引导学生弘扬劳动精神，将“读万卷书”与“行万里路”相结合，扎根中国大地了解国情民情，在实践中增长智慧才干，在艰苦奋斗中锤炼意志品质。年度一共交课程报告2篇，2025年秋季学期职业道德与素养课程提交课程报告主题1内容如下：报告内容：参考课堂展示，选取某一工程伦理案例作为研究对象，通过辩证思考展开分析，体现工程师的职业责任感。报告需包含前言、工程伦理案例介绍、工程伦理问题分析、工程伦理问题应对、工程师的伦理责任五部分，字数控制在1500字左右。​
@@ -366,7 +375,13 @@ Reference Material:
 
 > 素质教育-课程报告主题2: 选取自我成长过程中经历的一个或多个实践活动，从背景（时间、地点、人物、事件等）、问题、选择、结果、反思等展开叙述。 阐述其对个人成长影响（字数在1500字左右）
 
+# 跨学期课程
 
+- 综合实践，3学分
+
+- 学科专著研读，2学分
+
+- 研究生一外英语，2学分
 
 # 冯科老师组会笔记
 
