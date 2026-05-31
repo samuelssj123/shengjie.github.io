@@ -35,8 +35,22 @@ author_profile: true
 
 -  Project Leader, Bay Area Top Innovative Youth Cultivation Fund Project (湾区拔尖创新青年培育基金, the 2nd), Awarded Third Prize, 2024-2025 <br>
   *Kong Yiji's Long Gown: Empirical Insights into the Impact of Educational Mismatch on Labor Force，**Shengjie Song**,  (4/2025). Available at SSRN: [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5207978)*
+
+- Project Member, International Collaborative Research Project on Russian Toll Road Practices, Beijing Normal University × Russian Presidential Academy of National Economy and Public Administration (RANEPA), Russia, May 2024. [Final Report](/file/Sber_report.pdf)
   
 -  Project Leader, "Jingshi Cup" Technological Innovation Competition (北京师范大学第三十二届京师杯项目), 2024 <br>
    *Is social capital the secret weapon of happiness?，**Shengjie Song**, (10/2024). Available at SSRN: [link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4994129)*
   
+- Team Member, [International Genetically Engineered Machine Competition (iGEM)](https://2022.igem.wiki/bnuzh-china/), International Competition, Oct. 2022.
+  *Project: Interdisciplinary Research at the Intersection of Biological and Social Sciences.*
   
+- Field Research Interviewer, [China Health and Retirement Longitudinal Study (CHARLS)](https://charls.pku.edu.cn/en/), Peking University, Shandong & Guangdong, China, Spring 2022 – Oct. 2022. [Verification](https://charls.pku.edu.cn/info/1131/1802.htm)
+  
+# Professional Experience
+
+- Research Intern, Data Elements Group, Research Institute of [GRGBanking Equipment Co., Ltd.](https://global.grgbanking.com/en/), Guangzhou, China, Mar. 2025 – Jul. 2025. Project: Privacy Computing Platform for Data Spaces, Federated Learning, Healthcare Data Governance, and Data Valuation. 
+
+- Macroeconomic Research Intern, [Topsperity Securities](https://www.tebon.com.cn/main/index.html), Shenzhen, China, Aug. 2023 – Nov. 2023. Project: Overseas Macroeconomic Research on the U.S., Japan, and Europe. 
+
+- Author, [CodePath & Academic Monograph Project](https://samuelssj123.github.io/#page-top), Online, 2025 – Present. Project: CodePath, Algorithm Learning Resources, and *Principles and Methods of Machine Learning in the Digital Economy*. 
+
