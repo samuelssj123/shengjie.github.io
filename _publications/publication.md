@@ -44,7 +44,7 @@ author_profile: true
 - Team Member, [International Genetically Engineered Machine Competition (iGEM)](https://2022.igem.wiki/bnuzh-china/), International Competition, Oct. 2022.
   *Project: Interdisciplinary Research at the Intersection of Biological and Social Sciences.*
   
-- Field Research Interviewer, [China Health and Retirement Longitudinal Study (CHARLS)](https://charls.pku.edu.cn/en/), Peking University, Shandong & Guangdong, China, Spring 2022 – Oct. 2022. [Verification](https://charls.pku.edu.cn/info/1131/1802.htm)
+- Field Research Interviewer, China Health and Retirement Longitudinal Study (CHARLS), Peking University, Shandong & Guangdong, China, Spring 2022 – Oct. 2022. [Verification](https://charls.pku.edu.cn/info/1131/1802.htm)
   
 **Professional Experience**
 
