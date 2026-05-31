@@ -46,7 +46,7 @@ author_profile: true
   
 - Field Research Interviewer, [China Health and Retirement Longitudinal Study (CHARLS)](https://charls.pku.edu.cn/en/), Peking University, Shandong & Guangdong, China, Spring 2022 – Oct. 2022. [Verification](https://charls.pku.edu.cn/info/1131/1802.htm)
   
-# Professional Experience
+**Professional Experience**
 
 - Research Intern, Data Elements Group, Research Institute of [GRGBanking Equipment Co., Ltd.](https://global.grgbanking.com/en/), Guangzhou, China, Mar. 2025 – Jul. 2025. Project: Privacy Computing Platform for Data Spaces, Federated Learning, Healthcare Data Governance, and Data Valuation. 
 
