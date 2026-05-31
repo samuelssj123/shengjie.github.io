@@ -13,7 +13,7 @@ I am a Master's student at the **School of Software & Microelectronics**, **Peki
 # **📊 Research Interests**  
 My interdisciplinary research focuses on:  
 - **Empirical Asset Pricing** and **Empirical Finance**  
-- **Education Economics**, **Applied Society Science**, and **Applied Machine Learning**  
+- **Applied Society Science** and **Applied Machine Learning**  
 
 
 # **🎓 Academic Experience**  
@@ -30,10 +30,5 @@ My interdisciplinary research focuses on:
 **Research Assistant | Finance Technology Thrust**  
 *September 2024 – April 2025*   
 
-# **🔗 Professional Links**  
-- [Research](https://samuelssj123.github.io/shengjie.github.io//publications/) ➔ Explore *Representative Papers and Research Projects*.  
-- [Professional Projects](https://samuelssj123.github.io/shengjie.github.io//talks/) ➔ Explore *Professional Internships and Social Practice*.  
-- [Teaching](https://samuelssj123.github.io/shengjie.github.io//teaching/) ➔ Explore *Curricula*.  
-- [Experience](https://samuelssj123.github.io/shengjie.github.io//cv/) ➔ Explore *Diversity*. 
 
 
